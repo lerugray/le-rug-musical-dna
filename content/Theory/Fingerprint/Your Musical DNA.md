@@ -222,13 +222,13 @@ Running the same analysis pipeline on Ray's stated influences produced a precise
 | Melodic zigzag | Shared (BtS + Beefheart) | All three have ~43-46% ascending |
 | Non-resolution | Captain Beefheart | 0% dominant 7ths, 0% blues voicings |
 
-The defining trait — the sus2/sus4 ambiguity — comes from Beefheart, not from The Fall (0% suspended chords) or Built to Spill (sus2 only, no sus4). See [[Theory/Influence Fingerprint Comparison]] for the full analysis.
+The defining trait — the sus2/sus4 ambiguity — comes from Beefheart, not from The Fall (0% suspended chords) or Built to Spill (sus2 only, no sus4). See [[Theory/Influences/Influence Fingerprint Comparison]] for the full analysis.
 
 Separately, comparisons with music Ray gravitates toward — but didn't influence him — revealed that musical similarity operates on two distinct levels:
 - **Compositional** (what notes you play) — Takahashi/YMO shares 56% power chords (vs Ray's 57%) and 2/3 key centers
 - **Textural** (how the music sits in the room) — Yugowave shares rhythmic regularity and bass-heavy register
 
-The most striking discovery: **Dead or Alive** is the closest structural match to Le Rug of any artist analyzed — identical tempo (199 vs 198 BPM), identical melodic direction (45/45/10), identical bass register (59%). A Hi-NRG synth-pop band from Liverpool. See [[Theory/Dead or Alive - The Hidden Match]] and [[Theory/The Full Comparison Map]] for the complete 8-group analysis.
+The most striking discovery: **Dead or Alive** is the closest structural match to Le Rug of any artist analyzed — identical tempo (199 vs 198 BPM), identical melodic direction (45/45/10), identical bass register (59%). A Hi-NRG synth-pop band from Liverpool. See [[Theory/Influences/Dead or Alive - The Hidden Match]] and [[Theory/Influences/The Full Comparison Map]] for the complete 8-group analysis.
 
 ---
 
@@ -236,10 +236,10 @@ The most striking discovery: **Dead or Alive** is the closest structural match t
 
 The core fingerprint has been tested from multiple angles:
 
-- **[[Theory/Producer Fingerprint & Other Deep Dives]]** — Three producers (DeNicola, Jesse Harris, Scott Andrews) modulate but don't change the fingerprint. DeNicola brought out the most harmonic richness (24% major triads); self-produced ABH is paradoxically the most mature. Vocals vs instrumentals: nearly identical fingerprints.
-- **[[Theory/Era Fingerprints]]** — Power chord % is inversely correlated with density (sparse eras are more power-chord-heavy, dense eras have more harmonic variety). Bass register and melodic direction are constant across every era.
-- **[[Theory/Deep Dive - Song Evolution & Comparisons]]** — The Grim Reefer was completely rewritten between 2015 and 2020, migrating from outlier keys (D#/F#/A#) to home keys (C/E/A). C.R.E.E.P. and SRF share 5 tracks but all are different recordings.
-- **[[Theory/Drum Analysis]]** — Drum structure evolved orthogonally: double-drum eras (loose, groovy, snare-heavy) vs solo eras (tight, kick-heavy, complex). Note: pitched-instrument analysis in this document doesn't capture drum patterns.
-- **[[Theory/The Full Comparison Map]]** — 8 artist groups analyzed. Each genre Ray gravitates toward shares a different subset of his structural traits. The complete Le Rug fingerprint exists in no other artist, but fragments of it exist in everything from Beefheart to Italo disco to Japanese electronic pop.
+- **[[Theory/Deep Dives/Producer Fingerprint & Other Deep Dives]]** — Three producers (DeNicola, Jesse Harris, Scott Andrews) modulate but don't change the fingerprint. DeNicola brought out the most harmonic richness (24% major triads); self-produced ABH is paradoxically the most mature. Vocals vs instrumentals: nearly identical fingerprints.
+- **[[Theory/Deep Dives/Era Fingerprints]]** — Power chord % is inversely correlated with density (sparse eras are more power-chord-heavy, dense eras have more harmonic variety). Bass register and melodic direction are constant across every era.
+- **[[Theory/Deep Dives/Deep Dive - Song Evolution & Comparisons]]** — The Grim Reefer was completely rewritten between 2015 and 2020, migrating from outlier keys (D#/F#/A#) to home keys (C/E/A). C.R.E.E.P. and SRF share 5 tracks but all are different recordings.
+- **[[Theory/Deep Dives/Drum Analysis]]** — Drum structure evolved orthogonally: double-drum eras (loose, groovy, snare-heavy) vs solo eras (tight, kick-heavy, complex). Note: pitched-instrument analysis in this document doesn't capture drum patterns.
+- **[[Theory/Influences/The Full Comparison Map]]** — 8 artist groups analyzed. Each genre Ray gravitates toward shares a different subset of his structural traits. The complete Le Rug fingerprint exists in no other artist, but fragments of it exist in everything from Beefheart to Italo disco to Japanese electronic pop.
 
 The complete picture: Ray's musical DNA is singular and stable across collaborators, producers, eras, and instruments. When elements varied (drum feel, harmonic density, key centers), the core identity remained constant. And the music he gravitates toward as a listener maps precisely to the structural properties of his own output.

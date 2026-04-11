@@ -8,7 +8,7 @@ description: "The complete musical fingerprint of Le Rug (Ray Weiss) — 407 tra
 ## The Project
 An AI-assisted deep analysis of Ray Weiss's complete musical output — Le Rug, Butter the Children, Living Serious, Red Dwarf, Defenestrator, solo releases, and unreleased instrumentals. 407 tracks analyzed across ~15 releases (2007-2020), reverse-engineering the instincts of an ear-trained musician into actual music theory.
 
-> **Want to play music like Le Rug?** Start with the [[Theory/The Ray Weiss Style Guide|Style Guide]] — a practical recipe for writing in this style. Then explore the [[Theory/Chord Vocabulary|Chord Vocabulary]] to see the exact chords used across 407 tracks.
+> **Want to play music like Le Rug?** Start with the [[Theory/Fingerprint/The Ray Weiss Style Guide|Style Guide]] — a practical recipe for writing in this style. Then explore the [[Theory/Fingerprint/Chord Vocabulary|Chord Vocabulary]] to see the exact chords used across 407 tracks.
 
 ## Quick Stats
 ![Chart](https://lerugray.github.io/le-rug-musical-dna/images/00---Home.png)
@@ -56,21 +56,26 @@ An AI-assisted deep analysis of Ray Weiss's complete musical output — Le Rug, 
 - [[Albums/Flabby Wings]] (solo instrumentals)
 
 ### Theory & Analysis
-- [[Theory/Your Musical DNA]] — the core fingerprint across everything
-- [[Theory/Chord Vocabulary]] — what you actually play (power chords, sus chords, and beyond)
-- [[Theory/Evolution Over Time]] — how your writing changed 2007-2020
-- [[Theory/Instrumental Analysis]] — the lost instrumentals from SoundCloud
-- [[Theory/The Ray Weiss Style Guide]] — a practical guide to writing like you
-- [[Theory/Suggested Listening]] — artists who share your DNA
-- [[Theory/Drum Analysis]] — separated drum stems reveal double-drum vs. solo patterns
 
-- [[Theory/Deep Dive - Song Evolution & Comparisons]] — Grim Reefer evolution, CREEP vs SRF, outlier analysis
-- [[Theory/Era Fingerprints]] — per-era comparison with radar charts
-- [[Theory/Influence Fingerprint Comparison]] — The Fall vs Built to Spill vs Beefheart vs Le Rug
-- [[Theory/Producer Fingerprint & Other Deep Dives]] — producer comparison, vocals vs instrumentals, Nuke Whales rankings
-- [[Theory/Yugowave Parallel]] — parallel convergence with Yugoslav new wave (texture match, not influence)
-- [[Theory/Dead or Alive - The Hidden Match]] — closest structural match in the entire comparison (198 vs 199 BPM, identical melodic direction)
-- [[Theory/The Full Comparison Map]] — all 8 groups compared: Fall, BtS, Beefheart, DoA, Italo, YMO, Yugowave — each matches on different traits
+**The Fingerprint:**
+- [[Theory/Fingerprint/Your Musical DNA]] — the core fingerprint across everything
+- [[Theory/Fingerprint/Chord Vocabulary]] — what you actually play (power chords, sus chords, and beyond)
+- [[Theory/Fingerprint/The Ray Weiss Style Guide]] — a practical guide to writing like you
+- [[Theory/Fingerprint/Suggested Listening]] — artists who share your DNA
+
+**Influences & Comparisons:**
+- [[Theory/Influences/Influence Fingerprint Comparison]] — The Fall vs Built to Spill vs Beefheart vs Le Rug
+- [[Theory/Influences/Dead or Alive - The Hidden Match]] — closest structural match (198 vs 199 BPM, identical melodic direction)
+- [[Theory/Influences/Yugowave Parallel]] — parallel convergence with Yugoslav new wave
+- [[Theory/Influences/The Full Comparison Map]] — all 8 groups compared across every metric
+
+**Deep Dives:**
+- [[Theory/Deep Dives/Era Fingerprints]] — per-era comparison with radar charts
+- [[Theory/Deep Dives/Evolution Over Time]] — how your writing changed 2007-2020
+- [[Theory/Deep Dives/Deep Dive - Song Evolution & Comparisons]] — Grim Reefer evolution, CREEP vs SRF, outlier analysis
+- [[Theory/Deep Dives/Drum Analysis]] — separated drum stems reveal double-drum vs. solo patterns
+- [[Theory/Deep Dives/Producer Fingerprint & Other Deep Dives]] — producer comparison, vocals vs instrumentals
+- [[Theory/Deep Dives/Instrumental Analysis]] — the lost instrumentals from SoundCloud
 
 ---
 

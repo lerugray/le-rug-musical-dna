@@ -1,6 +1,6 @@
 # Dead or Alive — The Hidden Match
 
-*The closest structural fingerprint match to Le Rug in the entire comparison set is a Hi-NRG synth-pop band from Liverpool. Nobody would have predicted this. Part of the broader [[Theory/The Full Comparison Map|Full Comparison Map]] across 8 artist groups.*
+*The closest structural fingerprint match to Le Rug in the entire comparison set is a Hi-NRG synth-pop band from Liverpool. Nobody would have predicted this. Part of the broader [[Theory/Influences/The Full Comparison Map|Full Comparison Map]] across 8 artist groups.*
 
 ---
 

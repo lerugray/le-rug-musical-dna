@@ -79,7 +79,7 @@ Solo noise/hardware project (Make Noise Strega + hardware synths). No guitar-bas
 | [[Albums/Big Bird at Nuremburg EP]] | ? | 7 | 24.9m | 199 | 6.8 | C, E, B | Have |
 | [[Albums/Flabby Wings]] | ? | 18 | 64.8m | 203 | 8.9 | C, G | Have |
 
-Plus ~45 SoundCloud instrumentals (albert-liberto account) and recovered live/demo tracks analyzed in [[Theory/Instrumental Analysis]].
+Plus ~45 SoundCloud instrumentals (albert-liberto account) and recovered live/demo tracks analyzed in [[Theory/Deep Dives/Instrumental Analysis]].
 
 ## Sweet Bulbs
 
@@ -150,7 +150,7 @@ Game Over contains ~9 tracks not on any other release: Welfare State, Alexander 
 
 ### Analysis Limitations
 
-The analysis captures melodic and harmonic content but does not directly analyze drum parts. The density numbers, chord analysis, and melodic patterns in this vault reflect **pitched instruments only**. The double-drum configuration that defined Le Rug's live sound is not represented in the data. The [[Theory/Drum Analysis]] page covers percussion separately using a different method.
+The analysis captures melodic and harmonic content but does not directly analyze drum parts. The density numbers, chord analysis, and melodic patterns in this vault reflect **pitched instruments only**. The double-drum configuration that defined Le Rug's live sound is not represented in the data. The [[Theory/Deep Dives/Drum Analysis]] page covers percussion separately using a different method.
 
 ## Data Notes
 

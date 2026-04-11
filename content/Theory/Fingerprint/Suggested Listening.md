@@ -5,7 +5,7 @@ description: "Artist recommendations based on structural fingerprint matching, n
 
 # Suggested Listening — Artists Who Share Your DNA
 
-*Artists and albums that use similar techniques to Ray Weiss's catalog, identified through chord vocabulary, melodic approach, rhythmic patterns, and production aesthetic. Some are direct influences; others arrived at similar places independently. Structural analysis data in [[Theory/Influence Fingerprint Comparison]] and [[Theory/The Full Comparison Map]].*
+*Artists and albums that use similar techniques to Ray Weiss's catalog, identified through chord vocabulary, melodic approach, rhythmic patterns, and production aesthetic. Some are direct influences; others arrived at similar places independently. Structural analysis data in [[Theory/Influences/Influence Fingerprint Comparison]] and [[Theory/Influences/The Full Comparison Map]].*
 
 ---
 
@@ -107,4 +107,4 @@ Analyzing 9 Yugowave tracks with the same methods and comparing fingerprints, th
 
 What Ray is hearing when he says "this sounds like me" is the *feel*, not the theory. Bass weight, timing looseness, dark atmosphere — arrived at independently across decades and continents. A genre-based approach would never make this connection. Matching on register distribution and rhythmic regularity catches it immediately.
 
-See [[Theory/Yugowave Parallel]] for the full analysis with charts.
+See [[Theory/Influences/Yugowave Parallel]] for the full analysis with charts.

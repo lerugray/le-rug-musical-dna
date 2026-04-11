@@ -32,7 +32,7 @@
 | **Melodic direction** | 45/45/10 | 45/45/10 | **Exact** |
 | **Bass register** | 59% | 59% | **0%** |
 
-Three exact or near-exact matches on independent metrics. The music operates at the same speed, oscillates the same way melodically, and sits in the same frequency space. See [[Theory/Dead or Alive - The Hidden Match]].
+Three exact or near-exact matches on independent metrics. The music operates at the same speed, oscillates the same way melodically, and sits in the same frequency space. See [[Theory/Influences/Dead or Alive - The Hidden Match]].
 
 ### Takahashi / YMO — The Harmonic Twin
 | Trait | Le Rug | Takahashi/YMO | Delta |
@@ -59,7 +59,7 @@ The entire chord TYPE distribution is the closest overall match. The proportions
 | **Regularity** | -0.039 | -0.018 | Closest pair |
 | **Bass register** | 59% | 65% | Same zone |
 
-The timing feel — loose but not chaotic — is the strongest match. See [[Theory/Yugowave Parallel]].
+The timing feel — loose but not chaotic — is the strongest match. See [[Theory/Influences/Yugowave Parallel]].
 
 ### Captain Beefheart — The Ambiguity Source
 | Trait | Le Rug | Beefheart | Delta |
@@ -67,7 +67,7 @@ The timing feel — loose but not chaotic — is the strongest match. See [[Theo
 | **Sus2/Sus4 balance** | 5.4%/5.2% | 5.8%/5.6% | ~0.4% |
 | **Non-resolution** | 0% dom7 | 0% dom7 | Identical |
 
-The defining harmonic feature (balanced suspended chords, refusal to resolve) comes from here. See [[Theory/Influence Fingerprint Comparison]].
+The defining harmonic feature (balanced suspended chords, refusal to resolve) comes from here. See [[Theory/Influences/Influence Fingerprint Comparison]].
 
 ### Built to Spill — The Density/Palette Source
 | Trait | Le Rug | Built to Spill | Delta |
