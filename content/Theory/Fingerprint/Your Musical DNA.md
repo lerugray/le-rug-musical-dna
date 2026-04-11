@@ -212,17 +212,17 @@ Running the same analysis pipeline on Ray's stated influences produced a precise
 ![Chart](https://lerugray.github.io/le-rug-musical-dna/images/Your-Musical-DNA-5.png)
 
 
-| Trait | Source | Evidence |
+| Trait | Closest To | Evidence |
 |---|---|---|
-| Power chord foundation | The Fall + Beefheart | Both >79% power chords |
-| **Harmonic ambiguity (sus2/sus4)** | **Captain Beefheart** | Only Beefheart has balanced sus2/sus4 (5.8%/5.6% vs Ray's 5.4%/5.2%) |
-| Triads and 7ths for color | Built to Spill | BtS 26% major, 10% maj7 |
-| Tempo and density | Built to Spill | Both 200+ BPM, high n/s |
-| Bass-heavy register | The Fall | Both 60%+ below E3 |
-| Melodic zigzag | Shared (BtS + Beefheart) | All three have ~43-46% ascending |
-| Non-resolution | Captain Beefheart | 0% dominant 7ths, 0% blues voicings |
+| Chord balance (power %) | **Built to Spill** | 49% vs 53% — nearest of the three |
+| Harmonic richness (major triads) | Between BtS and Fall | BtS 25.5%, Ray 13.8%, Fall 7.1% |
+| Sus2/Sus4 balance | Beefheart | 5.8%/5.5% vs Ray's 5.8%/5.1% — nearest match |
+| Density and tempo | **Built to Spill** | 8.8 n/s and 205 BPM vs Ray's 7.0 and 196 |
+| Bass-heavy register | **The Fall** | 65.5% vs 56.0% — both bass-heavy |
+| Melodic direction | **Built to Spill** | 46/47% vs 45/45% — identical zigzag |
+| Overall fingerprint | **Built to Spill** | Similarity 0.0382 (closest by a wide margin) |
 
-The defining trait — the sus2/sus4 ambiguity — comes from Beefheart, not from The Fall (0% suspended chords) or Built to Spill (sus2 only, no sus4). See [[Theory/Influences/Influence Fingerprint Comparison]] for the full analysis.
+With full album samples (66 Fall tracks, 57 Beefheart, 44 Built to Spill), Built to Spill emerges as the closest structural match — nearly identical chord balance, register, and melodic movement. The Fall and Beefheart are both ~74% power chords, 20 points higher than Ray — simpler than they sound. See [[Theory/Influences/Influence Fingerprint Comparison]] for the full analysis.
 
 Separately, comparisons with music Ray gravitates toward — but didn't influence him — revealed unexpected connections. Takahashi/YMO shares 56% power chords (vs Ray's 57%) and 2/3 key centers. Yugowave shares rhythmic regularity and bass-heavy register despite completely different chord vocabulary and tempo.
 
