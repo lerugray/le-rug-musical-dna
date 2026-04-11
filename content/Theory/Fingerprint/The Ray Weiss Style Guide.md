@@ -291,6 +291,17 @@ Notes: **C - E - G - G - G - E** = **C major** with the 5th tripled across three
 
 This is the rare full-commitment major chord in a catalog dominated by ambiguity. When it shows up, it's an arrival — no hedging, no suspension, just major. Use sparingly.
 
+**The Fret 13 discovery:** Move The Wall to fret 13 (F root) and let both open strings ring:
+```
+e|--0--  E   (major 7th)
+B|--13-- C   (5th)
+G|--0--  G   (9th)
+D|--10-- C   (5th)
+A|--12-- A   (major 3rd)
+E|--13-- F   (root)
+```
+Notes: **F - A - C - G - C - E** = **Fmaj9**. The blunt major triad shape becomes a lush extended chord — the open G adds the 9th and the open E adds the major 7th. A Wall voicing that accidentally becomes a Shimmer.
+
 #### "The Ghost" — Moveable Maj9 (No 3rd)
 
 A compact 4-string voicing that applies the power chord philosophy (withhold the 3rd) to an extended chord. Ambiguous shimmer — the major 7th and 9th create a dreamy quality without committing to major or minor. Works well arpeggiated with open strings mixed in.
