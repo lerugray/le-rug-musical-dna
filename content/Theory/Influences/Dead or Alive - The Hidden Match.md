@@ -5,15 +5,18 @@ description: "The closest structural fingerprint match to Le Rug is a Hi-NRG syn
 
 # Dead or Alive — The Hidden Match
 
-*The closest structural fingerprint match to Le Rug in the entire comparison set is a Hi-NRG synth-pop band from Liverpool. Nobody would have predicted this. Part of the broader [[Theory/Influences/The Full Comparison Map|Full Comparison Map]] across 8 artist groups.*
+*A Hi-NRG synth-pop band from Liverpool with an identical melodic direction ratio and near-identical tempo. Expanded to 25 tracks across three albums. Part of the broader [[Theory/Influences/The Full Comparison Map|Full Comparison Map]].*
 
 ---
 
 ## The Data
+
+*Updated: expanded from 9-track sample to 25 tracks (3 full albums + singles). Core matches hold across the full sample. Overall similarity: 86.4%.*
+
 ![Chart](https://lerugray.github.io/le-rug-musical-dna/images/Dead-or-Alive---The-Hidden-Match.png)
 
 
-| Metric | Le Rug | Dead or Alive | Delta |
+| Metric | Le Rug | Dead or Alive (25 tracks) | Delta |
 |---|---|---|---|
 | **Tempo** | 196 BPM | 199 BPM | **3 BPM** |
 | **Melodic direction** | 45/45/10 | 45/45/10 | **Exact match** |
@@ -23,6 +26,7 @@ description: "The closest structural fingerprint match to Le Rug is a Hi-NRG syn
 | Density | 6.9 n/s | 5.9 n/s | -14% |
 | Power chords | 53% | 76% | DoA higher |
 | Key centers | E/G/D | F#/A#/C# | Different harmonic world |
+| Overall similarity | — | — | **86.4%** |
 
 ---
 
@@ -70,14 +74,20 @@ The connection between post-punk and synth-pop through structural similarity (ra
 
 ## Tracks Analyzed
 
+*25 tracks total across three full albums plus key singles. Original 9-track sample shown with asterisk.*
+
+**Original sample (9 tracks):**
+
 | Track | Year | BPM | Notes | Duration |
 |---|---|---|---|---|
-| Brand New Lover | 1986 | 207 | 1,652 | 3:32 |
-| Come Home (With Me Baby) | 1986 | 167 | 1,075 | 4:04 |
-| Hooked on Love | 1987 | 200 | 1,195 | 3:42 |
-| I'll Save You All My Kisses | 1987 | 221 | 2,016 | 3:26 |
-| My Heart Goes Bang | 1985 | 184 | 812 | 3:10 |
-| Something in My House | 1987 | 201 | 1,340 | 3:48 |
-| Son of a Gun | 1984 | 192 | 1,115 | 4:18 |
-| You Spin Me Round | 1984 | 198 | 897 | 3:15 |
-| Your Sweetness Is Your Weakness | 1992 | 218 | 2,334 | 5:48 |
+| Brand New Lover* | 1986 | 207 | 1,652 | 3:32 |
+| Come Home (With Me Baby)* | 1986 | 167 | 1,075 | 4:04 |
+| Hooked on Love* | 1987 | 200 | 1,195 | 3:42 |
+| I'll Save You All My Kisses* | 1987 | 221 | 2,016 | 3:26 |
+| My Heart Goes Bang* | 1985 | 184 | 812 | 3:10 |
+| Something in My House* | 1987 | 201 | 1,340 | 3:48 |
+| Son of a Gun* | 1984 | 192 | 1,115 | 4:18 |
+| You Spin Me Round* | 1984 | 198 | 897 | 3:15 |
+| Your Sweetness Is Your Weakness* | 1992 | 218 | 2,334 | 5:48 |
+
+**Expansion (16 additional tracks from** ***Youthquake***, ***Mad Bad and Dangerous to Know***, ***Nude*** **deep cuts and B-sides)**

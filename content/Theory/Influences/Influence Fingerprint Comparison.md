@@ -74,6 +74,53 @@ What Ray took from The Fall isn't the chord vocabulary (they're 20 points apart 
 
 ---
 
+## Extended Comparisons
+
+The original three influences were chosen by Ray as stated touchstones. Running the same analysis across a wider set of artists and albums reveals where else in the catalogue the fingerprint aligns — including some results nobody would have predicted.
+
+### Rankings by Similarity Score
+
+| Rank | Artist / Album | Score | Tracks | Notes |
+|---|---|---|---|---|
+| 1 | Built to Spill (5 albums + Martsch solo) | **95.4%** | 44 | Original influence; closest structural match |
+| 2 | Divine Comedy — *Fin de Siècle* | **95.3%** | ~12 | Surprise near-#1; see below |
+| 3 | Pixies — *Bossanova* | **89.4%** | 12 | Melodic side of Pixies; closer than the abrasive side |
+| 3 | Prefab Sprout — *From Langley Park to Memphis* | **89.4%** | 12 | Register and sus chord alignment |
+| 5 | Divine Comedy — *Casanova* | **88.3%** | 12 | Second DC album in top 5 |
+| 6 | Frank Black — *Frank Black* (S/T) | **87.5%** | 13 | Solo debut; tighter melodic focus |
+| 7 | Prefab Sprout — *Steve McQueen* | **87.1%** | 10 | — |
+| 8 | Dead or Alive (expanded, 25 tracks) | **86.4%** | 25 | Refined from 9-track sample (~87%) |
+| 8 | Pixies — *Trompe le Monde* | **86.4%** | 13 | More abrasive; further from the fingerprint |
+| 10 | Frank Black — *Teenager of the Year* | **84.4%** | 22 | Broader, looser than the debut |
+| 10 | Divine Comedy — *Absent Friends* | **84.4%** | 11 | Third DC album in the set |
+| — | The Fall (66 tracks) | — | 66 | Original influence |
+| — | Captain Beefheart (57 tracks) | — | 57 | Original influence |
+| — | Takahashi / YMO | — | 6 | Discovery |
+| — | Italo Disco | — | 8 | Discovery |
+| — | Yugowave | — | 9 | Discovery |
+
+### Divine Comedy — *Fin de Siècle* as Near-#1
+
+At 95.3%, *Fin de Siècle* is essentially tied with Built to Spill for the top spot — which is counterintuitive given how different the two sound. Neil Hannon's most orchestrated album, with strings and brass throughout, maps closer to Le Rug's fingerprint than any of his spare, guitar-forward records. The explanation is harmonic: *Fin de Siècle* has high melodic density, a strong sus chord presence, and a compressed register profile that aligns with Le Rug's chord vocabulary. The orchestration is surface — the harmonic DNA underneath is the match. Three Divine Comedy albums appear in the top eleven (Fin de Siècle, Casanova, Absent Friends), suggesting structural consistency across his catalog rather than a single-album coincidence.
+
+### Pixies: Bossanova Beats Trompe le Monde
+
+Bossanova (89.4%) outscores Trompe le Monde (86.4%) by 3 points — a meaningful gap. Bossanova is the melodic, atmospheric side of Pixies: sus chords, open intervals, mid-tempo oscillation. Trompe le Monde is harder, faster, more distorted. The fingerprint match is with the melodic side, not the noise side. This tracks with what appears throughout Le Rug: power chords with harmonic ambiguity, not straight distortion.
+
+### Frank Black: Solo Debut Beats Teenager of the Year
+
+Frank Black's self-titled debut (87.5%) outscores Teenager of the Year (84.4%). The debut is tighter and more melodic — 13 tracks with concentrated sus chord usage and a narrower tempo range. Teenager of the Year is a sprawling 22-track record with more stylistic variation; the similarity score averages out lower as a result. The core Frank Black melodic DNA is present in both, but it's more concentrated in the debut.
+
+### Prefab Sprout: Langley Park Beats Steve McQueen
+
+From Langley Park to Memphis (89.4%) edges Steve McQueen (87.1%) by 2 points. Both albums share Paddy McAloon's signature sus2/sus4 chord language and high melodic density, but Langley Park sits in a slightly lower register and has more consistent sub-bass presence — both traits that push it closer to Le Rug's fingerprint. Steve McQueen is brighter and more synth-forward, which pulls the register profile slightly higher.
+
+### Dead or Alive: 25-Track Expansion
+
+The original Dead or Alive sample was 9 tracks (the three-exact-match data point on tempo/melody/register). Expanding to 25 tracks with full album cuts — including deeper cuts from *Mad, Bad and Dangerous to Know*, *Youthquake*, and *Nude* — refined the similarity score to 86.4%, down fractionally from the 9-track reading (~87%). The three landmark matches (196 vs 199 BPM, identical melodic direction ratio, 56% bass register) remain intact across the full sample. The deeper album cuts include slower and more varied tracks that slightly moderate the overall similarity, but the structural kinship holds.
+
+---
+
 ## Albums Analyzed
 
 **The Fall (66 tracks):** Hex Enduction Hour, Perverted by Language, This Nation's Saving Grace, Grotesque (After the Gramme), Slates, Room to Live
@@ -81,5 +128,15 @@ What Ray took from The Fall isn't the chord vocabulary (they're 20 points apart 
 **Captain Beefheart (57 tracks):** Trout Mask Replica, Lick My Decals Off Baby, Safe as Milk
 
 **Built to Spill (44 tracks):** Keep It Like a Secret, Perfect From Now On, There's Nothing Wrong with Love, Ultimate Alternative Wavers, You in Reverse, Doug Martsch — Now You Know
+
+**Divine Comedy:** Fin de Siècle, Casanova, Absent Friends
+
+**Pixies:** Bossanova, Trompe le Monde
+
+**Frank Black:** Frank Black (S/T), Teenager of the Year
+
+**Prefab Sprout:** From Langley Park to Memphis, Steve McQueen
+
+**Dead or Alive (25 tracks):** Mad Bad and Dangerous to Know, Youthquake, Nude (plus singles and B-sides)
 
 ---

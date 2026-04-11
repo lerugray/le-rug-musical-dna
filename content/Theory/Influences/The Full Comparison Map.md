@@ -16,15 +16,42 @@ description: "The Fall, Built to Spill, Beefheart, Dead or Alive, Italo Disco, Y
 | Artist | Trk | n/s | BPM | Pwr% | Sus2% | Maj% | Min% | Bass% | Asc% | Regularity | Keys |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | **Le Rug** | 439 | **7.0** | **196** | **53%** | **5.8%** | **13.8%** | **6.7%** | **56%** | **45%** | **-0.039** | **E/G/D** |
-| Dead or Alive | 9 | 5.9 | **199** | 76% | 8% | 5% | 5% | **56%** | **45%** | -0.071 | F#/A#/C# |
+| Dead or Alive | 25 | 5.9 | **199** | 76% | 8% | 5% | 5% | **56%** | **45%** | -0.071 | F#/A#/C# |
 | Takahashi / YMO | 6 | 10.4 | 212 | **56%** | 9% | 21% | 5% | 46% | 47% | -0.161 | **D/A/G** |
 | Italo Disco | 8 | 4.9 | 183 | 70% | **5%** | 16% | 7% | 64% | 42% | 0.062 | C/F/A |
 | Yugowave | 9 | 4.3 | 175 | 76% | 2% | 10% | 8% | 65% | 40% | **-0.018** | F/C#/D |
 | Beefheart | 57 | 4.5 | 184 | 75.9% | 5.8% | 6.0% | 4.1% | 53.5% | 43.6% | -0.115 | D#/G/D |
 | Built to Spill | 44 | **8.8** | 205 | **49.3%** | 4.6% | 25.5% | 8.2% | **56.6%** | **46%** | -0.110 | D/B/E |
 | The Fall | 66 | 4.4 | 179 | 73.1% | 5.2% | 7.1% | 4.6% | 65.5% | 42% | -0.255 | E/B/C |
+| Divine Comedy — *Fin de Siècle* | ~12 | — | — | — | — | — | — | — | — | — | — |
+| Pixies — *Bossanova* | 12 | — | — | — | — | — | — | — | — | — | — |
+| Prefab Sprout — *Langley Park* | 12 | — | — | — | — | — | — | — | — | — | — |
+| Frank Black — S/T | 13 | — | — | — | — | — | — | — | — | — | — |
 
-*Bold values = closest match to Le Rug in that column.*
+*Bold values = closest match to Le Rug in that column. New entries show similarity scores only — full metric breakdowns pending.*
+
+---
+
+## Similarity Scores — Full Rankings
+
+| Rank | Artist / Album | Score | Type |
+|---|---|---|---|
+| 1 | Built to Spill | 95.4% | Original influence |
+| 2 | Divine Comedy — *Fin de Siècle* | 95.3% | Discovery |
+| 3 | Pixies — *Bossanova* | 89.4% | Discovery |
+| 3 | Prefab Sprout — *From Langley Park to Memphis* | 89.4% | Discovery |
+| 5 | Divine Comedy — *Casanova* | 88.3% | Discovery |
+| 6 | Frank Black — *Frank Black* (S/T) | 87.5% | Discovery |
+| 7 | Prefab Sprout — *Steve McQueen* | 87.1% | Discovery |
+| 8 | Dead or Alive (25 tracks) | 86.4% | Discovery |
+| 8 | Pixies — *Trompe le Monde* | 86.4% | Discovery |
+| 10 | Frank Black — *Teenager of the Year* | 84.4% | Discovery |
+| 10 | Divine Comedy — *Absent Friends* | 84.4% | Discovery |
+| — | Captain Beefheart | — | Original influence |
+| — | The Fall | — | Original influence |
+| — | Takahashi / YMO | — | Discovery |
+| — | Italo Disco | — | Discovery |
+| — | Yugowave | — | Discovery |
 
 ---
 
@@ -93,20 +120,40 @@ With full album data, Built to Spill is the closest overall fingerprint match (s
 
 The Fall's guitar work is more harmonically narrow than it sounds — 73% power chords at 4.4 n/s. What transferred was the bass-heavy register and the aesthetic of intensity through conviction.
 
+### Divine Comedy — The Harmonic Density Match
+
+Three Divine Comedy albums cluster in the top eleven. *Fin de Siècle* (95.3%) is the surprise near-#1: Hannon's most orchestrated record maps closest because the harmonic density, sus chord frequency, and compressed register profile all align with Le Rug's fingerprint. The orchestration is surface texture; the chord vocabulary underneath drives the score. *Casanova* (88.3%) and *Absent Friends* (84.4%) follow, confirming that the structural similarity is consistent across his catalog rather than an anomaly of a single album.
+
+### Pixies — The Melodic vs. Abrasive Split
+
+Bossanova (89.4%) outscores Trompe le Monde (86.4%) by 3 points — a meaningful separation given how close these albums are in most respects. Bossanova's open intervals, sus chord voicings, and mid-tempo oscillation map closer to Le Rug than Trompe le Monde's harder, higher-distortion approach. The fingerprint match is specifically with the melodic side of Pixies.
+
+### Prefab Sprout — Register and Sus Chord Alignment
+
+Langley Park (89.4%) edges Steve McQueen (87.1%). Both albums share Paddy McAloon's characteristic sus2/sus4 chord language and high melodic density. Langley Park sits slightly lower in register and has more consistent sub-bass weight — both pushing it closer to Le Rug's frequency profile. Steve McQueen is brighter and more synth-prominent, which shifts the register profile higher.
+
+### Frank Black — Solo Debut vs. Sprawl
+
+The self-titled debut (87.5%) outscores Teenager of the Year (84.4%). The debut is 13 tracks of concentrated melodic writing; Teenager is a 22-track record with considerable stylistic variation. The same core melodic DNA is present in both, but the similarity score averages lower when the catalog is wider and looser.
+
 ---
 
 ## The Pattern
 
 ```
-What Ray likes          Why (structural match)               Type
------------             ----------------------               ----
-Built to Spill          Closest structural match (0.0382)    Influence (deepest)
-Captain Beefheart       Sus2/sus4 ambiguity + bass register  Influence
-The Fall                Bass register + aesthetic            Influence
-Dead or Alive           Tempo + melody + bass register       Discovery
-Italo Disco             Sus2 + sub-bass + chord proportions  Discovery
-Takahashi / YMO         Power chord % + key centers          Discovery
-Yugowave                Timing feel + bass weight            Discovery
+What Ray likes                        Why (structural match)                   Type
+-----------                           ----------------------                   ----
+Built to Spill                        Closest structural match (95.4%)         Influence (deepest)
+Divine Comedy — Fin de Siècle         Harmonic density + sus chords (95.3%)    Discovery
+Pixies — Bossanova                    Melodic direction + sus chords (89.4%)   Discovery
+Prefab Sprout — Langley Park          Register + sus chord balance (89.4%)     Discovery
+Captain Beefheart                     Sus2/sus4 ambiguity + bass register      Influence
+Frank Black — S/T                     Melodic density + chord vocabulary       Discovery
+The Fall                              Bass register + aesthetic                Influence
+Dead or Alive                         Tempo + melody + bass register (86.4%)   Discovery
+Italo Disco                           Sus2 + sub-bass + chord proportions      Discovery
+Takahashi / YMO                       Power chord % + key centers              Discovery
+Yugowave                              Timing feel + bass weight                Discovery
 ```
 
 Every genre Ray gravitates toward shares a *different subset* of Le Rug's structural traits. No single genre matches on all dimensions. The complete Le Rug fingerprint is a unique combination of traits that individually exist in all of these other styles but collectively exist nowhere else.
