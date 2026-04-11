@@ -4,7 +4,7 @@ title: "The Fingerprint"
 
 # The Fingerprint
 
-The core pages that define Le Rug's musical identity across 407 tracks.
+The core pages that define Le Rug's musical identity across 439 tracks.
 
 - [[Theory/Fingerprint/Your Musical DNA|Your Musical DNA]] — the big picture fingerprint
 - [[Theory/Fingerprint/Chord Vocabulary|Chord Vocabulary]] — every chord ranked by frequency

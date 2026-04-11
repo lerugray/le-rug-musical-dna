@@ -7,7 +7,7 @@ description: "The complete musical fingerprint of Le Rug — 53% power chords, z
 
 *What the data reveals about how Ray Weiss writes music — the theory behind the ear.*
 
-Based on analysis of **407 tracks** across Le Rug, Butter the Children, Living Serious, Red Dwarf, Defenestrator, solo releases, recovered live recordings, and unreleased instrumentals — the complete known output.
+Based on analysis of **439 tracks** across Le Rug, Butter the Children, Living Serious, Red Dwarf, Defenestrator, solo releases, recovered live recordings, and unreleased instrumentals — the complete known output.
 
 ---
 
@@ -19,27 +19,27 @@ You play almost entirely by ear, have no formal theory training, and describe yo
 
 ## 1. You Are a Power Chord Musician (But Not Only)
 
-**57.4% of all detected chord shapes are power chords (root + 5th).** This is your foundation. But the remaining 42.6% is where it gets interesting:
+**53.0% of all detected chord shapes are power chords (root + 5th).** This is your foundation. But the remaining 47.0% is where it gets interesting:
 ![Chart](https://lerugray.github.io/le-rug-musical-dna/images/Your-Musical-DNA-1.png)
 
 
 | Chord Type | Usage | What It Means |
 |---|---|---|
-| Power chord (5th) | 57.4% | Your backbone — ambiguous, neither major nor minor |
-| Major triad | 13.3% | When you DO commit to major/minor, you lean major |
-| Minor triad | 5.8% | About half as often as major — you're not a "sad" writer |
-| Sus2 | 5.4% | The "open" sound — dreamy, ambiguous |
-| Sus4 | 5.2% | The "reaching up" sound — tension without resolution |
+| Power chord (5th) | 53.0% | Your backbone — ambiguous, neither major nor minor |
+| Major triad | 13.8% | When you DO commit to major/minor, you lean major |
+| Minor triad | 6.7% | About half as often as major — you're not a "sad" writer |
+| Sus2 | 5.8% | The "open" sound — dreamy, ambiguous |
+| Sus4 | 5.1% | The "reaching up" sound — tension without resolution |
 | Minor 7th | 4.1% | Jazz-adjacent color — more than most indie guitarists use |
 | Major 7th | 3.1% | Shimmer chords — this is the shoegaze influence |
 | Add9 | 2.7% | Sophistication you don't know you have |
 | 6th chords | 2.4% | These are unusual for your genre — a personal quirk |
 
-**Critical caveat — the power chord / sus2 overlap:** These numbers treat power chords and sus2 as separate categories, but they aren't in practice. Ray's default power chord shape ("The Standard" in the Style Guide) includes the 2nd/9th on the B string — it's technically a sus2 spread across 5 strings, not a pure root+5th. This means the 57.4% power chord figure and the 5.4% sus2 figure describe overlapping territory. The chord detector sees root+5th and calls it a power chord, but the 2nd is ringing on the B string in the same voicing.
+**Critical caveat — the power chord / sus2 overlap:** These numbers treat power chords and sus2 as separate categories, but they aren't in practice. Ray's default power chord shape ("The Standard" in the Style Guide) includes the 2nd/9th on the B string — it's technically a sus2 spread across 5 strings, not a pure root+5th. This means the 53.0% power chord figure and the 5.8% sus2 figure describe overlapping territory. The chord detector sees root+5th and calls it a power chord, but the 2nd is ringing on the B string in the same voicing.
 
 **What this actually means:** The harmonic ambiguity isn't a secondary color that shows up 5% of the time. It's present in the foundation shape — every time Ray reaches for a "power chord," the sus2 quality comes along for free. The real split isn't 53% power / 5.8% sus2. It's closer to: the majority of the catalog lives in a blurred zone between power chord and sus2, with the 2nd always hovering. The ambiguity is the default, not the exception.
 
-**Key insight:** On top of this, the explicitly detected sus2 and sus4 chords are nearly equal (5.4% vs 5.2%). Most guitarists lean heavily one way. The equal usage creates a constant push-pull — the 2nd wants to resolve down, the 4th wants to resolve up, and neither wins. Combined with the sus2 baked into the standard power chord shape, the listener is essentially never on solid harmonic ground.
+**Key insight:** On top of this, the explicitly detected sus2 and sus4 chords are nearly equal (5.8% vs 5.1%). Most guitarists lean heavily one way. The equal usage creates a constant push-pull — the 2nd wants to resolve down, the 4th wants to resolve up, and neither wins. Combined with the sus2 baked into the standard power chord shape, the listener is essentially never on solid harmonic ground.
 
 ### Your Most-Used Specific Chords
 
@@ -182,7 +182,7 @@ This puts Ray in a specific lineage of bandleaders:
 - **Mark E. Smith** cycled through ~66 members of The Fall over 40 years. Guitarists, bassists, drummers came and went. The Fall always sounded like The Fall, because Smith controlled the aesthetic absolutely — famously turning down amps mid-set, dictating arrangements, firing anyone who pushed back.
 - **Ray Weiss** wrote all the material across every project, controlled the arrangements, and eventually just did everything himself from Dead In A Hole onward. The BtC EP is telling: he played guitar AND drums, wrote all four songs. When collaborators were present, they were playing his parts.
 
-The data can't tell you about personality or rehearsal dynamics, but it can show you the outcome: a harmonic signature that doesn't bend to accommodate other musicians. That's either total creative control or an extraordinary coincidence across 407 tracks.
+The data can't tell you about personality or rehearsal dynamics, but it can show you the outcome: a harmonic signature that doesn't bend to accommodate other musicians. That's either total creative control or an extraordinary coincidence across 439 tracks.
 
 The trajectory also fits the pattern. Beefheart retired from music to paint. Smith kept at it until he died but burned through every relationship along the way. Ray sold his instruments and moved to board wargame design — a creative form where the designer has complete, uncompromised control over every system and interaction, and nobody else needs to be in the room.
 

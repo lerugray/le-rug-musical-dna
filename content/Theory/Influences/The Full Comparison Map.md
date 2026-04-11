@@ -35,7 +35,7 @@ description: "The Fall, Built to Spill, Beefheart, Dead or Alive, Italo Disco, Y
 |---|---|---|---|
 | **Tempo** | 196 BPM | 199 BPM | **3 BPM** |
 | **Melodic direction** | 45/45/10 | 45/45/10 | **Exact** |
-| **Bass register** | 59% | 59% | **0%** |
+| **Bass register** | 56% | 56% | **0%** |
 
 Three exact or near-exact matches on independent metrics. The music operates at the same speed, oscillates the same way melodically, and sits in the same frequency space. See [[Theory/Influences/Dead or Alive - The Hidden Match]].
 
@@ -62,7 +62,7 @@ The entire chord TYPE distribution is the closest overall match. The proportions
 | Trait | Le Rug | Yugowave | Delta |
 |---|---|---|---|
 | **Regularity** | -0.039 | -0.018 | Closest pair |
-| **Bass register** | 59% | 65% | Same zone |
+| **Bass register** | 56% | 65% | Same zone |
 
 The timing feel — loose but not chaotic — is the strongest match. See [[Theory/Influences/Yugowave Parallel]].
 

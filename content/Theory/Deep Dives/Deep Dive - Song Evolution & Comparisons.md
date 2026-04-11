@@ -99,8 +99,8 @@ The Game Over unreleased tracks include several that are dramatically different 
 
 | Metric | Palm Beach | Catalog Average |
 |---|---|---|
-| Density | 1.5 n/s | 6.5 n/s |
-| Tempo | 120 BPM | 195 BPM |
+| Density | 1.5 n/s | 7.0 n/s |
+| Tempo | 120 BPM | 196 BPM |
 | Sub-bass | **60.5%** | 21.3% |
 | Velocity | avg 51 | ~70-80 |
 

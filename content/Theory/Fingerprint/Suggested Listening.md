@@ -12,7 +12,7 @@ description: "Artist recommendations based on structural fingerprint matching, n
 ## The Direct Lineage
 
 ### Captain Beefheart — *Trout Mask Replica*, *Lick My Decals Off, Baby*
-A teenage obsession that predates everything else — and the data proves it's the deepest root. When we ran Beefheart's music through the same analysis pipeline, his fingerprint showed **5.8% sus2, 5.6% sus4** — almost identical to Ray's 5.4%/5.2%. The Fall uses zero suspended chords. Built to Spill uses sus2 but no sus4. **The harmonic ambiguity that defines the Le Rug sound — the balanced sus2/sus4 push-pull that keeps the listener on unsettled ground — traces directly to Beefheart, not to the other two influences.**
+A teenage obsession that predates everything else — and the data proves it's the deepest root. When we ran Beefheart's music through the same analysis pipeline, his fingerprint showed **5.8% sus2, 5.6% sus4** — almost identical to Ray's 5.8%/5.1%. The Fall uses zero suspended chords. Built to Spill uses sus2 but no sus4. **The harmonic ambiguity that defines the Le Rug sound — the balanced sus2/sus4 push-pull that keeps the listener on unsettled ground — traces directly to Beefheart, not to the other two influences.**
 
 Beefheart also shares Ray's high power chord usage (79%) and the non-resolution philosophy (0% dominant 7ths, 0% blues voicings). Where The Fall taught repetition-as-hook and Built to Spill provided the triads-and-density palette, Beefheart is the reason the music sits in permanent harmonic suspension. **Specific parallels:** Non-functional harmony held together by conviction, the sus2/sus4 ambiguity as a compositional default rather than a color choice, the idea that "wrong" notes are just notes you haven't committed to yet.
 
@@ -101,7 +101,7 @@ Welsh noise-pop trio that channels The Fall and Albini-era production into impos
 
 Analyzing 9 Yugowave tracks with the same methods and comparing fingerprints, the match wasn't in chord vocabulary, tempo, or density — it was in how the music sits in the room. Yugowave and Le Rug share:
 - **Rhythmic regularity:** The two closest-to-zero regularity scores of any group compared (-0.018 vs -0.039). Both play "loose but controlled."
-- **Bass-heavy register:** 65% vs 59% below E3. Both live in the low end.
+- **Bass-heavy register:** 65% vs 56% below E3. Both live in the low end.
 - **Sub-bass presence:** 24.6% vs 21.3%. The rumble.
 - **Post-punk energy channeled through guitar-as-texture** rather than guitar-as-melody.
 

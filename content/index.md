@@ -1,14 +1,14 @@
 ---
-title: "Le Rug — Musical DNA: 407 Tracks Reverse-Engineered"
-description: "The complete musical fingerprint of Le Rug (Ray Weiss) — 407 tracks analyzed into chord vocabulary, harmonic function, melodic patterns, and rhythmic habits. Learn how to play music like Le Rug."
+title: "Le Rug — Musical DNA: 439 Tracks Reverse-Engineered"
+description: "The complete musical fingerprint of Le Rug (Ray Weiss) — 439 tracks analyzed into chord vocabulary, harmonic function, melodic patterns, and rhythmic habits. Learn how to play music like Le Rug."
 ---
 
 # Ray Weiss — Complete Music Catalog & Analysis
 
 ## The Project
-An AI-assisted deep analysis of Ray Weiss's complete musical output — Le Rug, Butter the Children, Living Serious, Red Dwarf, Defenestrator, solo releases, and unreleased instrumentals. 407 tracks analyzed across ~15 releases (2007-2020), reverse-engineering the instincts of an ear-trained musician into actual music theory.
+An AI-assisted deep analysis of Ray Weiss's complete musical output — Le Rug, Butter the Children, Living Serious, Red Dwarf, Defenestrator, solo releases, and unreleased instrumentals. 439 tracks analyzed across ~15 releases (2007-2020), reverse-engineering the instincts of an ear-trained musician into actual music theory.
 
-> **Want to play music like Le Rug?** Start with the [[Theory/Fingerprint/The Ray Weiss Style Guide|Style Guide]] — a practical recipe for writing in this style. Then explore the [[Theory/Fingerprint/Chord Vocabulary|Chord Vocabulary]] to see the exact chords used across 407 tracks.
+> **Want to play music like Le Rug?** Start with the [[Theory/Fingerprint/The Ray Weiss Style Guide|Style Guide]] — a practical recipe for writing in this style. Then explore the [[Theory/Fingerprint/Chord Vocabulary|Chord Vocabulary]] to see the exact chords used across 439 tracks.
 
 ## Quick Stats
 ![Chart](https://lerugray.github.io/le-rug-musical-dna/images/00---Home.png)
@@ -16,7 +16,7 @@ An AI-assisted deep analysis of Ray Weiss's complete musical output — Le Rug, 
 
 | Metric | Value |
 |---|---|
-| Total tracks analyzed | **407** |
+| Total tracks analyzed | **439** |
 | Total notes | **436,831** |
 | Total duration | **18.6 hours** (1,117 minutes) |
 | Active years | **~2007-2020** |
@@ -65,7 +65,7 @@ An AI-assisted deep analysis of Ray Weiss's complete musical output — Le Rug, 
 
 **Influences & Comparisons:**
 - [[Theory/Influences/Influence Fingerprint Comparison]] — The Fall vs Built to Spill vs Beefheart vs Le Rug
-- [[Theory/Influences/Dead or Alive - The Hidden Match]] — closest structural match (198 vs 199 BPM, identical melodic direction)
+- [[Theory/Influences/Dead or Alive - The Hidden Match]] — closest structural match (196 vs 199 BPM, identical melodic direction)
 - [[Theory/Influences/Yugowave Parallel]] — parallel convergence with Yugoslav new wave
 - [[Theory/Influences/The Full Comparison Map]] — all 8 groups compared across every metric
 

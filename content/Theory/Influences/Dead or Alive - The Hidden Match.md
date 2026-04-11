@@ -34,11 +34,11 @@ description: "The closest structural fingerprint match to Le Rug is a Hi-NRG syn
 
 ### The Tempo Match Is Eerie
 
-198 vs 199 BPM. Le Rug and Dead or Alive operate at the same fundamental speed. This isn't a common pop tempo — it's on the fast side of "normal" (most pop sits 120-150 BPM). Both gravitate to the same fast-but-not-thrash speed.
+196 vs 199 BPM. Le Rug and Dead or Alive operate at the same fundamental speed. This isn't a common pop tempo — it's on the fast side of "normal" (most pop sits 120-150 BPM). Both gravitate to the same fast-but-not-thrash speed.
 
 ### The Bass Register Match
 
-59% of notes below E3 in both catalogs. Dead or Alive's synth bass lines and Le Rug's guitar riffs occupy the same frequency space. The music sits in the same part of the room.
+56% of notes below E3 in both catalogs. Dead or Alive's synth bass lines and Le Rug's guitar riffs occupy the same frequency space. The music sits in the same part of the room.
 
 ### The Sus2 Surprise
 

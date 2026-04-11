@@ -5,9 +5,9 @@ description: "53% power chords, 14% major triads, sus2 chords as a signature mov
 
 # Chord Vocabulary
 
-*Every chord you use, ranked by frequency across 407 analyzed tracks (all projects).*
+*Every chord you use, ranked by frequency across 439 analyzed tracks (all projects).*
 
-## The Foundation: Power Chords (57.4%) — With a Caveat
+## The Foundation: Power Chords (53.0%) — With a Caveat
 
 Your top power chords by usage:
 ![Chart](https://lerugray.github.io/le-rug-musical-dna/images/Chord-Vocabulary-1.png)
@@ -30,25 +30,25 @@ Your top power chords by usage:
 
 **G-C-D-A-E is your core loop.** With the full catalog counted, G and C leap ahead of D — driven by the recovered material, instrumentals, and non-Le Rug projects which favor brighter, higher key centers.
 
-**Important: the 57.4% is misleading.** Ray's default power chord shape ("The Standard") includes the 2nd/9th on the B string — it's a 5-string voicing that is technically a sus2, not a pure root+5th. The chord detector identifies the root+5th core and calls it a power chord, but the 2nd is ringing alongside it. This means the power chord and sus2 categories overlap significantly. In practice, the majority of the catalog lives in a blurred zone between power chord and sus2 — the ambiguity is the default voicing, not a color applied on top.
+**Important: the 53.0% is misleading.** Ray's default power chord shape ("The Standard") includes the 2nd/9th on the B string — it's a 5-string voicing that is technically a sus2, not a pure root+5th. The chord detector identifies the root+5th core and calls it a power chord, but the 2nd is ringing alongside it. This means the power chord and sus2 categories overlap significantly. In practice, the majority of the catalog lives in a blurred zone between power chord and sus2 — the ambiguity is the default voicing, not a color applied on top.
 ![Chart](https://lerugray.github.io/le-rug-musical-dna/images/Chord-Vocabulary-2.png)
 
 
 ## Beyond Power Chords: Your Color Palette
 
-### Major Triads (13.3%)
+### Major Triads (13.8%)
 C major (2,552), G major (1,995), D major (1,643), E major (961), A major (924), F major (941)
 
 Your major triads follow a C-G-D pattern — the "bright" keys. When you commit to a full triad instead of a power chord, you go major more than minor (2.3:1 ratio).
 
-### Minor Triads (5.8%)
+### Minor Triads (6.7%)
 A minor (1,187) leads by a wide margin. You reach for A minor when you want darkness — it's your one reliable minor shape.
 
 ### Suspended Chords (10.6% combined — actually much higher)
 **Sus4:** A sus4 (1,368) dominates — nearly double the next sus4. D sus4 and E sus4 follow.
 **Sus2:** C sus2 (1,822) is massive — your single most-used non-power-chord shape. A sus2 (1,210) follows.
 
-The 10.6% figure only counts chords the detector explicitly classified as sus2/sus4. Given that The Standard power chord shape already includes the 2nd, the real sus2 presence across the catalog is much higher — likely overlapping with the majority of the 57.4% power chord figure. The C sus2 dominance (1,822 instances) is the detector catching the cases where the 2nd is prominent enough to override the power chord classification, but it's present in some form almost everywhere.
+The 10.6% figure only counts chords the detector explicitly classified as sus2/sus4. Given that The Standard power chord shape already includes the 2nd, the real sus2 presence across the catalog is much higher — likely overlapping with the majority of the 53.0% power chord figure. The C sus2 dominance (1,822 instances) is the detector catching the cases where the 2nd is prominent enough to override the power chord classification, but it's present in some form almost everywhere.
 
 ### Extended Chords (12.3%)
 - **Minor 7th** (4.1%): D minor 7th (1,024) alone accounts for a quarter of these — darkness and sophistication
@@ -71,4 +71,4 @@ You have a **three-tier chord system:**
 
 Most "theory-trained" indie guitarists would reverse tiers 1 and 3 — using full triads as the default and power chords for emphasis. Your inversion of this is part of your sound. By keeping the harmony ambiguous most of the time and only revealing major/minor at key moments, you create a sense of constant forward motion — the listener is always waiting for the chord to "resolve" into something definitive, and you only give them that resolution selectively.
 
-With the full catalog counted (including BtC, Living Serious, solo material), the power chord percentage dropped from where Le Rug sits alone (~61%) to 57.4% overall — the other projects use slightly more harmonic variety, especially the solo instrumentals which lean into major triads and sus2 chords more freely.
+With the full catalog counted (including BtC, Living Serious, solo material), the power chord percentage dropped from where Le Rug sits alone (~61%) to 53.0% overall — the other projects use slightly more harmonic variety, especially the solo instrumentals which lean into major triads and sus2 chords more freely.
