@@ -21,7 +21,7 @@ A joke band with friends, lampooning toxic masculinity before it was a buzzword.
 |  | Red Dwarf | Le Rug (avg) | Difference |
 |---|---|---|---|
 | Density | 6.0 n/s | 7.5 n/s | **20% sparser** |
-| Tempo | 197 BPM | 198 BPM | Identical |
+| Tempo | 197 BPM | 196 BPM | Identical |
 | Avg track length | 2.2m | 1.7m | Slightly longer |
 | Top key | D | E | One whole step lower |
 | #1 interval | Octave | Octave | Same |

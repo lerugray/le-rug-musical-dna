@@ -39,7 +39,7 @@ Songs should be 1-4 minutes. Say what you need to say and stop. If a section wor
 
 ## The Chord Palette
 
-### Tier 1: Power Chords (use ~57% of the time)
+### Tier 1: Power Chords (use ~53% of the time)
 Your home base. G5, C5, D5, A5, E5 are the core five. Move between them freely.
 
 #### "The Standard" — Power Chord with Built-In 2nd
@@ -67,7 +67,7 @@ E|--x--
 
 Notes: **D - A - D - E - A** = root, 5th, root, 2nd, 5th. This is technically a **Dsus2** spread across 5 strings, not a pure power chord. The 2nd (E) on the B string adds the same harmonic ambiguity that the Thumb Sus2 provides, but it's here in the foundation shape — every time Ray grabs a "power chord," the sus2 color comes along for free.
 
-This matters for the analysis: the data reports 57% power chords and 5.4% sus2 as separate categories, but in practice they overlap. The ambiguity isn't an occasional choice — it's the default voicing.
+This matters for the analysis: the data reports 53% power chords and 5.8% sus2 as separate categories, but in practice they overlap. The ambiguity isn't an occasional choice — it's the default voicing.
 
 **Common progressions:**
 - G5 - C5 - D5 - A5 (the most common full-catalog loop)

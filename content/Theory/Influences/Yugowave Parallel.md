@@ -27,7 +27,7 @@ description: "Parallel convergence across decades and continents. Yugoslav new w
 
 ## Where It Matches: Texture, Not Composition
 
-The Yugowave fingerprint doesn't match Le Rug in chord vocabulary (76% power chords vs 57%), tempo (175 vs 198 BPM), or density (4.3 vs 7.0 n/s). By the compositional metrics, they're quite different.
+The Yugowave fingerprint doesn't match Le Rug in chord vocabulary (76% power chords vs 53%), tempo (175 vs 196 BPM), or density (4.3 vs 7.0 n/s). By the compositional metrics, they're quite different.
 
 But by the *textural* metrics — the ones that describe how the music **feels** rather than what notes are played — they're the closest match:
 
@@ -45,11 +45,11 @@ Le Rug and Yugowave are the two closest-to-zero regularity scores in the compari
 ### 2. Bass-Heavy Register: Heaviest Match
 | Artist | Bass + Sub-bass |
 |---|---|
+| **The Fall** | **65.5%** |
 | **Yugowave** | **65%** |
-| The Fall | 64% |
-| **Le Rug** | **59%** |
-| Beefheart | 57% |
-| Built to Spill | 56% |
+| Built to Spill | 56.6% |
+| **Le Rug** | **56%** |
+| Beefheart | 53.5% |
 
 Yugowave is the most bass-heavy group in the comparison — even more than The Fall. Le Rug is close behind. Both sit in the same low-frequency zone. The music occupies the same sonic space physically.
 

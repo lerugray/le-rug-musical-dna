@@ -33,7 +33,7 @@ description: "The Fall, Built to Spill, Beefheart, Dead or Alive, Italo Disco, Y
 ### Dead or Alive — The Tempo/Melody/Register Match
 | Trait | Le Rug | Dead or Alive | Delta |
 |---|---|---|---|
-| **Tempo** | 198 BPM | 199 BPM | **1 BPM** |
+| **Tempo** | 196 BPM | 199 BPM | **3 BPM** |
 | **Melodic direction** | 45/45/10 | 45/45/10 | **Exact** |
 | **Bass register** | 59% | 59% | **0%** |
 
@@ -42,7 +42,7 @@ Three exact or near-exact matches on independent metrics. The music operates at 
 ### Takahashi / YMO — The Harmonic Twin
 | Trait | Le Rug | Takahashi/YMO | Delta |
 |---|---|---|---|
-| **Power chord %** | 57% | 56% | **1%** |
+| **Power chord %** | 53% | 56% | **3%** |
 | **Key centers** | E/G/D | D/A/G | **2 of 3 shared** |
 | **Sus2 %** | 5% | 9% | Both high |
 
@@ -100,9 +100,9 @@ The Fall's guitar work is more harmonically narrow than it sounds — 73% power 
 ```
 What Ray likes          Why (structural match)               Type
 -----------             ----------------------               ----
-The Fall                Philosophy (atonal -> pop)           Influence
-Built to Spill          Density + tempo + triads             Influence
-Captain Beefheart       Sus2/sus4 ambiguity                  Influence (deepest)
+Built to Spill          Closest structural match (0.0382)    Influence (deepest)
+Captain Beefheart       Sus2/sus4 ambiguity + bass register  Influence
+The Fall                Bass register + aesthetic            Influence
 Dead or Alive           Tempo + melody + bass register       Discovery
 Italo Disco             Sus2 + sub-bass + chord proportions  Discovery
 Takahashi / YMO         Power chord % + key centers          Discovery
@@ -123,4 +123,4 @@ Three things stand out from this comparison:
 
 2. **Different genres match on different dimensions.** Similarity matching that relies on a single metric misses most connections. Tempo, harmonic vocabulary, register distribution, and timing feel are all independent signals that can align independently.
 
-3. **The complete fingerprint is unique.** Le Rug's specific combination of traits (57% power chord, 5% sus2, 198 BPM, 59% bass, 45/45/10 melodic direction, -0.04 regularity) doesn't fully exist in any other artist. But *subsets* of it exist everywhere — which is why Ray's taste is so eclectic and why his music sounds familiar to people who can't place why.
+3. **The complete fingerprint is unique.** Le Rug's specific combination of traits (53% power chord, 5.8% sus2, 196 BPM, 56% bass, 45/45/10 melodic direction, -0.04 regularity) doesn't fully exist in any other artist. But *subsets* of it exist everywhere — which is why Ray's taste is so eclectic and why his music sounds familiar to people who can't place why.

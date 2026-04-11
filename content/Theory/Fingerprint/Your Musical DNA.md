@@ -1,6 +1,6 @@
 ---
 title: "Le Rug — Your Musical DNA"
-description: "The complete musical fingerprint of Le Rug — 57% power chords, zigzag melodies, bass-heavy register. 407 tracks reverse-engineered into concrete music theory."
+description: "The complete musical fingerprint of Le Rug — 53% power chords, zigzag melodies, bass-heavy register. 439 tracks reverse-engineered into concrete music theory."
 ---
 
 # Your Musical DNA
@@ -37,7 +37,7 @@ You play almost entirely by ear, have no formal theory training, and describe yo
 
 **Critical caveat — the power chord / sus2 overlap:** These numbers treat power chords and sus2 as separate categories, but they aren't in practice. Ray's default power chord shape ("The Standard" in the Style Guide) includes the 2nd/9th on the B string — it's technically a sus2 spread across 5 strings, not a pure root+5th. This means the 57.4% power chord figure and the 5.4% sus2 figure describe overlapping territory. The chord detector sees root+5th and calls it a power chord, but the 2nd is ringing on the B string in the same voicing.
 
-**What this actually means:** The harmonic ambiguity isn't a secondary color that shows up 5% of the time. It's present in the foundation shape — every time Ray reaches for a "power chord," the sus2 quality comes along for free. The real split isn't 57% power / 5% sus2. It's closer to: the majority of the catalog lives in a blurred zone between power chord and sus2, with the 2nd always hovering. The ambiguity is the default, not the exception.
+**What this actually means:** The harmonic ambiguity isn't a secondary color that shows up 5% of the time. It's present in the foundation shape — every time Ray reaches for a "power chord," the sus2 quality comes along for free. The real split isn't 53% power / 5.8% sus2. It's closer to: the majority of the catalog lives in a blurred zone between power chord and sus2, with the 2nd always hovering. The ambiguity is the default, not the exception.
 
 **Key insight:** On top of this, the explicitly detected sus2 and sus4 chords are nearly equal (5.4% vs 5.2%). Most guitarists lean heavily one way. The equal usage creates a constant push-pull — the 2nd wants to resolve down, the 4th wants to resolve up, and neither wins. Combined with the sus2 baked into the standard power chord shape, the listener is essentially never on solid harmonic ground.
 
@@ -224,9 +224,9 @@ Running the same analysis pipeline on Ray's stated influences produced a precise
 
 With full album samples (66 Fall tracks, 57 Beefheart, 44 Built to Spill), Built to Spill emerges as the closest structural match — nearly identical chord balance, register, and melodic movement. The Fall and Beefheart are both ~74% power chords, 20 points higher than Ray — simpler than they sound. See [[Theory/Influences/Influence Fingerprint Comparison]] for the full analysis.
 
-Separately, comparisons with music Ray gravitates toward — but didn't influence him — revealed unexpected connections. Takahashi/YMO shares 56% power chords (vs Ray's 57%) and 2/3 key centers. Yugowave shares rhythmic regularity and bass-heavy register despite completely different chord vocabulary and tempo.
+Separately, comparisons with music Ray gravitates toward — but didn't influence him — revealed unexpected connections. Takahashi/YMO shares 56% power chords (vs Ray's 53%) and 2/3 key centers. Yugowave shares rhythmic regularity and bass-heavy register despite completely different chord vocabulary and tempo.
 
-The most striking discovery: **Dead or Alive** is the closest structural match to Le Rug of any artist analyzed — identical tempo (199 vs 198 BPM), identical melodic direction (45/45/10), identical bass register (59%). A Hi-NRG synth-pop band from Liverpool. See [[Theory/Influences/Dead or Alive - The Hidden Match]] and [[Theory/Influences/The Full Comparison Map]] for the complete 8-group analysis.
+The most striking discovery: **Dead or Alive** is the closest structural match to Le Rug of any artist analyzed — near-identical tempo (199 vs 196 BPM), identical melodic direction (45/45/10), similar bass register (59% vs 56%). A Hi-NRG synth-pop band from Liverpool. See [[Theory/Influences/Dead or Alive - The Hidden Match]] and [[Theory/Influences/The Full Comparison Map]] for the complete 8-group analysis.
 
 ---
 

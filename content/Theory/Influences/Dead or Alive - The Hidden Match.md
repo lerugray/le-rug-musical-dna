@@ -15,13 +15,13 @@ description: "The closest structural fingerprint match to Le Rug is a Hi-NRG syn
 
 | Metric | Le Rug | Dead or Alive | Delta |
 |---|---|---|---|
-| **Tempo** | 198 BPM | 199 BPM | **1 BPM** |
+| **Tempo** | 196 BPM | 199 BPM | **3 BPM** |
 | **Melodic direction** | 45/45/10 | 45/45/10 | **Exact match** |
-| **Bass register** | 59% | 59% | **Identical** |
+| **Bass register** | 56% | 59% | **Close** |
 | Sus2 % | 5% | 8% | DoA has *more* |
 | Sub-bass | 21.3% | 23.8% | Close |
 | Density | 7.0 n/s | 5.9 n/s | -16% |
-| Power chords | 57% | 76% | DoA higher |
+| Power chords | 53% | 76% | DoA higher |
 | Key centers | E/G/D | F#/A#/C# | Different harmonic world |
 
 ---
@@ -46,7 +46,7 @@ Dead or Alive uses *more* sus2 than Le Rug (8% vs 5%). The harmonic ambiguity th
 
 ### What's Different
 
-The key centers are a different harmonic world entirely (F#/A#/C# vs E/G/D). Dead or Alive's power chord percentage is higher (76% vs 57%) — the synth-driven arrangements reduce to root+fifth more often than guitar-driven ones with open-string resonance. And the density is lower (5.9 vs 7.0) — programmed synths play fewer simultaneous notes than a guitar with strings ringing.
+The key centers are a different harmonic world entirely (F#/A#/C# vs E/G/D). Dead or Alive's power chord percentage is higher (76% vs 53%) — the synth-driven arrangements reduce to root+fifth more often than guitar-driven ones with open-string resonance. And the density is lower (5.9 vs 7.0) — programmed synths play fewer simultaneous notes than a guitar with strings ringing.
 
 ---
 
