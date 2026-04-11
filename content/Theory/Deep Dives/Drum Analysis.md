@@ -1,3 +1,8 @@
+---
+title: "Drum Analysis — Double-Drum vs Solo Eras"
+description: "Le Rug's double-drum era (2007–2010) vs solo-drum era (2014–2020). Separated stems reveal completely different rhythmic personalities."
+---
+
 # Drum Analysis
 
 *Drum stem analysis — onset density, rhythmic regularity, spectral balance, and complexity. Sample of 11 tracks across 5 eras.*

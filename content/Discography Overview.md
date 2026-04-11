@@ -1,3 +1,8 @@
+---
+title: "Discography Overview — 407 Tracks Across 21 Releases"
+description: "The complete Le Rug discography with per-album stats — BPM, density, chord breakdown, and key signatures across 15 years of music."
+---
+
 # Discography Overview
 
 *Complete catalog of Ray Weiss's musical output across all projects.*
@@ -155,3 +160,17 @@ The analysis captures melodic and harmonic content but does not directly analyze
 ## Data Notes
 
 C.R.E.E.P. and Sex Reduction Flower share 5 tracks: Tripper, 2C-E, Sweet Kicks, Buffalo, Hugo. Some SoundCloud instrumentals also appear on the Flabby Wings compilation. Game Over contains earlier versions of tracks that later appeared on other albums (The Grim Reefer, Birds, Pat Buchanan, She Sings Metal) — these versions are analyzed separately to track song evolution. The 407 track count includes these overlaps.
+
+---
+
+## Where to Listen
+
+| Source | What's There |
+|---|---|
+| [lerug.bandcamp.com](https://lerug.bandcamp.com/music) | Sex Reduction Flower, C.R.E.E.P., America, Nuke Whales, Dead In A Hole, Ersatz, Party With Peter Burns, Party Rock, Goodnight, Anyone But Hindenburg, and more |
+| [lerugbleenex.bandcamp.com](https://lerugbleenex.bandcamp.com) | Bleenex (Ten Year Anniversary Edition) |
+| [fleetingyouthrecords.bandcamp.com](https://fleetingyouthrecords.bandcamp.com) | Swelling, Press Start (The Collection), Game Over |
+| [butterthechildren.bandcamp.com](https://butterthechildren.bandcamp.com) | Butter the Children EP, True Crime |
+| [Spotify — Le Rug](https://open.spotify.com/album/6Dkdfo7Fe9GYqyqZImTrJG) | Bleenex, Swelling |
+| [Apple Music — Le Rug](https://music.apple.com/us/artist/le-rug/880672760) | Bleenex (Ten Year Anniversary Edition), Swelling |
+| [SoundCloud — albert-liberto](https://soundcloud.com/albert-liberto) | ~45 solo instrumentals |

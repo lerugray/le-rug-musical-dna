@@ -22,7 +22,7 @@ Written by Ray Weiss. Performed by Ray Weiss (guitar, drums), Inna Mkrtycheva (v
 
 **Power chord %:** 77.9% — high, consistent with Ray's guitar style even in a full-band context.
 
-**Register:** 49.9% bass — the bass-heaviest record in the catalog. The heavy bass register likely reflects Max Kagan's bass prominence in the mix.
+**Register:** 49.9% bass — among the bass-heaviest records in the catalog. The heavy bass register likely reflects Max Kagan's bass prominence in the mix.
 
 **Density:** 6.7 n/s average, same as Swelling. Prognosis Negative is the densest (8.2 n/s); Rochelle Rochelle the sparsest (5.3 n/s).
 

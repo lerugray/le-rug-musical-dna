@@ -224,9 +224,7 @@ Running the same analysis pipeline on Ray's stated influences produced a precise
 
 The defining trait — the sus2/sus4 ambiguity — comes from Beefheart, not from The Fall (0% suspended chords) or Built to Spill (sus2 only, no sus4). See [[Theory/Influences/Influence Fingerprint Comparison]] for the full analysis.
 
-Separately, comparisons with music Ray gravitates toward — but didn't influence him — revealed that musical similarity operates on two distinct levels:
-- **Compositional** (what notes you play) — Takahashi/YMO shares 56% power chords (vs Ray's 57%) and 2/3 key centers
-- **Textural** (how the music sits in the room) — Yugowave shares rhythmic regularity and bass-heavy register
+Separately, comparisons with music Ray gravitates toward — but didn't influence him — revealed unexpected connections. Takahashi/YMO shares 56% power chords (vs Ray's 57%) and 2/3 key centers. Yugowave shares rhythmic regularity and bass-heavy register despite completely different chord vocabulary and tempo.
 
 The most striking discovery: **Dead or Alive** is the closest structural match to Le Rug of any artist analyzed — identical tempo (199 vs 198 BPM), identical melodic direction (45/45/10), identical bass register (59%). A Hi-NRG synth-pop band from Liverpool. See [[Theory/Influences/Dead or Alive - The Hidden Match]] and [[Theory/Influences/The Full Comparison Map]] for the complete 8-group analysis.
 

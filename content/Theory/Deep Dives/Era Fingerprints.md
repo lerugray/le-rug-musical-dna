@@ -1,3 +1,8 @@
+---
+title: "Era Fingerprints — How Le Rug's Sound Changed (2007–2020)"
+description: "Four eras of Le Rug compared with radar charts. Power chords, density, and harmonic variety shifted — but bass register and melodic direction never changed."
+---
+
 # Era Fingerprints
 
 *Comparing the musical DNA across each phase of the catalog. What changed, what didn't, and what the numbers reveal that the ear might miss.*

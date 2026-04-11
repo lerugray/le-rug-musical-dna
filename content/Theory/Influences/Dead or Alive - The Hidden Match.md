@@ -1,3 +1,8 @@
+---
+title: "Dead or Alive — The Hidden Match"
+description: "The closest structural fingerprint match to Le Rug is a Hi-NRG synth-pop band from Liverpool. Identical tempo, identical melodic direction, identical bass register."
+---
+
 # Dead or Alive — The Hidden Match
 
 *The closest structural fingerprint match to Le Rug in the entire comparison set is a Hi-NRG synth-pop band from Liverpool. Nobody would have predicted this. Part of the broader [[Theory/Influences/The Full Comparison Map|Full Comparison Map]] across 8 artist groups.*
@@ -59,7 +64,7 @@ The structural fingerprint match between a Brooklyn post-punk guitarist and a Li
 
 Ray covered Dead or Alive directly: "My Heart Goes Bang (Dead or Alive Cover)" appears on the Party With Peter Burns EP. "Article 5 (Dead or Alive)" is another track on the same EP. Pete Burns is a referenced figure in the catalog, not a casual listen.
 
-The connection between post-punk and synth-pop through structural similarity (rather than genre lineage) suggests a deeper principle: musicians are drawn to music that shares their structural instincts regardless of surface aesthetics. What you *like* reveals what you *are*, and the fingerprint makes that visible.
+The connection between post-punk and synth-pop through structural similarity (rather than genre lineage) is one of the more surprising results in the comparison set.
 
 ---
 

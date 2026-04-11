@@ -26,4 +26,4 @@ status: "have"
 |---|---|---|---|---|---|---|
 | 1 | 01 Goblin | 198 | 2.2m | 907 | 6.7 | C chromatic |
 | 2 | 02 Article 5 (Dead or Alive) | 206 | 1.9m | 1003 | 8.8 | C chromatic |
-| 3 | 03 My Heart Goes Band (Dead or Alive Cover) | 209 | 2.9m | 1456 | 8.3 | C chromatic |
+| 3 | 03 My Heart Goes Bang (Dead or Alive Cover) | 209 | 2.9m | 1456 | 8.3 | C chromatic |

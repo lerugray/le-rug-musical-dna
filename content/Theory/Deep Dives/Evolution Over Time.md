@@ -129,7 +129,7 @@ Across every era and every project:
 1. **Octave doubling** — always your #1 interval technique
 2. **Note duration** — always ~0.25 seconds average
 3. **E as a home note** — always top 5 in pitch class usage
-4. **Power chords as foundation** — never dropped below 50% of chord usage
+4. **Power chords as foundation** — consistently the dominant chord type (46–71% across eras)
 5. **Standard tuning** — your pitch class distribution always maps to EADGBE
 6. **The zigzag** — melodies oscillate, they don't arc
 

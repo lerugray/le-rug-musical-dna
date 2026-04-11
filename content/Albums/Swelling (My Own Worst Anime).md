@@ -39,7 +39,7 @@ Played, produced, and mixed by Ray Weiss in Bangkok, Thailand. Released December
 
 Recorded during what Ray has called a low period — living in Bangkok, the last Le Rug record before selling instruments. The title reflects the self-deprecation ("My Own Worst Anime"). But the data doesn't show decline: the power chord percentage is actually higher than any other Le Rug release, the density is mid-catalog, and the octave doubling signature is strong. If anything, the stripping away of other musicians left a purer distillation of the core style.
 
-Previously thought to be lost. Found on Fleeting Youth Records Bandcamp in April 2026.
+Previously thought to be lost. Found on Fleeting Youth Records Bandcamp.
 
 ## Overlaps
 

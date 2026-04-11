@@ -99,7 +99,7 @@ Welsh noise-pop trio that channels The Fall and Albini-era production into impos
 ### Yugoslav New Wave / Coldwave / Darkwave (1983-1990)
 **Artists:** Boye, Trivalia, Morbidi I Mnoci, Krik, La Card, Videosex, Boomerang, Inje, Romantine Boje
 
-Analyzing 9 Yugowave tracks with the same methods and comparing fingerprints, the match wasn't compositional (different chord vocabulary, different tempo, different density) — it was **textural**. Yugowave and Le Rug share:
+Analyzing 9 Yugowave tracks with the same methods and comparing fingerprints, the match wasn't in chord vocabulary, tempo, or density — it was in how the music sits in the room. Yugowave and Le Rug share:
 - **Rhythmic regularity:** The two closest-to-zero regularity scores of any group compared (-0.018 vs -0.039). Both play "loose but controlled."
 - **Bass-heavy register:** 65% vs 59% below E3. Both live in the low end.
 - **Sub-bass presence:** 24.6% vs 21.3%. The rumble.

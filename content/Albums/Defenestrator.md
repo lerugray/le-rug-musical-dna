@@ -36,16 +36,16 @@ Ray's solo noise/hardware project. Instruments included a Make Noise Strega and 
 
 ## Tracks
 
-| # | Title | BPM | Duration | Notes | Density | Source |
-|---|---|---|---|---|---|---|
-| 1 | Aquatic Amphetamines | 118 | 5.0m | 312 | **1.0** | recovered/bozo |
-| 2 | MES Ascends to Heaven | 211 | 5.0m | 2,441 | 8.2 | recovered/bozo |
-| 3 | Misanthropy and Farce | 198 | 5.9m | 1,946 | 5.5 | recovered/bozo |
-| 4 | Catatonic Schizophrenic | 151 | 9.4m | 1,751 | 3.1 | recovered/defenestrator |
-| 5 | Predator Vision | 160 | 15.0m | 2,157 | 2.4 | recovered/defenestrator |
+| # | Title | BPM | Duration | Notes | Density |
+|---|---|---|---|---|---|
+| 1 | Aquatic Amphetamines | 118 | 5.0m | 312 | **1.0** |
+| 2 | MES Ascends to Heaven | 211 | 5.0m | 2,441 | 8.2 |
+| 3 | Misanthropy and Farce | 198 | 5.9m | 1,946 | 5.5 |
+| 4 | Catatonic Schizophrenic | 151 | 9.4m | 1,751 | 3.1 |
+| 5 | Predator Vision | 160 | 15.0m | 2,157 | 2.4 |
 
 ## Notes
 
-Tracks were recovered from two separate folders ("bozo" and "defenestrator"). Both contain Defenestrator material. The "bozo" folder may have been a working title or alternate release grouping.
+Tracks were recovered from two separate sources. "Bozo" may have been a working title or alternate release grouping.
 
 This project represents the furthest Ray ever got from song-based music. The hardware-driven approach strips away everything that defines the Le Rug sound — no power chords as foundation, no octave doubling, no short-burst songwriting. What remains is texture, duration, and a willingness to sit in a sound.

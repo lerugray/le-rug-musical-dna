@@ -1,3 +1,8 @@
+---
+title: "The Full Comparison Map — 8 Artists vs Le Rug"
+description: "The Fall, Built to Spill, Beefheart, Dead or Alive, Italo Disco, YMO, Yugowave — each matches Le Rug on different structural traits. No single artist matches all."
+---
+
 # The Full Comparison Map
 
 *Every genre Ray gravitates toward shares specific structural traits with Le Rug — but different traits for each genre. The ear recognizes structural kinship across completely unrelated styles.*

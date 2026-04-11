@@ -1,3 +1,8 @@
+---
+title: "Yugowave Parallel — Yugoslav New Wave Meets Le Rug"
+description: "Parallel convergence across decades and continents. Yugoslav new wave shares Le Rug's bass weight, timing looseness, and guitar-as-texture approach."
+---
+
 # Yugowave — The Parallel Convergence
 
 *Not an influence. A discovery. Ray found Yugoslav new wave/post-punk/coldwave (1983-1990) and felt an immediate familiarity he couldn't explain. The data explains it.*
@@ -74,7 +79,7 @@ When Ray says "this sounds extremely similar to what I already do," he's respond
 
 The chord vocabulary and tempo are different enough that a genre-based approach would never surface this connection. But looking at register distribution, rhythmic regularity, and sub-bass presence catches it immediately.
 
-The parallel is in how the music sits in the room, not what notes are being played. Textural similarity and compositional similarity are independent dimensions — both matter.
+The parallel is in how the music sits in the room, not what notes are being played.
 
 ---
 

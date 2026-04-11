@@ -14,7 +14,7 @@ year: 2007
 
 **13 tracks** | **38.5 min** | **202 BPM avg** | **8.3 n/s**
 
-The debut Le Rug record. Produced and mixed by **John DeNicola** (who wrote "(I've Had) The Time of My Life" from Dirty Dancing) and Ray Weiss at Jake's Kitchen Sink Recording Studio, NYC. Files recovered directly from DeNicola, 2026-04-09.
+The debut Le Rug record. Produced and mixed by **John DeNicola** (who wrote "(I've Had) The Time of My Life" from Dirty Dancing) and Ray Weiss at Jake's Kitchen Sink Recording Studio, NYC. Files recovered directly from DeNicola.
 
 ## The Surprise
 

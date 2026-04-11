@@ -55,4 +55,4 @@ Butter the Children: Ray Weiss (guitar/keys/backup vocals), Inna Mkrtycheva (voc
 
 True crime theme — track titles reference criminals and crime (Robyn Byrd, Tot Mom, Dennis [Rader?], Jack Kemp). The consistent density and tempo suggests a tightly rehearsed band playing these live in the studio with minimal overdubs.
 
-Recovered from the Butter the Children catalog. BtC's Bandcamp (butterthechildren.bandcamp.com) is controlled by Ray's ex, Inna Mkrtycheva.
+Recovered from the Butter the Children catalog. BtC's Bandcamp (butterthechildren.bandcamp.com) is managed by Inna Mkrtycheva.
