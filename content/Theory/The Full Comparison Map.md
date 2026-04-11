@@ -5,7 +5,7 @@
 ---
 
 ## The Master Table
-![Chart](images/The Full Comparison Map.png)
+![Chart](https://lerugray.github.io/le-rug-musical-dna/images/The-Full-Comparison-Map.png)
 
 
 | Artist | Trk | n/s | BPM | Pwr% | Sus2% | Maj% | Min% | Bass% | Asc% | Regularity | Keys |

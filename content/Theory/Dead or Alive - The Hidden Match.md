@@ -5,7 +5,7 @@
 ---
 
 ## The Data
-![Chart](images/Dead or Alive - The Hidden Match.png)
+![Chart](https://lerugray.github.io/le-rug-musical-dna/images/Dead-or-Alive---The-Hidden-Match.png)
 
 
 | Metric | Le Rug | Dead or Alive | Delta |

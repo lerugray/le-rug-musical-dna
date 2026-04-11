@@ -5,7 +5,7 @@
 ---
 
 ## The Comparison
-![Chart](images/Era Fingerprints-1.png)
+![Chart](https://lerugray.github.io/le-rug-musical-dna/images/Era-Fingerprints-1.png)
 
 
 *Density and tempo scaled for visual comparison. Actual values in table below.*
@@ -32,7 +32,7 @@ This is the opposite of the assumption. The sparsest eras have the *highest* pow
 - **Bangkok/Swelling** (6.7 n/s) = 71% power chords
 - **Bleenex** (8.3 n/s) = 48% power chords
 - **ABH/Comeback** (9.1 n/s) = 46% power chords
-![Chart](images/Era Fingerprints-2.png)
+![Chart](https://lerugray.github.io/le-rug-musical-dna/images/Era-Fingerprints-2.png)
 
 
 *Density scaled x10 for visual comparison.*

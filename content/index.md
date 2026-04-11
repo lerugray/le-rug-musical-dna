@@ -11,7 +11,7 @@ An AI-assisted deep analysis of Ray Weiss's complete musical output — Le Rug, 
 > **Want to play music like Le Rug?** Start with the [[Theory/The Ray Weiss Style Guide|Style Guide]] — a practical recipe for writing in this style. Then explore the [[Theory/Chord Vocabulary|Chord Vocabulary]] to see the exact chords used across 407 tracks.
 
 ## Quick Stats
-![Chart](images/00 - Home.png)
+![Chart](https://lerugray.github.io/le-rug-musical-dna/images/00---Home.png)
 
 
 | Metric | Value |

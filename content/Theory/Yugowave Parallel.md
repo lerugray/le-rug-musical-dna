@@ -5,7 +5,7 @@
 ---
 
 ## The Comparison
-![Chart](images/Yugowave Parallel.png)
+![Chart](https://lerugray.github.io/le-rug-musical-dna/images/Yugowave-Parallel.png)
 
 
 *Regularity normalized to 0-50 scale for visual comparison (higher = more metronomic).*

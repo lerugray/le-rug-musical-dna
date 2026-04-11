@@ -10,7 +10,7 @@ description: "Which influences actually shaped Le Rug's sound? Running the same 
 ---
 
 ## The Comparison
-![Chart](images/Influence Fingerprint Comparison-1.png)
+![Chart](https://lerugray.github.io/le-rug-musical-dna/images/Influence-Fingerprint-Comparison-1.png)
 
 
 | Artist | Tracks | n/s | BPM | Power % | Sus2 % | Major % | Minor % | Bass % |
@@ -35,7 +35,7 @@ Ray describes his sound as "an aggressive Built to Spill." The data confirms thi
 **Density:** Ray's 7.0 n/s is between The Fall's sparse 1.4 and BtS's dense 10.9. Again, the midpoint.
 
 **Tempo:** Ray's 198 BPM is close to BtS's 210 — both playing at punk speed. The Fall is significantly slower at 124 BPM. Ray took the Fall's aesthetic but plays it at Built to Spill's velocity.
-![Chart](images/Influence Fingerprint Comparison-2.png)
+![Chart](https://lerugray.github.io/le-rug-musical-dna/images/Influence-Fingerprint-Comparison-2.png)
 
 
 ### The Beefheart Connection Is Real — and It's Sus2/Sus4
