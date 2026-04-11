@@ -27,7 +27,7 @@ description: "Parallel convergence across decades and continents. Yugoslav new w
 
 ## Where It Matches: Texture, Not Composition
 
-The Yugowave fingerprint doesn't match Le Rug in chord vocabulary (76% power chords vs 53%), tempo (175 vs 196 BPM), or density (4.3 vs 7.0 n/s). By the compositional metrics, they're quite different.
+The Yugowave fingerprint doesn't match Le Rug in chord vocabulary (76% power chords vs 53%), tempo (175 vs 196 BPM), or density (4.3 vs 6.9 n/s). By the compositional metrics, they're quite different.
 
 But by the *textural* metrics — the ones that describe how the music **feels** rather than what notes are played — they're the closest match:
 

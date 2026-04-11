@@ -11,8 +11,8 @@ Many of these tracks also appear on the [[Albums/Flabby Wings]] compilation (18 
 | Stat | Instrumentals | All Projects Avg |
 |---|---|---|
 | Tracks | 45+ | 439 total catalog |
-| Total duration | 160.4 min | 1,117 min |
-| Avg density | 6.9 n/s | 7.0 n/s |
+| Total duration | 160.4 min | 1,250 min |
+| Avg density | 6.9 n/s | 6.9 n/s |
 | Top key | D | E (full catalog) |
 
 **The instrumentals are a significant chunk of the catalog.** 2.5+ hours of unreleased material. These aren't throwaway sketches — many are fully developed 4-5 minute compositions.

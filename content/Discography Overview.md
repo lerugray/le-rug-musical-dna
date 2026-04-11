@@ -7,7 +7,7 @@ description: "The complete Le Rug discography with per-album stats — BPM, dens
 
 *Complete catalog of Ray Weiss's musical output across all projects.*
 
-**439 tracks analyzed** | **436,831 notes** | **1,117 minutes** | **196 BPM avg** | **7.0 n/s avg**
+**439 tracks analyzed** | **521,722 notes** | **1,250 minutes** | **196 BPM avg** | **6.9 n/s avg**
 
 ---
 

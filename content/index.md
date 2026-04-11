@@ -17,8 +17,8 @@ An AI-assisted deep analysis of Ray Weiss's complete musical output — Le Rug, 
 | Metric | Value |
 |---|---|
 | Total tracks analyzed | **439** |
-| Total notes | **436,831** |
-| Total duration | **18.6 hours** (1,117 minutes) |
+| Total notes | **521,722** |
+| Total duration | **20.8 hours** (1,250 minutes) |
 | Active years | **~2007-2020** |
 | Projects | Le Rug, Butter the Children, Living Serious, Red Dwarf, Defenestrator, solo |
 | Core fingerprint | 53% power chords, octave doubling, zigzag melodies, bass-heavy register |

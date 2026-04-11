@@ -10,7 +10,7 @@
 
 | Artist | Tracks | n/s | BPM | Power % | Sus2 % | Sus4 % | Major % | Minor % | Bass % |
 |---|---|---|---|---|---|---|---|---|---|
-| **Le Rug** | 439 | **7.0** | **196** | **53.0%** | **5.8%** | **5.1%** | **13.8%** | **6.7%** | **56.0%** |
+| **Le Rug** | 439 | **6.9** | **196** | **53.0%** | **5.8%** | **5.1%** | **13.8%** | **6.7%** | **56.0%** |
 | Built to Spill | 44 | 8.8 | 205 | 49.3% | 4.6% | 3.4% | 25.5% | 8.2% | 56.6% |
 | Captain Beefheart | 57 | 4.5 | 184 | 75.9% | 5.8% | 5.5% | 6.0% | 4.1% | 53.5% |
 | The Fall | 66 | 4.4 | 179 | 73.1% | 5.2% | 7.9% | 7.1% | 4.6% | 65.5% |
@@ -28,7 +28,7 @@ With full album samples, Built to Spill is clearly the closest fingerprint to Le
 - **Power chords:** 49.3% vs 53.0% — nearly identical chord foundation
 - **Bass register:** 56.6% vs 56.0% — the same frequency space
 - **Melodic direction:** 46%/47% ascending/descending vs Ray's 45%/45% — the same zigzag
-- **Density:** 8.8 vs 7.0 n/s — both dense, both fast
+- **Density:** 8.8 vs 6.9 n/s — both dense, both fast
 
 ![Chart](https://lerugray.github.io/le-rug-musical-dna/images/Influence-Fingerprint-Comparison-2.png)
 
@@ -38,7 +38,7 @@ The one clear difference: Built to Spill uses twice the major triads (25.5% vs 1
 
 With 66 Fall tracks and 57 Beefheart tracks analyzed, both come in at ~74-76% power chords. That's 20+ points higher than Ray. The perception of The Fall as complex and chaotic is driven by Mark E. Smith's vocals and the production, not the guitar work — which is overwhelmingly root-and-fifth power chords.
 
-Both are also significantly sparser (4.4-4.5 n/s vs Ray's 7.0) and slower (179-184 BPM vs Ray's 196). Ray plays faster, denser, and with more harmonic variety than either influence.
+Both are also significantly sparser (4.4-4.5 n/s vs Ray's 6.9) and slower (179-184 BPM vs Ray's 196). Ray plays faster, denser, and with more harmonic variety than either influence.
 
 ### The Sus2/Sus4 Story — Revised
 
@@ -66,7 +66,7 @@ What Ray took from The Fall isn't the chord vocabulary (they're 20 points apart 
 | Chord balance (power %) | **Built to Spill** | 49% vs 53% — nearest of the three |
 | Harmonic richness (major triads) | Between BtS and Fall | BtS 25.5%, Ray 13.8%, Fall 7.1% |
 | Sus2/Sus4 balance | Beefheart | 5.8%/5.5% vs Ray's 5.8%/5.1% — nearest match |
-| Density | **Built to Spill** | 8.8 vs 7.0 n/s — both dense |
+| Density | **Built to Spill** | 8.8 vs 6.9 n/s — both dense |
 | Tempo | **Built to Spill** | 205 vs 196 — both fast |
 | Bass register | **The Fall** | 65.5% vs 56.0% — both bass-heavy |
 | Melodic direction | **Built to Spill** | 46/47% vs 45/45% — identical zigzag |

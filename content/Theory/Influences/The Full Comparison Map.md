@@ -79,7 +79,7 @@ The closest sus2/sus4 match of any influence. See [[Theory/Influences/Influence 
 |---|---|---|---|
 | **Power chord %** | 53% | 49.3% | **+3.7%** |
 | **Bass register** | 56% | 56.6% | **-0.6%** |
-| **Density** | 7.0 n/s | 8.8 n/s | Same high range |
+| **Density** | 6.9 n/s | 8.8 n/s | Same high range |
 | **Tempo** | 196 BPM | 205 BPM | Same fast range |
 | **Major triads** | 13.8% | 25.5% | Both use triads for color |
 

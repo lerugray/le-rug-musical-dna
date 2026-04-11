@@ -99,9 +99,9 @@ The Game Over unreleased tracks include several that are dramatically different 
 
 | Metric | Palm Beach | Catalog Average |
 |---|---|---|
-| Density | 1.5 n/s | 7.0 n/s |
+| Density | 1.5 n/s | 6.9 n/s |
 | Tempo | 120 BPM | 196 BPM |
-| Sub-bass | **60.5%** | 21.3% |
+| Sub-bass | **60.5%** | 19.6% |
 | Velocity | avg 51 | ~70-80 |
 
 263 notes in nearly 3 minutes. 60% sub-bass register. Average velocity of 51 (quiet). Tempo at 120 BPM — the slowest in the catalog. The rhythm distribution is nearly flat across all buckets (no dominant subdivision) — there's no consistent rhythmic pulse.

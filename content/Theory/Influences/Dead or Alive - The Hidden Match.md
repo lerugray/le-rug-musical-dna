@@ -20,7 +20,7 @@ description: "The closest structural fingerprint match to Le Rug is a Hi-NRG syn
 | **Bass register** | 56% | 59% | **Close** |
 | Sus2 % | 5% | 8% | DoA has *more* |
 | Sub-bass | 21.3% | 23.8% | Close |
-| Density | 7.0 n/s | 5.9 n/s | -16% |
+| Density | 6.9 n/s | 5.9 n/s | -14% |
 | Power chords | 53% | 76% | DoA higher |
 | Key centers | E/G/D | F#/A#/C# | Different harmonic world |
 
