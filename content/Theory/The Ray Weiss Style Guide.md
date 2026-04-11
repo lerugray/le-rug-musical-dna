@@ -1,3 +1,8 @@
+---
+title: "The Ray Weiss Style Guide — How to Play Like Le Rug"
+description: "A practical recipe for writing music in the Le Rug style. Chord voicings, melodic approach, rhythmic feel, and a critique checklist — everything you need to write like Ray Weiss."
+---
+
 # The Ray Weiss Style Guide
 
 *A practical guide for writing music in the Le Rug style — or critiquing music through Ray's aesthetic lens.*

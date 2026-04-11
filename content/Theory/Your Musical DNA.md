@@ -1,3 +1,8 @@
+---
+title: "Le Rug — Your Musical DNA"
+description: "The complete musical fingerprint of Le Rug — 57% power chords, zigzag melodies, bass-heavy register. 407 tracks reverse-engineered into concrete music theory."
+---
+
 # Your Musical DNA
 
 *What the data reveals about how Ray Weiss writes music — the theory behind the ear.*

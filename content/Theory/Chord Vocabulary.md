@@ -1,3 +1,8 @@
+---
+title: "Le Rug Chord Vocabulary — What Ray Weiss Actually Plays"
+description: "57% power chords, 13% major triads, sus2 chords as a signature move. The complete chord vocabulary across 407 tracks of Le Rug's catalog."
+---
+
 # Chord Vocabulary
 
 *Every chord you use, ranked by frequency across 407 analyzed tracks (all projects).*

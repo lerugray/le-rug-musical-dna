@@ -1,3 +1,8 @@
+---
+title: "Le Rug vs The Fall vs Built to Spill vs Beefheart"
+description: "Which influences actually shaped Le Rug's sound? Running the same analysis on The Fall, Built to Spill, and Captain Beefheart reveals surprising matches — and bigger surprises about what didn't match."
+---
+
 # Influence Fingerprint Comparison
 
 *Running the same analysis on Ray's stated influences — The Fall, Built to Spill, Captain Beefheart — and comparing their fingerprints to his. Does the data match the feelings?*
