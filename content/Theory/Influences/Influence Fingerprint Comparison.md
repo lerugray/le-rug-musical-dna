@@ -6,22 +6,7 @@
 
 ## The Comparison
 
-```chart
-type: radar
-labels: [Power Chord %, Density (n/s x10), Tempo (BPM/20), Bass %, Ascending %]
-series:
-  - title: Le Rug
-    data: [53, 70, 98, 56, 45]
-  - title: The Fall
-    data: [73, 44, 90, 66, 42]
-  - title: Built to Spill
-    data: [49, 88, 102, 57, 46]
-  - title: Captain Beefheart
-    data: [76, 45, 92, 54, 44]
-width: 75%
-labelColors: true
-fill: true
-```
+![Chart](https://lerugray.github.io/le-rug-musical-dna/images/Influence-Fingerprint-Comparison-1.png)
 
 | Artist | Tracks | n/s | BPM | Power % | Sus2 % | Sus4 % | Major % | Minor % | Bass % |
 |---|---|---|---|---|---|---|---|---|---|
@@ -45,20 +30,7 @@ With full album samples, Built to Spill is clearly the closest fingerprint to Le
 - **Melodic direction:** 46%/47% ascending/descending vs Ray's 45%/45% — the same zigzag
 - **Density:** 8.8 vs 7.0 n/s — both dense, both fast
 
-```chart
-type: bar
-labels: [Power Chord %, Major Triad %, Sus2 %, Minor Triad %, Density (n/s)]
-series:
-  - title: The Fall
-    data: [73.1, 7.1, 5.2, 4.6, 4.4]
-  - title: Le Rug
-    data: [53.0, 13.8, 5.8, 6.7, 7.0]
-  - title: Built to Spill
-    data: [49.3, 25.5, 4.6, 8.2, 8.8]
-width: 80%
-labelColors: true
-beginAtZero: true
-```
+![Chart](https://lerugray.github.io/le-rug-musical-dna/images/Influence-Fingerprint-Comparison-2.png)
 
 The one clear difference: Built to Spill uses twice the major triads (25.5% vs 13.8%). Doug Martsch commits to major chords where Ray stays ambiguous with power chords. Ray took BtS's density, register, and tempo but kept the harmonic ambiguity.
 
