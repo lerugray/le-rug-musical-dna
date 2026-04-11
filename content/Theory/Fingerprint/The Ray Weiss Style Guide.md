@@ -158,7 +158,7 @@ The shoegaze chord. Thumb on the root, major 7th on the high E string:
 e|--N-1--     (major 7th)
 B|--N----     (5th)
 G|--N+1--     (major 3rd)
-D|--x----     (muted — or open at certain positions)
+D|--0/x--     (open if it doubles an existing note, muted otherwise)
 A|--N+2--     (5th, low)
 E|--N----     (root, thumb)
 ```
@@ -168,12 +168,12 @@ Example at the 3rd fret (Gmaj7):
 e|--2--  F#  (major 7th)
 B|--3--  D
 G|--4--  B
-D|--x--
+D|--0--  D   (doubles the 5th on the A string — let it ring)
 A|--5--  D
 E|--3--  G  ← thumb
 ```
 
-Notes: **G - D - B - D - F#** = **Gmaj7** (root, 3rd, 5th, major 7th). The major 7th interval creates the dreamy, shimmering quality that the analysis tagged as "shoegaze DNA" (3.1% of all chord usage).
+Notes: **G - D - B - D - D - F#** = **Gmaj7** (root, 5th, 3rd, 5th, 5th, major 7th). The open D string drones the same note already on the A string, reinforcing the 5th — no reason to mute it. The major 7th interval creates the dreamy, shimmering quality that the analysis tagged as "shoegaze DNA" (3.1% of all chord usage).
 
 **Open string trick:** At the 6th fret this becomes Bbmaj7 — and the open D string is Bb's major 3rd, so it rings naturally instead of being muted. This is the open-string resonance technique in action: move a shape up the neck and let open strings join the chord when they happen to fit. You don't need to know *why* the open D works over Bb — your ear tells you it does.
 
