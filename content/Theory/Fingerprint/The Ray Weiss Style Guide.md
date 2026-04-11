@@ -18,10 +18,10 @@ This guide codifies the instincts of a self-taught musician who played entirely 
 ## The Core Principles
 
 ### 1. Ambiguity Over Clarity
-Use power chords (root + 5th, no 3rd) as your default. This keeps the harmony open — neither happy nor sad. Only reveal major or minor at emotional peaks. The listener should always feel slightly uncertain about where they are harmonically.
+Power chords (root + 5th, no 3rd) are the default. This keeps the harmony open — neither happy nor sad. Only reveal major or minor at emotional peaks. The listener should always feel slightly uncertain about where they are harmonically.
 
 ### 2. Octave Layering
-Double everything in octaves. Play a riff on the low strings, then simultaneously or immediately after play it an octave higher. This is your primary texture-building technique. It makes a solo guitar sound like two guitars without adding harmonic complexity.
+Double everything in octaves. Play a riff on the low strings, then simultaneously or immediately after play it an octave higher. This is Ray's primary texture-building technique. It makes a solo guitar sound like two guitars without adding harmonic complexity.
 
 ### 3. Open String Resonance
 Let open strings ring against fretted notes. Don't mute the strings you're "not using." The sympathetic resonance of open E, A, D, G, B adds chromatic color naturally. This is easier in standard tuning and harder in drop tunings.
@@ -40,7 +40,7 @@ Songs should be 1-4 minutes. Say what you need to say and stop. If a section wor
 ## The Chord Palette
 
 ### Tier 1: Power Chords (use ~53% of the time)
-Your home base. G5, C5, D5, A5, E5 are the core five. Move between them freely.
+Ray's home base. G5, C5, D5, A5, E5 are the core five. Move between them freely.
 
 #### "The Standard" — Power Chord with Built-In 2nd
 
@@ -79,9 +79,9 @@ For movement and tension. Alternate between sus4 and sus2 on the same root:
 - A -> Asus4 -> A -> Asus2 (the "rocking chair")
 - D -> Dsus4 -> D -> Dsus2
 
-#### "The Thumb Sus2" — Your Signature Voicing
+#### "The Thumb Sus2" — Ray's Signature Voicing
 
-Your most distinctive chord shape, fretted with the thumb wrapping the 6th string (Hendrix-style thumb technique). Moveable anywhere on the neck:
+Ray's most distinctive chord shape, fretted with the thumb wrapping the 6th string (Hendrix-style thumb technique). Moveable anywhere on the neck:
 
 ```
 e|--N+2--     (9th / 2nd up the octave)
@@ -148,7 +148,7 @@ The thumb holds the root on the 6th string. Everything else moves:
 | Up 2 frets | Sus4 | Tension, reaching |
 | Add the 3rd (add9 shape) | Add9 | Resolved, bright |
 
-This is your entire Tier 2 chord system built from one hand position.
+This is Ray's entire Tier 2 chord system built from one hand position.
 
 #### "The Shimmer" — Major 7th Voicing
 
@@ -175,7 +175,7 @@ E|--3--  G  ← thumb
 
 Notes: **G - D - B - D - D - F#** = **Gmaj7** (root, 5th, 3rd, 5th, 5th, major 7th). The open D string drones the same note already on the A string, reinforcing the 5th — no reason to mute it. The major 7th interval creates the dreamy, shimmering quality that the analysis tagged as "shoegaze DNA" (3.1% of all chord usage).
 
-**Open string trick:** At the 6th fret this becomes Bbmaj7 — and the open D string is Bb's major 3rd, so it rings naturally instead of being muted. This is the open-string resonance technique in action: move a shape up the neck and let open strings join the chord when they happen to fit. You don't need to know *why* the open D works over Bb — your ear tells you it does.
+**Open string trick:** At the 6th fret this becomes Bbmaj7 — and the open D string is Bb's major 3rd, so it rings naturally instead of being muted. This is the open-string resonance technique in action: move a shape up the neck and let open strings join the chord when they happen to fit. You don't need to know *why* the open D works over Bb — the ear decides.
 
 #### "The Open Bloom" — Moveable Add9 with Open Strings
 
@@ -381,7 +381,7 @@ A|--5--  D   (root)
 E|--x--
 ```
 
-Notes: **D - F# - A - E** = **Dadd9**. Same chord type as the Resolved Add9 (thumb version) but a completely different voicing — compact, punchy, no bass rumble. The thumb version is wide and booming across 5 strings; this one is tight and focused on the inner four. Having both shapes means you can play add9 in two registers without moving your harmonic center.
+Notes: **D - F# - A - E** = **Dadd9**. Same chord type as the Resolved Add9 (thumb version) but a completely different voicing — compact, punchy, no bass rumble. The thumb version is wide and booming across 5 strings; this one is tight and focused on the inner four. Having both shapes means add9 is available in two registers without shifting the harmonic center.
 
 #### "The Resolved Add9" — The Sus2's Major Sibling
 
@@ -472,12 +472,12 @@ Where to play:
 
 AVOID:     |                              [above E5 — only for rare screaming harmonics]
 SOMETIMES: |████████████████              [E4-E5 — melodic peaks, leads]
-OFTEN:     |██████████████████████████    [E3-E4 — your main melodic/rhythmic zone]
+OFTEN:     |██████████████████████████    [E3-E4 — Ray's main melodic/rhythmic zone]
 ALWAYS:    |██████████████████████████████████████ [E2-E3 — bass, riffs, foundation]
 OFTEN:     |█████████████████████         [below E2 — low bass anchoring]
 ```
 
-Your melodies live where most people's rhythm parts live. Your "leads" are in the low-mid register. This creates a dense, bass-heavy sound that doesn't need a separate bass guitar to feel full.
+Ray's melodies live where most people's rhythm parts live. The "leads" are in the low-mid register. This creates a dense, bass-heavy sound that doesn't need a separate bass guitar to feel full.
 
 ---
 

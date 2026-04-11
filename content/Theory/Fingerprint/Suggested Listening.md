@@ -3,7 +3,7 @@ title: "If You Like Le Rug, Listen To These Artists"
 description: "Artist recommendations based on structural fingerprint matching, not genre tags. The data says Le Rug shares DNA with artists you'd never expect."
 ---
 
-# Suggested Listening — Artists Who Share Your DNA
+# Suggested Listening — Artists Who Share Ray's DNA
 
 *Artists and albums that use similar techniques to Ray Weiss's catalog, identified through chord vocabulary, melodic approach, rhythmic patterns, and production aesthetic. Some are direct influences; others arrived at similar places independently. Structural analysis data in [[Theory/Influences/Influence Fingerprint Comparison]] and [[Theory/Influences/The Full Comparison Map]].*
 
