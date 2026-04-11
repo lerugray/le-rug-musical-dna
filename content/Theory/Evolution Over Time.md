@@ -87,6 +87,8 @@ If you'd continued, the next Le Rug record might have been the most dynamic thin
 The key center return to C/A/E (brighter, more open) after the dark E/A of 2014 suggests you came back to something — picking up a guitar after the solo electronics period and returning to your natural open-string instincts.
 
 ## Density Over Time (All Projects)
+![Chart](images/Evolution Over Time.png)
+
 
 | Album | n/s | Note |
 |---|---|---|

@@ -20,6 +20,8 @@ You play almost entirely by ear, have no formal theory training, and describe yo
 ## 1. You Are a Power Chord Musician (But Not Only)
 
 **57.4% of all detected chord shapes are power chords (root + 5th).** This is your foundation. But the remaining 42.6% is where it gets interesting:
+![Chart](images/Your Musical DNA-1.png)
+
 
 | Chord Type | Usage | What It Means |
 |---|---|---|
@@ -79,6 +81,8 @@ The scale detector flagged 96% of your tracks as "chromatic" — meaning you use
 This is actually a hallmark of **ear-trained guitarists who play in standard tuning.** The open E, A, D, G, B, E strings ring sympathetically no matter what chord you're fretting, adding chromatic color that a theory-trained player would carefully avoid or control.
 
 ### Your Pitch Class Hierarchy (All Tracks Combined)
+![Chart](images/Your Musical DNA-2.png)
+
 
 | Pitch | Count | Note |
 |---|---|---|
@@ -121,6 +125,8 @@ Le Rug also borrowed The Fall's **double-drum** configuration — Burns and Hanl
 ---
 
 ## 5. Where You Play — Register Map
+![Chart](images/Your Musical DNA-3.png)
+
 
 **85.4% of your notes are below E4 (middle C area).** You are a bass-register musician. Even your guitar parts tend to sit in the lower strings. The high register (above E5) barely registers — you're not a lead guitar player in the traditional sense. Your "leads" are in the same register as your rhythm parts, just with different voicings.
 
@@ -129,6 +135,8 @@ This bass-heaviness combined with the octave doubling creates your characteristi
 ---
 
 ## 6. Rhythm — Fast and Free
+![Chart](images/Your Musical DNA-4.png)
+
 
 74.6% of your note attacks happen within 200ms of each other. You play **fast** — constant 16th-note and 32nd-note subdivisions. But your rhythmic regularity score averages -0.05, which means your timing is **deliberately loose** — you're not locked to a grid. You speed up and slow down organically.
 
@@ -201,6 +209,8 @@ The theoretical underpinning is a kind of **intuitive modal ambiguity** — by h
 ## 9. Where It Comes From, Where It Goes
 
 Running the same analysis pipeline on Ray's stated influences produced a precise inheritance map:
+![Chart](images/Your Musical DNA-5.png)
+
 
 | Trait | Source | Evidence |
 |---|---|---|

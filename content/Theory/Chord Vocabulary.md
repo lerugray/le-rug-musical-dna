@@ -10,6 +10,8 @@ description: "57% power chords, 13% major triads, sus2 chords as a signature mov
 ## The Foundation: Power Chords (57.4%) — With a Caveat
 
 Your top power chords by usage:
+![Chart](images/Chord Vocabulary-1.png)
+
 
 | Chord | Count | Guitar Position |
 |---|---|---|
@@ -29,6 +31,8 @@ Your top power chords by usage:
 **G-C-D-A-E is your core loop.** With the full catalog counted, G and C leap ahead of D — driven by the recovered material, instrumentals, and non-Le Rug projects which favor brighter, higher key centers.
 
 **Important: the 57.4% is misleading.** Ray's default power chord shape ("The Standard") includes the 2nd/9th on the B string — it's a 5-string voicing that is technically a sus2, not a pure root+5th. The chord detector identifies the root+5th core and calls it a power chord, but the 2nd is ringing alongside it. This means the power chord and sus2 categories overlap significantly. In practice, the majority of the catalog lives in a blurred zone between power chord and sus2 — the ambiguity is the default voicing, not a color applied on top.
+![Chart](images/Chord Vocabulary-2.png)
+
 
 ## Beyond Power Chords: Your Color Palette
 

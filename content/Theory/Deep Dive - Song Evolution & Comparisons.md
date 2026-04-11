@@ -9,6 +9,8 @@
 The Grim Reefer appears on Game Over (2015, Fleeting Youth compilation) and Anyone But Hindenburg (2020). Five years apart. The question: how did the song evolve?
 
 **Answer: it didn't evolve. It was rewritten from the ground up.**
+![Chart](images/Deep Dive - Song Evolution & Comparisons.png)
+
 
 | Metric | Game Over (2015) | ABH (2020) | Change |
 |---|---|---|---|

@@ -5,6 +5,8 @@
 ## Does the Producer Change the Fingerprint?
 
 Three different professional producers worked on Ray's material. Does their involvement show up in the data, or is the fingerprint always Ray's?
+![Chart](images/Producer Fingerprint & Other Deep Dives-1.png)
+
 
 | Producer | Album | Trk | n/s | BPM | Pwr% | Sus2% | Maj% | Maj7% | Bass% |
 |---|---|---|---|---|---|---|---|---|---|
@@ -52,6 +54,8 @@ Key centers shift slightly: vocal material centers on E/G/A (open-string dominan
 ## Nuke Whales — The Presidential Musical Rankings
 
 44 songs about 44 presidents. Each president gets their own musical treatment. The question: which presidents got the most musical effort?
+![Chart](images/Producer Fingerprint & Other Deep Dives-2.png)
+
 
 ### Most Musical Effort (highest density)
 | President | Notes | Duration | n/s | BPM |

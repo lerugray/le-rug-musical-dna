@@ -5,6 +5,8 @@
 ---
 
 ## The Comparison
+![Chart](images/Yugowave Parallel.png)
+
 
 *Regularity normalized to 0-50 scale for visual comparison (higher = more metronomic).*
 

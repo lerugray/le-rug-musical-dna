@@ -7,6 +7,8 @@
 ## The Big Finding: Two Completely Different Drum Philosophies
 
 The data reveals a clear split between the **double-drum band era** (Bleenex through Nuke Whales) and the **solo era** (Dead In A Hole onward). These aren't just different in sound — they're structurally opposite.
+![Chart](images/Drum Analysis-1.png)
+
 
 *Radar values normalized to 0-100 scale for visual comparison.*
 
@@ -68,6 +70,8 @@ DIAH's "Disco Fry" scores 21 tempo peaks — the most complex rhythmic track in 
 Note: Demucs tempo estimates differ from the pitch-based tempo detection because they're measuring different things — the drum tempo is derived from the isolated percussion pattern, while the melodic tempo includes guitar/bass rhythm.
 
 ### Regularity Over Time
+![Chart](images/Drum Analysis-2.png)
+
 
 ---
 

@@ -5,6 +5,8 @@
 ---
 
 ## The Data
+![Chart](images/Dead or Alive - The Hidden Match.png)
+
 
 | Metric | Le Rug | Dead or Alive | Delta |
 |---|---|---|---|
