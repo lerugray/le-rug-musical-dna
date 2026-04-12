@@ -93,6 +93,7 @@ The original three influences were chosen by Ray as stated touchstones. Running 
 | 8 | Pixies — *Trompe le Monde* | **86.4%** | 13 | More abrasive; further from the fingerprint |
 | 10 | Frank Black — *Teenager of the Year* | **84.4%** | 22 | Broader, looser than the debut |
 | 10 | Divine Comedy — *Absent Friends* | **84.4%** | 11 | Third DC album in the set |
+| 12 | Sweet Bulbs | **82.3%** | 4 | Ray played guitar on *Junk*; see below |
 | — | The Fall (66 tracks) | — | 66 | Original influence |
 | — | Captain Beefheart (57 tracks) | — | 57 | Original influence |
 | — | Takahashi / YMO | — | 6 | Discovery |
@@ -114,6 +115,10 @@ Frank Black's self-titled debut (87.5%) outscores Teenager of the Year (84.4%). 
 ### Prefab Sprout: Langley Park Beats Steve McQueen
 
 From Langley Park to Memphis (89.4%) edges Steve McQueen (87.1%) by 2 points. Both albums share Paddy McAloon's signature sus2/sus4 chord language and high melodic density, but Langley Park sits in a slightly lower register and has more consistent sub-bass presence — both traits that push it closer to Le Rug's fingerprint. Steve McQueen is brighter and more synth-forward, which pulls the register profile slightly higher.
+
+### Sweet Bulbs: Collaboration DNA at 82.3%
+
+Sweet Bulbs is a lo-fi Brooklyn project that Ray co-produced and played guitar on — most notably on *Junk*, which Tyler the Creator tweeted about. Despite the direct musical collaboration, Sweet Bulbs scores lower than any non-collaboration group in the top 11. The explanation is context: Sweet Bulbs recordings are basement lo-fi with minimal production, which suppresses the density, register variety, and harmonic complexity that define the Le Rug fingerprint. The DNA is present — you can hear it in the guitar lines on *Junk* — but the production context masks it. This is a useful lesson in what the fingerprint captures and what it doesn't: it measures what's in the audio, and lo-fi recording compresses the signal that the fingerprint relies on.
 
 ### Dead or Alive: 25-Track Expansion
 

@@ -67,7 +67,7 @@ An AI-assisted deep analysis of Ray Weiss's complete musical output — Le Rug, 
 - [[Theory/Influences/Influence Fingerprint Comparison]] — The Fall vs Built to Spill vs Beefheart vs Le Rug
 - [[Theory/Influences/Dead or Alive - The Hidden Match]] — closest structural match (196 vs 199 BPM, identical melodic direction)
 - [[Theory/Influences/Yugowave Parallel]] — parallel convergence with Yugoslav new wave
-- [[Theory/Influences/The Full Comparison Map]] — all 8 groups compared across every metric
+- [[Theory/Influences/The Full Comparison Map]] — all 12 groups compared across every metric
 
 **Deep Dives:**
 - [[Theory/Deep Dives/Era Fingerprints]] — per-era comparison with radar charts
