@@ -1,29 +1,38 @@
 ---
-album: "Le Rug - Sticky Buns"
+title: "Sticky Buns"
 tracks: 3
-total_notes: 1497
-duration_min: 7.1
-avg_tempo: 179
-avg_density: 3.5
-top_scale: "C chromatic"
-status: "have"
+duration_min: "7.1"
+avg_density: "3.4"
+total_notes: "1497"
 ---
-
 # Sticky Buns
 
-**3 tracks** | **7.1 minutes** | **179 BPM avg** | **3.5 notes/sec**
+**3 tracks** | **7.1 min** | **3.4 notes/sec**
+
+**Keys:** D major (1), e- minor (1), f# minor (1)
+
 
 ## Top Chords
-- F# power chord (5th): 92
-- D major triad: 45
-- C# power chord (5th): 21
-- E power chord (5th): 16
-- A# power chord (5th): 16
+
+> *Chord identifications come from MIDI transcription (basic-pitch), which often drops the 3rd on distorted guitar — so chords that were played as major or minor triads can register as root+5th (harmonically ambiguous). See [[Theory/Fingerprint/Chord Vocabulary]] for the full note on harmonic ambiguity.*
+
+| Chord | Count |
+|---|---|
+| F# Root+5th (ambiguous) | 92 |
+| D major triad | 45 |
+| C# Root+5th (ambiguous) | 21 |
+| E Root+5th (ambiguous) | 16 |
+| A# Root+5th (ambiguous) | 16 |
+| G# Root+5th (ambiguous) | 16 |
+| D Root+5th (ambiguous) | 13 |
+| D dominant 7th | 8 |
+
 
 ## Tracks
 
-| # | Title | BPM | Duration | Notes | Density | Top Scale |
-|---|---|---|---|---|---|---|
-| 1 | 01 The Boss | 172 | 2.2m | 442 | 3.4 | C chromatic |
-| 2 | 02 Native Americans | 166 | 2.0m | 249 | 2.1 | C chromatic |
-| 3 | 03 The Horror | 199 | 2.9m | 806 | 4.6 | C chromatic |
+| # | Title | Key | Notes | Duration |
+|---|---|---|---|---|
+| 1 | 01 The Boss | D major | 442 | 2:11 |
+| 2 | 02 Native Americans | e- minor | 249 | 1:58 |
+| 3 | 03 The Horror | f# minor | 806 | 2:54 |
+

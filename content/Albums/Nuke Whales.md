@@ -1,70 +1,79 @@
 ---
-album: "Le Rug - Nuke Whales"
+title: "Nuke Whales"
 tracks: 44
-total_notes: 11010
-duration_min: 29.8
-avg_tempo: 199
-avg_density: 6.1
-top_scale: "C chromatic"
-status: "have"
+duration_min: "29.8"
+avg_density: "6.1"
+total_notes: "11010"
 ---
-
 # Nuke Whales
 
-**44 tracks** | **29.8 minutes** | **199 BPM avg** | **6.1 notes/sec** | **Double drums**
+**44 tracks** | **29.8 min** | **6.1 notes/sec**
+
+**Keys:** C major (7), a minor (6), G major (5), e minor (5), A major (5)
+
 
 ## Top Chords
-- B power chord (5th): 289
-- A power chord (5th): 250
-- E power chord (5th): 250
-- D power chord (5th): 218
-- G power chord (5th): 191
+
+> *Chord identifications come from MIDI transcription (basic-pitch), which often drops the 3rd on distorted guitar — so chords that were played as major or minor triads can register as root+5th (harmonically ambiguous). See [[Theory/Fingerprint/Chord Vocabulary]] for the full note on harmonic ambiguity.*
+
+| Chord | Count |
+|---|---|
+| B Root+5th (ambiguous) | 289 |
+| A Root+5th (ambiguous) | 250 |
+| E Root+5th (ambiguous) | 250 |
+| D Root+5th (ambiguous) | 218 |
+| G Root+5th (ambiguous) | 191 |
+| C Root+5th (ambiguous) | 140 |
+| C major triad | 79 |
+| D major triad | 77 |
+
 
 ## Tracks
 
-| # | Title | BPM | Duration | Notes | Density | Top Scale |
-|---|---|---|---|---|---|---|
-| 1 | 01 George Washington | 215 | 1.1m | 520 | 8.0 | C chromatic |
-| 2 | 02 John Adams | 197 | 0.5m | 247 | 8.4 | C chromatic |
-| 3 | 03 Thomas Jefferson | 192 | 0.9m | 296 | 5.5 | C chromatic |
-| 4 | 04 James Madison | 204 | 0.2m | 103 | 6.9 | C chromatic |
-| 5 | 05 James Monroe | 203 | 0.6m | 206 | 5.3 | C chromatic |
-| 6 | 06 John Quincy Adams | 194 | 0.4m | 139 | 5.6 | C chromatic |
-| 7 | 07 Andrew Jackson | 194 | 1.1m | 302 | 4.6 | C chromatic |
-| 8 | 08 Martin Van Buren | 213 | 0.3m | 140 | 8.3 | C chromatic |
-| 9 | 09 William Henry Harrison | 178 | 0.1m | 20 | 3.6 | C phrygian |
-| 10 | 10 John Tyler | 221 | 0.4m | 179 | 8.3 | C chromatic |
-| 11 | 11 James Knox Polk | 216 | 0.8m | 354 | 7.1 | C major (ionian) |
-| 12 | 12 Zachary Taylor | 184 | 0.1m | 50 | 7.0 | C chromatic |
-| 13 | 13 Millard Fillmore | 200 | 0.6m | 246 | 6.7 | C chromatic |
-| 14 | 14 Franklin Pierce | 195 | 0.2m | 91 | 7.3 | C chromatic |
-| 15 | 15 James Buchanan | 203 | 0.6m | 312 | 8.2 | C lydian |
-| 16 | 16 Abraham Lincoln | 200 | 0.6m | 179 | 4.9 | C chromatic |
-| 17 | 17 Andrew Johnson | 201 | 0.3m | 91 | 5.0 | C lydian |
-| 18 | 18 Ulysses S. Grant | 204 | 0.8m | 373 | 7.5 | C chromatic |
-| 19 | 19 Rutherfor B. Hayes | 192 | 0.5m | 118 | 4.3 | C chromatic |
-| 20 | 20 James A. Garfield | 179 | 0.2m | 30 | 2.8 | C chromatic |
-| 21 | 21 Chester A. Arthur | 201 | 0.4m | 131 | 5.7 | C chromatic |
-| 22 | 22 Grover Cleveland (1) | 200 | 0.4m | 167 | 7.3 | C chromatic |
-| 23 | 23 Benjamin Harrison | 190 | 0.1m | 34 | 5.1 | C major (ionian) |
-| 24 | 24 Grover Cleveland (2) | 188 | 0.4m | 138 | 5.9 | C chromatic |
-| 25 | 25 William McKinley | 163 | 0.7m | 143 | 3.5 | C chromatic |
-| 26 | 26 Teddy Roosevelt | 208 | 1.2m | 444 | 6.3 | C chromatic |
-| 27 | 27 William Howard Taft | 193 | 1.0m | 185 | 3.1 | C chromatic |
-| 28 | 28 Woodrow Wilson | 198 | 1.6m | 506 | 5.3 | C chromatic |
-| 29 | 29 Warren G. Harding | 207 | 0.5m | 218 | 7.6 | C lydian |
-| 30 | 30 Calvin Cooladge | 200 | 0.8m | 257 | 5.5 | C chromatic |
-| 31 | 31 Herbert Hoover | 188 | 0.9m | 291 | 5.3 | C chromatic |
-| 32 | 32 Franklin Delano Roosevelt | 199 | 1.2m | 500 | 7.0 | C chromatic |
-| 33 | 33 Harry Truman | 191 | 0.8m | 209 | 4.2 | C chromatic |
-| 34 | 34 Dwight D. Eisenhower | 206 | 0.8m | 487 | 10.0 | C major (ionian) |
-| 35 | 35 John Fitzgerald Kennedy | 207 | 0.3m | 86 | 4.3 | C chromatic |
-| 36 | 36 Lyndon Baines Johnson | 217 | 0.8m | 509 | 10.1 | C chromatic |
-| 37 | 37 Richard Nixon | 201 | 1.2m | 424 | 5.9 | C chromatic |
-| 38 | 38 Gerald Ford | 211 | 0.3m | 125 | 6.3 | C chromatic |
-| 39 | 39 Jimmy Carter | 214 | 0.8m | 326 | 6.5 | C chromatic |
-| 40 | 40 Ronald Reagan | 199 | 1.8m | 699 | 6.4 | C chromatic |
-| 41 | 41 George H. W. Bush | 207 | 0.3m | 107 | 5.7 | C chromatic |
-| 42 | 42 William Jefferson Clinton | 208 | 0.7m | 309 | 7.0 | C chromatic |
-| 43 | 43 George W. Bush | 197 | 1.1m | 372 | 5.9 | C chromatic |
-| 44 | 44 Barack Obama | 187 | 1.3m | 347 | 4.4 | C chromatic |
+| # | Title | Key | Notes | Duration |
+|---|---|---|---|---|
+| 1 | 01 George Washington | G major | 520 | 1:04 |
+| 2 | 02 John Adams | e minor | 247 | 0:29 |
+| 3 | 03 Thomas Jefferson | D major | 296 | 0:53 |
+| 4 | 04 James Madison | A major | 103 | 0:14 |
+| 5 | 05 James Monroe | D major | 206 | 0:38 |
+| 6 | 06 John Quincy Adams | b minor | 139 | 0:25 |
+| 7 | 07 Andrew Jackson | a minor | 302 | 1:05 |
+| 8 | 08 Martin Van Buren | C major | 140 | 0:16 |
+| 9 | 09 William Henry Harrison | E- major | 20 | 0:05 |
+| 10 | 10 John Tyler | e- minor | 179 | 0:21 |
+| 11 | 11 James Knox Polk | C major | 354 | 0:49 |
+| 12 | 12 Zachary Taylor | a minor | 50 | 0:07 |
+| 13 | 13 Millard Fillmore | b minor | 246 | 0:36 |
+| 14 | 14 Franklin Pierce | F# major | 91 | 0:12 |
+| 15 | 15 James Buchanan | G major | 312 | 0:37 |
+| 16 | 16 Abraham Lincoln | a minor | 179 | 0:36 |
+| 17 | 17 Andrew Johnson | G major | 91 | 0:18 |
+| 18 | 18 Ulysses S. Grant | e minor | 373 | 0:49 |
+| 19 | 19 Rutherfor B. Hayes | B- major | 118 | 0:27 |
+| 20 | 20 James A. Garfield | A major | 30 | 0:10 |
+| 21 | 21 Chester A. Arthur | B major | 131 | 0:23 |
+| 22 | 22 Grover Cleveland (1) | C major | 167 | 0:22 |
+| 23 | 23 Benjamin Harrison | e minor | 34 | 0:06 |
+| 24 | 24 Grover Cleveland (2) | C major | 138 | 0:23 |
+| 25 | 25 William McKinley | d minor | 143 | 0:41 |
+| 26 | 26 Teddy Roosevelt | e minor | 444 | 1:10 |
+| 27 | 27 William Howard Taft | C major | 185 | 0:59 |
+| 28 | 28 Woodrow Wilson | B major | 506 | 1:35 |
+| 29 | 29 Warren G. Harding | G major | 218 | 0:28 |
+| 30 | 30 Calvin Cooladge | b minor | 257 | 0:47 |
+| 31 | 31 Herbert Hoover | c# minor | 291 | 0:55 |
+| 32 | 32 Franklin Delano Roosevelt | a minor | 500 | 1:11 |
+| 33 | 33 Harry Truman | D major | 209 | 0:50 |
+| 34 | 34 Dwight D. Eisenhower | C major | 487 | 0:48 |
+| 35 | 35 John Fitzgerald Kennedy | e minor | 86 | 0:20 |
+| 36 | 36 Lyndon Baines Johnson | G major | 509 | 0:50 |
+| 37 | 37 Richard Nixon | a minor | 424 | 1:11 |
+| 38 | 38 Gerald Ford | A major | 125 | 0:19 |
+| 39 | 39 Jimmy Carter | A major | 326 | 0:50 |
+| 40 | 40 Ronald Reagan | B major | 699 | 1:48 |
+| 41 | 41 George H. W. Bush | a minor | 107 | 0:18 |
+| 42 | 42 William Jefferson Clinton | C major | 309 | 0:43 |
+| 43 | 43 George W. Bush | D major | 372 | 1:03 |
+| 44 | 44 Barack Obama | A major | 347 | 1:18 |
+

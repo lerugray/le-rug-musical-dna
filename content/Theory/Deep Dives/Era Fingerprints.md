@@ -1,6 +1,6 @@
 ---
-title: "Era Fingerprints — How Le Rug's Sound Changed (2007–2020)"
-description: "Four eras of Le Rug compared with radar charts. Power chords, density, and harmonic variety shifted — but bass register and melodic direction never changed."
+title: "Era Fingerprints — How the DNA Shifted Per Period"
+description: "Per-era comparison via radar charts. Harmonic ambiguity rate and density move inversely, the bass-heavy register stays constant, and the zigzag melodic ratio never moves."
 ---
 
 # Era Fingerprints
@@ -10,12 +10,13 @@ description: "Four eras of Le Rug compared with radar charts. Power chords, dens
 ---
 
 ## The Comparison
-![Chart](https://lerugray.github.io/le-rug-musical-dna/images/Era-Fingerprints-1.png)
 
+
+![Chart](https://lerugray.github.io/le-rug-musical-dna/images/Era-Fingerprints-1.png)
 
 *Density and tempo scaled for visual comparison. Actual values in table below.*
 
-| Era | Tracks | n/s | BPM | Power % | Bass % | Asc % | Key Centers |
+| Era | Tracks | n/s | BPM | Ambig % | Bass % | Asc % | Key Centers |
 |---|---|---|---|---|---|---|---|
 | Bleenex (2007) | 13 | 8.3 | 202 | 48% | 61% | 46% | A, G, F |
 | Twin Albums (~2008) | 25 | 7.1 | 195 | 56% | 61% | 45% | E, G, A |
@@ -30,23 +31,26 @@ description: "Four eras of Le Rug compared with radar charts. Power chords, dens
 
 ## What the Numbers Reveal
 
-### 1. Power Chords and Density Are Inversely Related
+### 1. Harmonic Ambiguity and Density Are Inversely Related
 
-This is the opposite of the assumption. The sparsest eras have the *highest* power chord percentages:
-- **Sticky Buns** (3.5 n/s) = 74% power chords
-- **Bangkok/Swelling** (6.7 n/s) = 71% power chords
-- **Bleenex** (8.3 n/s) = 48% power chords
-- **ABH/Comeback** (9.1 n/s) = 46% power chords
+*"Harmonic ambiguity" here refers to chord events where the MIDI transcriber could not detect a clear third — closely correlated with the power chord idiom but not literally a count of intentional power chord voicings. See [[Theory/Fingerprint/Chord Vocabulary]] for details.*
+
+This is the opposite of the assumption. The sparsest eras have the *highest* harmonic ambiguity rates:
+- **Sticky Buns** (3.5 n/s) = 74% harmonic ambiguity
+- **Bangkok/Swelling** (6.7 n/s) = 71% harmonic ambiguity
+- **Bleenex** (8.3 n/s) = 48% harmonic ambiguity
+- **ABH/Comeback** (9.1 n/s) = 46% harmonic ambiguity
+
+
 ![Chart](https://lerugray.github.io/le-rug-musical-dna/images/Era-Fingerprints-2.png)
-
 
 *Density scaled x10 for visual comparison.*
 
-When playing fewer notes, every note is a power chord. When playing more notes, those extra notes are triads, 7ths, sus chords, add9s — the harmonic vocabulary expands to fill the space. **Density and harmonic complexity move together, not against each other.** The dense, "aggressive" tracks are actually the most harmonically rich.
+When playing fewer notes, nearly every chord event reads as ambiguous. When playing more notes, those extra notes start registering as triads, 7ths, sus chords, add9s — the detectable harmonic vocabulary expands to fill the space. **Density and harmonic complexity move together, not against each other.** The dense, "aggressive" tracks are actually the most harmonically rich.
 
 ### 2. The Comeback Is the Most Harmonically Diverse Era
 
-ABH (2020) has the *lowest* power chord percentage of any era: 46%. Less than half. This is the "mature synthesis" in hard numbers — by 2020, the chord palette had opened up to include more triads, suspended chords, and extensions than at any other point.
+ABH (2020) has the *lowest* harmonic ambiguity rate of any era: 46%. Less than half. This is the "mature synthesis" in hard numbers — by 2020, the chord palette had opened up to include more triads, suspended chords, and extensions than at any other point.
 
 Combined with the highest density (9.1 n/s), this means ABH packs more harmonic information into more notes per second than anything else in the catalog. It's simultaneously the busiest and the most varied.
 
@@ -79,24 +83,24 @@ The trajectory: started A-centered, spent years in E territory, and ended up C/A
 
 ### Most Distinctive (furthest from the catalog average)
 
-| Track | Album | n/s | BPM | Pwr% | Why it's unusual |
+| Track | Album | n/s | BPM | Ambig% | Why it's unusual |
 |---|---|---|---|---|---|
-| Indefinite Diagnosis | Flabby Wings | 17.2 | 217 | 1% | Near-zero power chords, 84% mid/high register — the anti-fingerprint |
+| Indefinite Diagnosis | Flabby Wings | 17.2 | 217 | 1% | Near-zero ambiguity, 84% mid/high register — the anti-fingerprint |
 | Gloss | Bleenex | 17.2 | 214 | 7% | Dense from note one, register-shifted upward |
-| Miserable Nostalgia | Flabby Wings | 15.2 | 215 | 0% | Zero power chords — pure triads and extensions |
+| Miserable Nostalgia | Flabby Wings | 15.2 | 215 | 0% | Zero ambiguity — pure triads and extensions |
 | Eat Shit City | ABH | 18.0 | 198 | 16% | Densest track in the catalog by raw n/s |
 | Movement 1 | Flabby Wings | 14.7 | 214 | 18% | Extended composition, upper register |
-| Aquatic Amphetamines | Defenestrator | 1.0 | 118 | 100% | The opposite extreme: one note per second, all power chords |
+| Aquatic Amphetamines | Defenestrator | 1.0 | 118 | 100% | The opposite extreme: one note per second, fully ambiguous |
 
-The most distinctive tracks cluster at two extremes: ultra-dense instrumentals with almost no power chords (Flabby Wings), and ultra-sparse pieces that are nothing but power chords (Defenestrator, Bad Cop). The "Le Rug sound" lives in between.
+The most distinctive tracks cluster at two extremes: ultra-dense instrumentals with almost no harmonic ambiguity (Flabby Wings), and ultra-sparse pieces that are entirely ambiguous (Defenestrator, Bad Cop). The "Le Rug sound" lives in between.
 
 ### Most Average (closest to the catalog norm)
 
-| Track | Album | n/s | BPM | Pwr% | Score |
+| Track | Album | n/s | BPM | Ambig% | Score |
 |---|---|---|---|---|---|
 | Birth Control | Swelling | 6.6 | 197 | 57% | 0.20 |
 | FDR | America | 6.5 | 202 | 62% | 0.21 |
 | N.C.O. | Ersatz EP | 6.8 | 205 | 67% | 0.27 |
 | Birds | C.R.E.E.P. | 7.1 | 198 | 53% | 0.27 |
 
-Birth Control from Swelling (the Bangkok record) is statistically the most "average" Le Rug track in the entire catalog. 6.6 n/s, 197 BPM, 57% power chords — dead center on every metric. This is notable because Swelling was recorded alone, on the other side of the world, during a low period. The most isolated recording conditions produced the most characteristic sound. Another data point for the singular-vision thesis.
+Birth Control from Swelling (the Bangkok record) is statistically the most "average" Le Rug track in the entire catalog. 6.6 n/s, 197 BPM, 57% harmonic ambiguity — dead center on every metric. This is notable because Swelling was recorded alone, on the other side of the world, during a low period. The most isolated recording conditions produced the most characteristic sound. Another data point for the singular-vision thesis.

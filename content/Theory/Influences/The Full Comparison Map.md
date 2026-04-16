@@ -13,7 +13,7 @@ description: "The Fall, Built to Spill, Beefheart, Dead or Alive, Italo Disco, Y
 ![Chart](https://lerugray.github.io/le-rug-musical-dna/images/The-Full-Comparison-Map.png)
 
 
-| Artist | Trk | n/s | BPM | Pwr% | Sus2% | Maj% | Min% | Bass% | Asc% | Regularity | Keys |
+| Artist | Trk | n/s | BPM | Ambig% | Sus2% | Maj% | Min% | Bass% | Asc% | Regularity | Keys |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | **Le Rug** | 439 | **7.0** | **196** | **53%** | **5.8%** | **13.8%** | **6.7%** | **56%** | **45%** | **-0.039** | **E/G/D** |
 | Dead or Alive | 25 | 5.9 | **199** | 76% | 8% | 5% | 5% | **56%** | **45%** | -0.071 | F#/A#/C# |
@@ -69,11 +69,11 @@ Three exact or near-exact matches on independent metrics. The music operates at 
 ### Takahashi / YMO — The Harmonic Twin
 | Trait | Le Rug | Takahashi/YMO | Delta |
 |---|---|---|---|
-| **Power chord %** | 53% | 56% | **3%** |
+| **Harmonic ambiguity %**[^ambig] | 53% | 56% | **3%** |
 | **Key centers** | E/G/D | D/A/G | **2 of 3 shared** |
 | **Sus2 %** | 5% | 9% | Both high |
 
-The same harmonic vocabulary — the same proportion of power chords to everything else, and the same key centers. YMO's electronic compositions and Ray's guitar writing arrive at the same chord type distribution from completely different instruments. The sus2 is even higher in Takahashi's work (9%) — the same dreamy ambiguity found in Beefheart, amplified.
+The same harmonic vocabulary — the same ambiguity-to-everything-else ratio, and the same key centers. YMO's electronic compositions and Ray's guitar writing arrive at the same chord type distribution from completely different instruments. The sus2 is even higher in Takahashi's work (9%) — the same dreamy ambiguity found in Beefheart, amplified.
 
 ### Italo Disco — The Sub-Bass/Sus2 Match
 | Trait | Le Rug | Italo Disco | Delta |
@@ -83,7 +83,7 @@ The same harmonic vocabulary — the same proportion of power chords to everythi
 | **Major triad %** | 14% | 16% | ~2% |
 | **Minor triad %** | 6% | 7% | ~1% |
 
-The entire chord TYPE distribution is the closest overall match. The proportions of power chords, major triads, minor triads, and sus2 chords are nearly identical. And the sub-bass presence (the physical weight of the low end) is a near-exact match.
+The entire chord TYPE distribution is the closest overall match. The proportions of harmonically ambiguous events, major triads, minor triads, and sus2 chords are nearly identical. And the sub-bass presence (the physical weight of the low end) is a near-exact match.
 
 ### Yugowave — The Timing/Texture Match
 | Trait | Le Rug | Yugowave | Delta |
@@ -104,7 +104,7 @@ The closest sus2/sus4 match of any influence. See [[Theory/Influences/Influence 
 ### Built to Spill — The Closest Structural Match
 | Trait | Le Rug | Built to Spill (44 tracks) | Delta |
 |---|---|---|---|
-| **Power chord %** | 53% | 49.3% | **+3.7%** |
+| **Harmonic ambiguity %** | 53% | 49.3% | **+3.7%** |
 | **Bass register** | 56% | 56.6% | **-0.6%** |
 | **Density** | 6.9 n/s | 8.8 n/s | Same high range |
 | **Tempo** | 196 BPM | 205 BPM | Same fast range |
@@ -116,9 +116,9 @@ With full album data, Built to Spill is the closest overall fingerprint match (s
 | Trait | Le Rug | The Fall (66 tracks) | Delta |
 |---|---|---|---|
 | **Bass register** | 56% | 65.5% | Both bass-heavy |
-| **Power chord %** | 53% | 73.1% | Fall is simpler |
+| **Harmonic ambiguity %** | 53% | 73.1% | Fall is simpler |
 
-The Fall's guitar work is more harmonically narrow than it sounds — 73% power chords at 4.4 n/s. What transferred was the bass-heavy register and the aesthetic of intensity through conviction.
+The Fall's guitar work is more harmonically narrow than it sounds — 73% harmonic ambiguity at 4.4 n/s. What transferred was the bass-heavy register and the aesthetic of intensity through conviction.
 
 ### Divine Comedy — The Harmonic Density Match
 
@@ -152,7 +152,7 @@ Frank Black — S/T                     Melodic density + chord vocabulary      
 The Fall                              Bass register + aesthetic                Influence
 Dead or Alive                         Tempo + melody + bass register (86.4%)   Discovery
 Italo Disco                           Sus2 + sub-bass + chord proportions      Discovery
-Takahashi / YMO                       Power chord % + key centers              Discovery
+Takahashi / YMO                       Harmonic ambiguity % + key centers       Discovery
 Yugowave                              Timing feel + bass weight                Discovery
 ```
 
@@ -170,4 +170,8 @@ Three things stand out from this comparison:
 
 2. **Different genres match on different dimensions.** Similarity matching that relies on a single metric misses most connections. Tempo, harmonic vocabulary, register distribution, and timing feel are all independent signals that can align independently.
 
-3. **The complete fingerprint is unique.** Le Rug's specific combination of traits (53% power chord, 5.8% sus2, 196 BPM, 56% bass, 45/45/10 melodic direction, -0.04 regularity) doesn't fully exist in any other artist. But *subsets* of it exist everywhere — which is why Ray's taste is so eclectic and why his music sounds familiar to people who can't place why.
+3. **The complete fingerprint is unique.** Le Rug's specific combination of traits (53% harmonic ambiguity, 5.8% sus2, 196 BPM, 56% bass, 45/45/10 melodic direction, -0.04 regularity) doesn't fully exist in any other artist. But *subsets* of it exist everywhere — which is why Ray's taste is so eclectic and why his music sounds familiar to people who can't place why.
+
+---
+
+[^ambig]: "Harmonic ambiguity" here refers to chord events where the MIDI transcriber could not detect a clear third — closely correlated with the power chord idiom but not literally a count of intentional power chord voicings. See [[Theory/Fingerprint/Chord Vocabulary]] for details.

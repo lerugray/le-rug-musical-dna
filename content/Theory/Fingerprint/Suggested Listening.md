@@ -1,9 +1,9 @@
 ---
-title: "If You Like Le Rug, Listen To These Artists"
-description: "Artist recommendations based on structural fingerprint matching, not genre tags. The data says Le Rug shares DNA with artists you'd never expect."
+title: "Suggested Listening — Artists Who Share the DNA"
+description: "Bands and albums that share Le Rug's chord vocabulary, melodic approach, and rhythmic feel. Some are direct influences (Fall, BtS, Beefheart); others arrived at similar places independently (Polvo, Wire, Swans)."
 ---
 
-# Suggested Listening — Artists Who Share Ray's DNA
+# Suggested Listening — Artists Who Share Your DNA
 
 *Artists and albums that use similar techniques to Ray Weiss's catalog, identified through chord vocabulary, melodic approach, rhythmic patterns, and production aesthetic. Some are direct influences; others arrived at similar places independently. Structural analysis data in [[Theory/Influences/Influence Fingerprint Comparison]] and [[Theory/Influences/The Full Comparison Map]].*
 
@@ -14,10 +14,10 @@ description: "Artist recommendations based on structural fingerprint matching, n
 ### Captain Beefheart — *Trout Mask Replica*, *Lick My Decals Off, Baby*
 A teenage obsession that predates everything else — and the data proves it's the deepest root. When we ran Beefheart's music through the same analysis pipeline, his fingerprint showed **5.8% sus2, 5.5% sus4** — almost identical to Ray's 5.8%/5.1%. All three core influences use suspended chords (The Fall: 5.2% sus2, 7.9% sus4; Built to Spill: 4.6% sus2, 3.4% sus4), but **Beefheart's sus2/sus4 balance is the closest to Ray's.** The harmonic ambiguity that defines the Le Rug sound — the balanced sus2/sus4 push-pull that keeps the listener on unsettled ground — has roots in all three influences, but the specific equilibrium between the two suspension types points most directly to Beefheart.
 
-Beefheart also shares Ray's high power chord usage (75.9%) and the non-resolution philosophy (0% dominant 7ths, 0% blues voicings). Where The Fall taught repetition-as-hook and Built to Spill provided the triads-and-density palette, Beefheart is the reason the music sits in permanent harmonic suspension. **Specific parallels:** Non-functional harmony held together by conviction, the sus2/sus4 ambiguity as a compositional default rather than a color choice, the idea that "wrong" notes are just notes you haven't committed to yet.
+Beefheart also shares Ray's high harmonic ambiguity rate (75.9%)[^ambig] and the non-resolution philosophy (0% dominant 7ths, 0% blues voicings). Where The Fall taught repetition-as-hook and Built to Spill provided the triads-and-density palette, Beefheart is the reason the music sits in permanent harmonic suspension. **Specific parallels:** Non-functional harmony held together by conviction, the sus2/sus4 ambiguity as a compositional default rather than a color choice, the idea that "wrong" notes are just notes you haven't committed to yet.
 
 ### The Fall — *Hex Enduction Hour*, *This Nation's Saving Grace*, *Grotesque*
-The obvious one. The classic Hanley/Burns/Scanlon/Riley lineup defined the template: double drums, atonal riffs hammered into catchiness through repetition, vocals as texture rather than melody. Expanded analysis across 6 albums (66 tracks) confirms that their guitar work is simpler than it sounds — 73% power chords — with suspended chords (5.2% sus2, 7.9% sus4) adding the harmonic color. **Specific parallels:** The unison-interval repetition (Sticky Buns is pure Fall), the refusal to resolve harmonically, the sub-3-minute song structures. **Start with:** Spectre vs Rector, Rowche Rumble, Mere Pseud Mag Ed — the tracks Ray specifically cites as embodying "atonal disgusting progressions turned into pop masterpieces."
+The obvious one. The classic Hanley/Burns/Scanlon/Riley lineup defined the template: double drums, atonal riffs hammered into catchiness through repetition, vocals as texture rather than melody. Expanded analysis across 6 albums (66 tracks) confirms that their guitar work is simpler than it sounds — 73% harmonic ambiguity — with suspended chords (5.2% sus2, 7.9% sus4) adding the harmonic color. **Specific parallels:** The unison-interval repetition (Sticky Buns is pure Fall), the refusal to resolve harmonically, the sub-3-minute song structures. **Start with:** Spectre vs Rector, Rowche Rumble, Mere Pseud Mag Ed — the tracks Ray specifically cites as embodying "atonal disgusting progressions turned into pop masterpieces."
 
 ### Built to Spill — *Perfect From Now On*, *There's Nothing Wrong with Love*
 Ray's self-described sound reference ("aggressive Built to Spill"). Now confirmed as the closest overall structural match of any influence group (similarity score 0.0382). **Specific parallels:** The octave doubling technique (Doug Martsch's signature), the open-string resonance in standard tuning, the wall-of-guitar texture from a small band. **Key difference:** Martsch writes long ascending/descending melodic arcs; Ray writes zigzag oscillations. Same chords, different movement.
@@ -99,12 +99,16 @@ Welsh noise-pop trio that channels The Fall and Albini-era production into impos
 ### Yugoslav New Wave / Coldwave / Darkwave (1983-1990)
 **Artists:** Boye, Trivalia, Morbidi I Mnoci, Krik, La Card, Videosex, Boomerang, Inje, Romantine Boje
 
-Analyzing 9 Yugowave tracks with the same methods and comparing fingerprints, the match wasn't in chord vocabulary, tempo, or density — it was in how the music sits in the room. Yugowave and Le Rug share:
+When we ran 9 Yugowave tracks through the same analysis pipeline and compared fingerprints, the match wasn't compositional (different chord vocabulary, different tempo, different density) — it was **textural**. Yugowave and Le Rug share:
 - **Rhythmic regularity:** The two closest-to-zero regularity scores of any group compared (-0.018 vs -0.039). Both play "loose but controlled."
 - **Bass-heavy register:** 65% vs 56% below E3. Both live in the low end.
 - **Sub-bass presence:** 24.6% vs 21.3%. The rumble.
 - **Post-punk energy channeled through guitar-as-texture** rather than guitar-as-melody.
 
-What Ray is hearing when he says "this sounds like me" is the *feel*, not the theory. Bass weight, timing looseness, dark atmosphere — arrived at independently across decades and continents. A genre-based approach would never make this connection. Matching on register distribution and rhythmic regularity catches it immediately.
+What Ray is hearing when he says "this sounds like me" is the *feel*, not the theory. Bass weight, timing looseness, dark atmosphere — arrived at independently across decades and continents. A genre-based recommendation system would never make this connection. A fingerprint-based system catches it immediately by matching on register distribution and rhythmic regularity.
 
 See [[Theory/Influences/Yugowave Parallel]] for the full analysis with charts.
+
+---
+
+[^ambig]: "Harmonic ambiguity" here refers to chord events where the MIDI transcriber could not detect a clear third — closely correlated with the power chord idiom but not literally a count of intentional power chord voicings. See [[Theory/Fingerprint/Chord Vocabulary]] for details.

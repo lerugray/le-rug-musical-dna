@@ -1,40 +1,41 @@
 ---
-album: "Le Rug - Party Rock"
+title: "Party Rock"
 tracks: 6
-total_notes: 3432
-duration_min: 11.5
-avg_tempo: 193
-avg_density: 4.8
-top_scale: "C chromatic"
-status: "have"
+duration_min: "11.5"
+avg_density: "4.8"
+total_notes: "3432"
 ---
+# Party Rock
 
-# Party Rock (Le Rug)
+**6 tracks** | **11.5 min** | **4.8 notes/sec**
 
-**6 tracks** | **11.5 min** | **193 BPM avg** | **4.8 n/s**
+**Keys:** b minor (2), G major (1), E major (1), e minor (1), A major (1)
 
-## Key Findings
-
-**On the sparser side.** At 4.8 n/s, Party Rock is below the Le Rug average. Only America (4.7), Sticky Buns (3.5), and some of the outlier instrumentals are sparser.
-
-**E/B-centered** — E5 (135) and B5 (125) dominate heavily, with a big drop to D5 (71). This is a very guitar-centric harmonic center — E and B are the two thickest open strings. The G# prominence (60) is also notable; G# with E and B spells an E major chord, suggesting these songs orbit around E major more explicitly than usual.
-
-**Douchebag** is barely there — 0.3 minutes, 53 notes. This is the shortest non-Nuke Whales track in the catalog, essentially a fragment or intro.
 
 ## Top Chords
-- E power chord (5th)
-- B power chord (5th)
-- D power chord (5th)
-- G# power chord (5th)
-- A major triad
+
+> *Chord identifications come from MIDI transcription (basic-pitch), which often drops the 3rd on distorted guitar — so chords that were played as major or minor triads can register as root+5th (harmonically ambiguous). See [[Theory/Fingerprint/Chord Vocabulary]] for the full note on harmonic ambiguity.*
+
+| Chord | Count |
+|---|---|
+| E Root+5th (ambiguous) | 135 |
+| B Root+5th (ambiguous) | 125 |
+| D Root+5th (ambiguous) | 71 |
+| G# Root+5th (ambiguous) | 60 |
+| A major triad | 59 |
+| A Root+5th (ambiguous) | 53 |
+| D major triad | 42 |
+| F# Root+5th (ambiguous) | 39 |
+
 
 ## Tracks
 
-| # | Title | BPM | Duration | Notes | Density |
-|---|---|---|---|---|---|
-| 1 | Douchebag | 162 | 0.3m | 53 | 2.6 |
-| 2 | Kathleen | 202 | 2.5m | 715 | 4.7 |
-| 3 | Happiness | 206 | 1.6m | 572 | 5.9 |
-| 4 | Making Vaseline | 196 | 2.5m | 719 | 4.8 |
-| 5 | What's Your Mother Say About You | 203 | 1.9m | 751 | 6.7 |
-| 6 | Jailbait | 185 | 2.6m | 622 | 3.9 |
+| # | Title | Key | Notes | Duration |
+|---|---|---|---|---|
+| 1 | 01 Le Rug - Douchebag | b minor | 53 | 0:20 |
+| 2 | 02 Le Rug - Kathleen | G major | 715 | 2:31 |
+| 3 | 03 Le Rug - Happiness | E major | 572 | 1:36 |
+| 4 | 04 Le Rug - Making Vaseline | e minor | 719 | 2:30 |
+| 5 | 05 Le Rug - What's Your Mother Say About You | A major | 751 | 1:51 |
+| 6 | 06 Le Rug - Jailbait | b minor | 622 | 2:38 |
+

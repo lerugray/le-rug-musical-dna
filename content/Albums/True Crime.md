@@ -1,58 +1,47 @@
 ---
-album: "Butter the Children - True Crime"
-band: "Butter the Children"
+title: "True Crime"
 tracks: 12
-total_notes: 15440
-duration_min: 27.8
-avg_tempo: 206
-avg_density: 9.2
-top_scale: "C chromatic"
-status: "have"
-year: 2014
+duration_min: "27.8"
+avg_density: "9.2"
+total_notes: "15440"
 ---
+# True Crime
 
-# True Crime (Butter the Children, 2014)
+**12 tracks** | **27.8 min** | **9.2 notes/sec**
 
-**12 tracks** | **27.8 min** | **206 BPM avg** | **9.2 n/s**
+**Keys:** C major (3), G major (2), b minor (2), D major (1), E major (1)
 
-Butter the Children: Ray Weiss (guitar/keys/backup vocals), Inna Mkrtycheva (vocals), J Boxer (bass), Jordyn Blakely (drums). Produced by **Jesse Harris** (Grammy winner — wrote "Don't Know Why" for Norah Jones) and engineered by **Pat Dillett** (The Shins, David Byrne, and others). Ray's old guitar teacher.
-
-## Key Findings
-
-**This is dense.** At 9.2 n/s average, True Crime is the third-densest album in Ray's entire catalog — behind only Anyone But Hindenburg (9.1) and the Flabby Wings instrumentals (8.9). With a full band playing, the density here comes from layering rather than one person filling every gap.
-
-**G/B/D-centered** — G power chord (315), B power chord (224), D power chord (203). This is a different harmonic territory from Le Rug's usual E/A center. G-B-D spells a G major triad — the album orbits around G as its tonal home. This brighter, higher key center may reflect BtC's different sonic identity.
-
-**Boozer is the peak** — 12.1 n/s, 1,943 notes. The densest single track outside of the solo instrumentals and a few outlier Le Rug tracks. For a full-band recording, this is extremely busy.
-
-**No slow moments** — the sparsest track (Spit It Out at 6.2 n/s) is still denser than most Le Rug album averages. True Crime runs hot start to finish.
 
 ## Top Chords
-- G power chord (5th)
-- B power chord (5th)
-- D power chord (5th)
-- E power chord (5th)
-- C power chord (5th)
+
+> *Chord identifications come from MIDI transcription (basic-pitch), which often drops the 3rd on distorted guitar — so chords that were played as major or minor triads can register as root+5th (harmonically ambiguous). See [[Theory/Fingerprint/Chord Vocabulary]] for the full note on harmonic ambiguity.*
+
+| Chord | Count |
+|---|---|
+| G Root+5th (ambiguous) | 315 |
+| B Root+5th (ambiguous) | 224 |
+| D Root+5th (ambiguous) | 203 |
+| E Root+5th (ambiguous) | 200 |
+| C Root+5th (ambiguous) | 182 |
+| F# Root+5th (ambiguous) | 174 |
+| C major triad | 171 |
+| A Root+5th (ambiguous) | 156 |
+
 
 ## Tracks
 
-| # | Title | BPM | Duration | Notes | Density |
-|---|---|---|---|---|---|
-| 1 | Spit It Out | 199 | 2.4m | 903 | 6.2 |
-| 2 | Mission Hill | 207 | 2.4m | 1,265 | 8.8 |
-| 3 | Dennis | 204 | 2.0m | 1,233 | 10.3 |
-| 4 | Robyn Byrd | 206 | 2.3m | 1,122 | 8.0 |
-| 5 | Tot Mom | 209 | 2.7m | 1,762 | 10.9 |
-| 6 | Loose | 198 | 2.1m | 907 | 7.3 |
-| 7 | Sack Lunch | 208 | 2.3m | 1,384 | 10.0 |
-| 8 | Fort Knox | 205 | 2.0m | 1,048 | 8.7 |
-| 9 | Earthbound | 211 | 2.8m | 1,754 | 10.5 |
-| 10 | Keep Getting Stupider | 208 | 2.1m | 1,080 | 8.6 |
-| 11 | Boozer | 217 | 2.7m | 1,943 | **12.1** |
-| 12 | Jack Kemp | 205 | 2.0m | 1,039 | 8.5 |
+| # | Title | Key | Notes | Duration |
+|---|---|---|---|---|
+| 1 | 01 Butter The Children - Spit It Out | C major | 903 | 2:25 |
+| 2 | 02 Butter The Children - Mission Hill | C major | 1,265 | 2:23 |
+| 3 | 03 Butter The Children - Dennis | D major | 1,233 | 2:00 |
+| 4 | 04 Butter The Children - Robyn Byrd | E major | 1,122 | 2:20 |
+| 5 | 05 Butter The Children - Tot Mom | G major | 1,762 | 2:41 |
+| 6 | 06 Butter The Children - Loose | A major | 907 | 2:04 |
+| 7 | 07 Butter The Children - Sack Lunch | F# major | 1,384 | 2:18 |
+| 8 | 08 Butter The Children - Fort Knox | C# major | 1,048 | 2:00 |
+| 9 | 09 Butter The Children - Earthbound | C major | 1,754 | 2:47 |
+| 10 | 10 Butter The Children - Keep Getting Stupider | b minor | 1,080 | 2:05 |
+| 11 | 11 Butter The Children - Boozer | G major | 1,943 | 2:41 |
+| 12 | 12 Butter The Children - Jack Kemp | b minor | 1,039 | 2:01 |
 
-## Notes
-
-True crime theme — track titles reference criminals and crime (Robyn Byrd, Tot Mom, Dennis [Rader?], Jack Kemp). The consistent density and tempo suggests a tightly rehearsed band playing these live in the studio with minimal overdubs.
-
-Recovered from the Butter the Children catalog. BtC's Bandcamp (butterthechildren.bandcamp.com) is managed by Inna Mkrtycheva.

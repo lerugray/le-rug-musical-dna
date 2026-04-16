@@ -1,6 +1,11 @@
+---
+title: "Deep Dive — Song Evolution & Comparisons"
+description: "Tracking how songs change across versions and albums. The Grim Reefer rewritten between 2015 and 2020, 1779 as a same-recording control, and the C.R.E.E.P. vs Sex Reduction Flower shared tracks question."
+---
+
 # Deep Dive — Song Evolution & Comparisons
 
-*Tracking how songs change across versions and albums.*
+*Tracking how songs change across versions and albums. First prototype of the CatalogDNA song evolution feature.*
 
 ---
 
@@ -9,6 +14,8 @@
 The Grim Reefer appears on Game Over (2015, Fleeting Youth compilation) and Anyone But Hindenburg (2020). Five years apart. The question: how did the song evolve?
 
 **Answer: it didn't evolve. It was rewritten from the ground up.**
+
+
 ![Chart](https://lerugray.github.io/le-rug-musical-dna/images/Deep-Dive---Song-Evolution--and--Comparisons.png)
 
 
@@ -110,7 +117,9 @@ This isn't a song — it's closer to a bass sketch or ambient drone piece. The D
 
 ### Bad Cop — The Sparse Power Chord Study
 
-183 notes. 100% power chords. B/D# center (unusual — the same dark key territory as the 2015 Grim Reefer). The register is uniquely balanced: almost equal across sub-bass, bass, low-mid, and mid. Most Le Rug tracks are bottom-heavy; this one is spread evenly.
+183 notes. 100% harmonic ambiguity — every chord event reads as root+5th with no detectable third.[^ambig] B/D# center (unusual — the same dark key territory as the 2015 Grim Reefer). The register is uniquely balanced: almost equal across sub-bass, bass, low-mid, and mid. Most Le Rug tracks are bottom-heavy; this one is spread evenly.
+
+[^ambig]: "Harmonic ambiguity" here refers to chord events where the MIDI transcriber could not detect a clear third — closely correlated with the power chord idiom but not literally a count of intentional power chord voicings. See [[Theory/Fingerprint/Chord Vocabulary]] for details.
 
 A deliberate, minimal piece — every note is placed rather than strummed. The antithesis of the 16th-note-barrage that defines most of the catalog.
 

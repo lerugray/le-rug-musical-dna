@@ -1,19 +1,20 @@
 ---
-title: "Drum Analysis — Double-Drum vs Solo Eras"
-description: "Le Rug's double-drum era (2007–2010) vs solo-drum era (2014–2020). Separated stems reveal completely different rhythmic personalities."
+title: "Drum Analysis — Double Drums vs Solo Drums"
+description: "Drum stems separated via Demucs across 11 tracks spanning 5 eras. Two opposite drumming philosophies — loose, snare-heavy double-drum era (2007-2010) vs tight, kick-dominant solo era (2014-2020)."
 ---
 
 # Drum Analysis
 
-*Drum stem analysis — onset density, rhythmic regularity, spectral balance, and complexity. Sample of 11 tracks across 5 eras.*
+*Separated drum stems via Demucs (Meta's AI source separation) and analyzed for onset density, rhythmic regularity, spectral balance, and complexity. Sample of 11 tracks across 5 eras.*
 
 ---
 
 ## The Big Finding: Two Completely Different Drum Philosophies
 
 The data reveals a clear split between the **double-drum band era** (Bleenex through Nuke Whales) and the **solo era** (Dead In A Hole onward). These aren't just different in sound — they're structurally opposite.
-![Chart](https://lerugray.github.io/le-rug-musical-dna/images/Drum-Analysis-1.png)
 
+
+![Chart](https://lerugray.github.io/le-rug-musical-dna/images/Drum-Analysis-1.png)
 
 *Radar values normalized to 0-100 scale for visual comparison.*
 
@@ -75,6 +76,8 @@ DIAH's "Disco Fry" scores 21 tempo peaks — the most complex rhythmic track in 
 Note: Demucs tempo estimates differ from the pitch-based tempo detection because they're measuring different things — the drum tempo is derived from the isolated percussion pattern, while the melodic tempo includes guitar/bass rhythm.
 
 ### Regularity Over Time
+
+
 ![Chart](https://lerugray.github.io/le-rug-musical-dna/images/Drum-Analysis-2.png)
 
 
@@ -116,7 +119,7 @@ Interesting comparison: BtC True Crime and Le Rug Dead In A Hole are both from 2
 
 ---
 
-## Implications
+## Implications for the AI Tool
 
 The drum data adds a new dimension to the "Ray Weiss fingerprint":
 - **Double-drum records** need loose, human-feeling patterns with higher snare presence
@@ -127,6 +130,6 @@ The drum data adds a new dimension to the "Ray Weiss fingerprint":
 
 ## Method Notes
 
-13 tracks sampled from 6 eras (Bleenex, SRF, Nuke Whales, DIAH, ABH, BtC True Crime). Drum stem separation was used to isolate percussion before analysis.
+Separation: Demucs (htdemucs model, two-stem drums/no-drums mode). Analysis: librosa onset detection, beat tracking, spectral analysis, tempogram complexity. 13 tracks sampled from 6 eras (Bleenex, SRF, Nuke Whales, DIAH, ABH, BtC True Crime).
 
-Limitations: Stem separation isn't perfect — some guitar bleed into drum stems and vice versa may affect spectral balance measurements. The kick dominance numbers may be partially inflated by bass guitar bleed. Onset detection and regularity measurements are more robust as they depend on transient detection rather than spectral content.
+Limitations: Demucs separation isn't perfect — some guitar bleed into drum stems and vice versa may affect spectral balance measurements. The kick dominance numbers may be partially inflated by bass guitar bleed. The onset detection and regularity measurements are more robust as they depend on transient detection rather than spectral content.

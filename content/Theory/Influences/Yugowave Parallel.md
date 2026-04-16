@@ -15,7 +15,7 @@ description: "Parallel convergence across decades and continents. Yugoslav new w
 
 *Regularity normalized to 0-50 scale for visual comparison (higher = more metronomic).*
 
-| Artist | Tracks | n/s | BPM | Power % | Sus2 % | Major % | Minor % | Bass % | Regularity |
+| Artist | Tracks | n/s | BPM | Ambig % | Sus2 % | Major % | Minor % | Bass % | Regularity |
 |---|---|---|---|---|---|---|---|---|---|
 | **Le Rug** | 439 | **7.0** | **196** | **53%** | **5.8%** | **13.8%** | **6.7%** | **56%** | **-0.039** |
 | Yugowave | 9 | 4.3 | 175 | 76% | 2% | 10% | 8% | **65%** | **-0.018** |
@@ -27,7 +27,7 @@ description: "Parallel convergence across decades and continents. Yugoslav new w
 
 ## Where It Matches: Texture, Not Composition
 
-The Yugowave fingerprint doesn't match Le Rug in chord vocabulary (76% power chords vs 53%), tempo (175 vs 196 BPM), or density (4.3 vs 6.9 n/s). By the compositional metrics, they're quite different.
+The Yugowave fingerprint doesn't match Le Rug in chord vocabulary (76% harmonic ambiguity vs 53%)[^ambig], tempo (175 vs 196 BPM), or density (4.3 vs 6.9 n/s). By the compositional metrics, they're quite different.
 
 But by the *textural* metrics — the ones that describe how the music **feels** rather than what notes are played — they're the closest match:
 
@@ -63,7 +63,7 @@ Le Rug: 11.6%, Yugowave: 10.4%. Nearly identical mid-register usage. Both use th
 
 ## Where It Doesn't Match: The Tools Are Different
 
-The Yugowave bands are slower (175 BPM), sparser (4.3 n/s), more power-chord-dominant (76%), use more note repetition (19% vs 10%), and sit in darker key centers (F, C#, D vs E, G, D). They have almost no sus2 usage (1.9% vs 5%) — so the Beefheart-derived harmonic ambiguity is absent.
+The Yugowave bands are slower (175 BPM), sparser (4.3 n/s), higher in harmonic ambiguity (76%), use more note repetition (19% vs 10%), and sit in darker key centers (F, C#, D vs E, G, D). They have almost no sus2 usage (1.9% vs 5%) — so the Beefheart-derived sus-chord color is absent.
 
 These are musicians from a completely different tradition (Yugoslav pop culture, European new wave/coldwave) arriving at a similar *texture* through different *technique*. They use more power chords and fewer extensions, but the overall sound — bass-heavy, loosely timed, dark, post-punk energy — overlaps with Le Rug.
 
@@ -96,3 +96,7 @@ The parallel is in how the music sits in the room, not what notes are being play
 | To Nisam Vise Ja | Trivalia | 1987 | Old school goth rock |
 | Detektivska Prica | Videosex | ~1980s | New wave |
 | Danas | Inje | ~1980s | Post-punk |
+
+---
+
+[^ambig]: "Harmonic ambiguity" here refers to chord events where the MIDI transcriber could not detect a clear third — closely correlated with the power chord idiom but not literally a count of intentional power chord voicings. See [[Theory/Fingerprint/Chord Vocabulary]] for details.

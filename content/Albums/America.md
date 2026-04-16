@@ -1,30 +1,39 @@
 ---
-album: "Le Rug - America"
+title: "America"
 tracks: 4
-total_notes: 1918
-duration_min: 6.8
-avg_tempo: 196
-avg_density: 4.7
-top_scale: "C chromatic"
-status: "have"
+duration_min: "6.8"
+avg_density: "4.8"
+total_notes: "1918"
 ---
-
 # America
 
-**4 tracks** | **6.8 minutes** | **196 BPM avg** | **4.7 notes/sec** | **Double drums**
+**4 tracks** | **6.8 min** | **4.8 notes/sec**
+
+**Keys:** D major (1), C major (1), g# minor (1), G major (1)
+
 
 ## Top Chords
-- C# power chord (5th): 46
-- G# power chord (5th): 38
-- A power chord (5th): 34
-- F# power chord (5th): 32
-- G power chord (5th): 30
+
+> *Chord identifications come from MIDI transcription (basic-pitch), which often drops the 3rd on distorted guitar — so chords that were played as major or minor triads can register as root+5th (harmonically ambiguous). See [[Theory/Fingerprint/Chord Vocabulary]] for the full note on harmonic ambiguity.*
+
+| Chord | Count |
+|---|---|
+| C# Root+5th (ambiguous) | 46 |
+| G# Root+5th (ambiguous) | 38 |
+| A Root+5th (ambiguous) | 34 |
+| F# Root+5th (ambiguous) | 32 |
+| G Root+5th (ambiguous) | 30 |
+| D Root+5th (ambiguous) | 26 |
+| E Root+5th (ambiguous) | 24 |
+| C Root+5th (ambiguous) | 23 |
+
 
 ## Tracks
 
-| # | Title | BPM | Duration | Notes | Density | Top Scale |
-|---|---|---|---|---|---|---|
-| 1 | 01 Pat Buchanan | 195 | 1.8m | 498 | 4.6 | C chromatic |
-| 2 | 02 FDR | 202 | 0.7m | 289 | 6.5 | C major (ionian) |
-| 3 | 03 She Sings Metal | 205 | 2.9m | 900 | 5.2 | C chromatic |
-| 4 | 04 666 Still The Rolling Stones | 184 | 1.4m | 231 | 2.8 | C chromatic |
+| # | Title | Key | Notes | Duration |
+|---|---|---|---|---|
+| 1 | 01 Pat Buchanan | D major | 498 | 1:48 |
+| 2 | 02 FDR | C major | 289 | 0:44 |
+| 3 | 03 She Sings Metal | g# minor | 900 | 2:52 |
+| 4 | 04 666 Still The Rolling Stones | G major | 231 | 1:23 |
+

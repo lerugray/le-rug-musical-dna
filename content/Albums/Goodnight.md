@@ -1,28 +1,36 @@
 ---
-album: "Le Rug - Goodnight"
+title: "Goodnight"
 tracks: 1
-total_notes: 1294
-duration_min: 3.6
-avg_tempo: 208
-avg_density: 6.1
-top_scale: "C chromatic"
-status: "have"
+duration_min: "3.6"
+avg_density: "6.1"
+total_notes: "1294"
 ---
+# Goodnight
 
-# Goodnight (Le Rug)
+**1 tracks** | **3.6 min** | **6.1 notes/sec**
 
-**1 track** | **3.6 min** | **208 BPM** | **6.1 n/s**
+**Keys:** F major (1)
 
-A single demo track: "My New Obsession."
 
-## Key Findings
+## Top Chords
 
-**C/F-centered** — C5 (70) and F5 (49) dominate, with F major triad (43) and C sus4 (29) also prominent. This C-F axis is uncommon in the Le Rug catalog — most material orbits E, A, or D. The sus4 usage here creates a pushing, unresolved quality.
+> *Chord identifications come from MIDI transcription (basic-pitch), which often drops the 3rd on distorted guitar — so chords that were played as major or minor triads can register as root+5th (harmonically ambiguous). See [[Theory/Fingerprint/Chord Vocabulary]] for the full note on harmonic ambiguity.*
 
-Mid-range density and tempo. Nothing extreme — a solid, workmanlike Le Rug demo that sits comfortably in the middle of the catalog's range.
+| Chord | Count |
+|---|---|
+| C Root+5th (ambiguous) | 70 |
+| F Root+5th (ambiguous) | 49 |
+| F major triad | 43 |
+| C sus4 | 29 |
+| A# Root+5th (ambiguous) | 26 |
+| G Root+5th (ambiguous) | 22 |
+| F add9 | 21 |
+| A# sus2 | 19 |
 
-## Track
 
-| # | Title | BPM | Duration | Notes | Density |
-|---|---|---|---|---|---|
-| 1 | My New Obsession (DEMO) | 208 | 3.6m | 1,294 | 6.1 |
+## Tracks
+
+| # | Title | Key | Notes | Duration |
+|---|---|---|---|---|
+| 1 | 01 Le Rug - My New Obsession (DEMO) | F major | 1,294 | 3:33 |
+

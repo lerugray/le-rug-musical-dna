@@ -1,3 +1,8 @@
+---
+title: "The Lost Instrumentals — SoundCloud Solo Period"
+description: "45+ unreleased tracks recovered from the albert-liberto SoundCloud account. D/G centered (not E), density ranges 1.4 to 17.2 n/s — wider than any released album. The unreleased album that could have been."
+---
+
 # The Lost Instrumentals
 
 *Analysis of the instrumental/demo tracks recovered from SoundCloud (albert-liberto account) and other sources. These represent Ray's solo creative period — ideas that were meant to become full songs but never got the chance.*

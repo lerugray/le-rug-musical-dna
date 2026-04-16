@@ -24,7 +24,7 @@ description: "The closest structural fingerprint match to Le Rug is a Hi-NRG syn
 | Sus2 % | 5% | 8% | DoA has *more* |
 | Sub-bass | 21.3% | 23.8% | Close |
 | Density | 6.9 n/s | 5.9 n/s | -14% |
-| Power chords | 53% | 76% | DoA higher |
+| Harmonic ambiguity[^ambig] | 53% | 76% | DoA higher |
 | Key centers | E/G/D | F#/A#/C# | Different harmonic world |
 | Overall similarity | — | — | **86.4%** |
 
@@ -50,7 +50,7 @@ Dead or Alive uses *more* sus2 than Le Rug (8% vs 5%). The harmonic ambiguity th
 
 ### What's Different
 
-The key centers are a different harmonic world entirely (F#/A#/C# vs E/G/D). Dead or Alive's power chord percentage is higher (76% vs 53%) — the synth-driven arrangements reduce to root+fifth more often than guitar-driven ones with open-string resonance. And the density is lower (5.9 vs 7.0) — programmed synths play fewer simultaneous notes than a guitar with strings ringing.
+The key centers are a different harmonic world entirely (F#/A#/C# vs E/G/D). Dead or Alive's harmonic ambiguity rate is higher (76% vs 53%) — the synth-driven arrangements reduce to root+fifth more often than guitar-driven ones with open-string resonance. And the density is lower (5.9 vs 7.0) — programmed synths play fewer simultaneous notes than a guitar with strings ringing.
 
 ---
 
@@ -91,3 +91,7 @@ The connection between post-punk and synth-pop through structural similarity (ra
 | Your Sweetness Is Your Weakness* | 1992 | 218 | 2,334 | 5:48 |
 
 **Expansion (16 additional tracks from** ***Youthquake***, ***Mad Bad and Dangerous to Know***, ***Nude*** **deep cuts and B-sides)**
+
+---
+
+[^ambig]: "Harmonic ambiguity" here refers to chord events where the MIDI transcriber could not detect a clear third — closely correlated with the power chord idiom but not literally a count of intentional power chord voicings. See [[Theory/Fingerprint/Chord Vocabulary]] for details.

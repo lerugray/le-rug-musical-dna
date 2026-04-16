@@ -1,3 +1,8 @@
+---
+title: "Producer Fingerprint & Other Deep Dives"
+description: "Does the producer change the fingerprint? DeNicola, Jesse Harris, Scott Andrews, and self-produced records compared. Plus vocals-vs-instrumentals and the Nuke Whales presidential rankings."
+---
+
 # Producer Fingerprint & Other Deep Dives
 
 ---
@@ -5,10 +10,12 @@
 ## Does the Producer Change the Fingerprint?
 
 Three different professional producers worked on Ray's material. Does their involvement show up in the data, or is the fingerprint always Ray's?
+
+
 ![Chart](https://lerugray.github.io/le-rug-musical-dna/images/Producer-Fingerprint--and--Other-Deep-Dives-1.png)
 
 
-| Producer | Album | Trk | n/s | BPM | Pwr% | Sus2% | Maj% | Maj7% | Bass% |
+| Producer | Album | Trk | n/s | BPM | Ambig% | Sus2% | Maj% | Maj7% | Bass% |
 |---|---|---|---|---|---|---|---|---|---|
 | **DeNicola** | Bleenex (2007) | 13 | 8.3 | 202 | 48% | 7% | **24%** | **6%** | 61% |
 | **Jesse Harris** | True Crime (2014) | 12 | 9.2 | 206 | 52% | **8%** | 17% | 2% | 62% |
@@ -20,19 +27,21 @@ Three different professional producers worked on Ray's material. Does their invo
 
 ### Findings
 
-**1. DeNicola brought out the most harmonic richness.** Bleenex has the highest major triad percentage (24%) and highest major 7th percentage (6%, tied with ABH) of any album. For a debut record by a self-taught guitarist, that's unexpected harmonic sophistication. The power chord percentage is also the lowest for any 2007-2014 album (48%). DeNicola's production may have encouraged (or captured) fuller chord voicings.
+*"Harmonic ambiguity" here refers to chord events where the MIDI transcriber could not detect a clear third — closely correlated with the power chord idiom but not literally a count of intentional power chord voicings. See [[Theory/Fingerprint/Chord Vocabulary]] for details.*
+
+**1. DeNicola brought out the most harmonic richness.** Bleenex has the highest major triad percentage (24%) and highest major 7th percentage (6%, tied with ABH) of any album. For a debut record by a self-taught guitarist, that's unexpected harmonic sophistication. The harmonic ambiguity rate is also the lowest for any 2007-2014 album (48%). DeNicola's production may have encouraged (or captured) fuller chord voicings.
 
 **2. Jesse Harris brought density and sus2.** True Crime is the densest album (9.2 n/s) with the highest sus2 usage (8%). Harris produced Norah Jones' "Don't Know Why" — a song built on jazzy suspended harmonics. His ear may have pulled more of the sus2 character out of Ray's playing, or the full-band BtC arrangement created space for it.
 
 **3. Scott Andrews produced the most bass-heavy record.** BtC EP: 72% bass register — the highest in the catalog. Ray was playing both guitar and drums, and Andrews was engineering. The bass-heaviness may reflect the dual-instrument recording setup.
 
-**4. Self-produced Swelling is the most power-chord-dominant.** 71% power chords, only 10% major triads. Alone in Bangkok, the harmonic vocabulary narrowed to its most essential form. No producer or bandmate to encourage variety.
+**4. Self-produced Swelling is the most harmonically ambiguous.** 71% harmonic ambiguity, only 10% major triads. Alone in Bangkok, the detectable harmonic vocabulary narrowed to its most essential form. No producer or bandmate to encourage variety.
 
-**5. Self-produced ABH is the most mature.** Lowest power chord percentage (46%), highest major 7th (tied at 6%), and the only album with positive rhythmic regularity (0.0114 — barely above metronomic zero, suggesting more deliberate timing). Six years after the last studio record, Ray's self-produced work became more harmonically sophisticated than any producer had achieved.
+**5. Self-produced ABH is the most mature.** Lowest harmonic ambiguity rate (46%), highest major 7th (tied at 6%), and the only album with positive rhythmic regularity (0.0114 — barely above metronomic zero, suggesting more deliberate timing). Six years after the last studio record, Ray's self-produced work became more harmonically sophisticated than any producer had achieved.
 
 ### The Answer
 
-**The producer modulates the fingerprint but doesn't change it.** Power chords range from 46-71% across all producers including self-produced work. The bass-heavy register is constant (53-72%). The tempo is locked at 200-207 BPM regardless of producer. The core identity is stable; what shifts is how much harmonic detail gets expressed — and that has as much to do with the era as the producer.
+**The producer modulates the fingerprint but doesn't change it.** Harmonic ambiguity ranges from 46-71% across all producers including self-produced work. The bass-heavy register is constant (53-72%). The tempo is locked at 200-207 BPM regardless of producer. The core identity is stable; what shifts is how much harmonic detail gets expressed — and that has as much to do with the era as the producer.
 
 ---
 
@@ -40,12 +49,12 @@ Three different professional producers worked on Ray's material. Does their invo
 
 The SoundCloud instrumentals (albert-liberto account) represent Ray writing without the constraint of vocals. Does the absence of singing change the musical approach?
 
-| Category | Tracks | n/s | BPM | Power % | Sus2 % | Major % | Bass % |
+| Category | Tracks | n/s | BPM | Ambig % | Sus2 % | Major % | Bass % |
 |---|---|---|---|---|---|---|---|
 | Vocal albums (studio) | 56 | 7.8 | 199 | 55% | 6% | 14% | 60% |
 | SoundCloud instrumentals | 35 | 7.4 | 200 | 54% | 6% | 8% | 57% |
 
-**Almost identical.** Same density, same tempo, same power chord percentage, same sus2 usage. The only notable difference: major triad usage drops from 14% to 8% in the instrumentals. Without vocals demanding harmonic resolution points, the music stays more ambiguous — fewer moments where the chord commits to major.
+**Almost identical.** Same density, same tempo, same harmonic ambiguity rate, same sus2 usage. The only notable difference: major triad usage drops from 14% to 8% in the instrumentals. Without vocals demanding harmonic resolution points, the music stays more ambiguous — fewer moments where the chord commits to major.
 
 Key centers shift slightly: vocal material centers on E/G/A (open-string dominant), instrumentals on G/E/D (brighter, D-string territory). But the fingerprint is the fingerprint whether or not anyone is singing.
 
@@ -54,6 +63,8 @@ Key centers shift slightly: vocal material centers on E/G/A (open-string dominan
 ## Nuke Whales — The Presidential Musical Rankings
 
 44 songs about 44 presidents. Each president gets their own musical treatment. The question: which presidents got the most musical effort?
+
+
 ![Chart](https://lerugray.github.io/le-rug-musical-dna/images/Producer-Fingerprint--and--Other-Deep-Dives-2.png)
 
 

@@ -1,6 +1,6 @@
 ---
 title: "Le Rug — Your Musical DNA"
-description: "The complete musical fingerprint of Le Rug — 53% power chords, zigzag melodies, bass-heavy register. 439 tracks reverse-engineered into concrete music theory."
+description: "Octave-doubled, bass-heavy, harmonically ambiguous — what 439 tracks of an ear-trained musician's instincts add up to. The complete musical fingerprint of Le Rug, reverse-engineered into concrete music theory."
 ---
 
 # Your Musical DNA
@@ -17,39 +17,43 @@ You play almost entirely by ear, have no formal theory training, and describe yo
 
 ---
 
-## 1. You Are a Power Chord Musician (But Not Only)
+## 1. Your Chord World Lives in Ambiguity
 
-**53.0% of all detected chord shapes are power chords (root + 5th).** This is your foundation. But the remaining 47.0% is where it gets interesting:
+**53.0% of your detected chord events are harmonically ambiguous — the analysis can't pin them as major or minor.** This is your foundation. The other 47% is where the harmonic vocabulary gets explicit: major triads, suspensions, 7ths, 9ths.
 ![Chart](https://lerugray.github.io/le-rug-musical-dna/images/Your-Musical-DNA-1.png)
 
 
 | Chord Type | Usage | What It Means |
 |---|---|---|
-| Power chord (5th) | 53.0% | Your backbone — ambiguous, neither major nor minor |
-| Major triad | 13.8% | When you DO commit to major/minor, you lean major |
+| Harmonically ambiguous (root+5th detected) | 53.0% | Your backbone — the third is either absent or masked by distortion |
+| Major triad | 13.8% | When the third is detectable, you lean major |
 | Minor triad | 6.7% | About half as often as major — you're not a "sad" writer |
-| Sus2 | 5.8% | The "open" sound — dreamy, ambiguous |
+| Sus2 | 5.8% | The "open" sound — dreamy, deliberately unresolved |
 | Sus4 | 5.1% | The "reaching up" sound — tension without resolution |
 | Minor 7th | 4.1% | Jazz-adjacent color — more than most indie guitarists use |
 | Major 7th | 3.1% | Shimmer chords — this is the shoegaze influence |
 | Add9 | 2.7% | Sophistication you don't know you have |
 | 6th chords | 2.4% | These are unusual for your genre — a personal quirk |
 
-**Critical caveat — the power chord / sus2 overlap:** These numbers treat power chords and sus2 as separate categories, but they aren't in practice. Ray's default power chord shape ("The Standard" in the Style Guide) includes the 2nd/9th on the B string — it's technically a sus2 spread across 5 strings, not a pure root+5th. This means the 53.0% power chord figure and the 5.8% sus2 figure describe overlapping territory. The chord detector sees root+5th and calls it a power chord, but the 2nd is ringing on the B string in the same voicing.
+**Why "harmonically ambiguous" instead of "power chords":** The 53.0% figure comes from MIDI transcription, which detects audible notes in the recording. When the analyzer can find a root and a 5th but no third, it logs the event as ambiguous. Three things produce this signature:
 
-**What this actually means:** The harmonic ambiguity isn't a secondary color that shows up 5% of the time. It's present in the foundation shape — every time Ray reaches for a "power chord," the sus2 quality comes along for free. The real split isn't 53% power / 5.8% sus2. It's closer to: the majority of the catalog lives in a blurred zone between power chord and sus2, with the 2nd always hovering. The ambiguity is the default, not the exception.
+1. **Actual root+5th voicings** (the canonical power chord shape — root and 5th, no 3rd at all)
+2. **"The Standard" voicing** — your default 5-string shape, which is root + 5th + 9th. The 2nd is ringing on the B string but there's still no 3rd, so the detector reads it as ambiguous.
+3. **Distortion-masked triads** — when you're playing a full major or minor chord through a distorted amp, the 3rd often doesn't survive the transcription cleanly, so the chord registers as ambiguous even though the third was there in the room.
 
-**Key insight:** On top of this, the explicitly detected sus2 and sus4 chords are nearly equal (5.8% vs 5.1%). Most guitarists lean heavily one way. The equal usage creates a constant push-pull — the 2nd wants to resolve down, the 4th wants to resolve up, and neither wins. Combined with the sus2 baked into the standard power chord shape, the listener is essentially never on solid harmonic ground.
+This is the fingerprint of **distorted-guitar style played in standard tuning** — and it's the central feature of how Le Rug sounds. The metric measures an *audio signature*, not a count of intentional voicings. What matters compositionally isn't whether you "played a power chord" or "played a triad with a masked 3rd" — it's that the listener experiences 53% of your chord events as **harmonically unresolved**. Your music sits in permanent suspension because the audible third is either not there or not loud enough to commit.
+
+**The push-pull of explicit suspensions:** When the analyzer DOES detect a clear chord type, sus2 and sus4 come in nearly equal — 5.8% vs 5.1%. Most guitarists lean heavily one way. The equal usage creates a constant push-pull: the 2nd wants to resolve down, the 4th wants to resolve up, and neither wins. Combined with the ambiguous 53% baseline, the listener is essentially never on solid harmonic ground.
 
 ### Your Most-Used Specific Chords
 
-1. **G5** (power chord) — your single most played chord across all material
+1. **G5** — your single most played chord shape across all material
 2. **C5** — second most
 3. **D5** — third
 4. **A5** — fourth
 5. **C major triad** — your most-used full triad (2,552 instances)
 
-The G-C-D-A-E power chord sequence is the backbone of your entire catalog. With the full output counted (not just Le Rug), G and C rise to the top — the non-Le Rug material and solo instrumentals favor brighter, higher key centers that pull the aggregate away from the D-A center of the studio albums alone.
+The G-C-D-A-E shape sequence is the backbone of your entire catalog. With the full output counted (not just Le Rug), G and C rise to the top — the non-Le Rug material and solo instrumentals favor brighter, higher key centers that pull the aggregate away from the D-A center of the studio albums alone.
 
 ---
 
@@ -64,7 +68,7 @@ octave up -> octave down -> octave up (x1794)
 
 This is the **Doug Martsch / Built to Spill technique** — playing the same note or melody in multiple octaves simultaneously or in rapid alternation. It creates a thick, shimmering wall of the same pitch class spread across the frequency spectrum.
 
-**Why this matters theoretically:** Octave doubling doesn't add harmonic information (it's the same note), but it dramatically changes the *timbre* and *perceived loudness* of a line. You're essentially using octaves as a textural tool rather than a harmonic one. This is why your music sounds "full" even when the actual harmonic content is simple power chords.
+**Why this matters theoretically:** Octave doubling doesn't add harmonic information (it's the same note), but it dramatically changes the *timbre* and *perceived loudness* of a line. You're essentially using octaves as a textural tool rather than a harmonic one. This is why your music sounds "full" even when the actual harmonic content is simple root+5th voicings.
 
 **Your second most common motif:** 5th up -> 5th down (bouncing between root and fifth). This creates a droning, hypnotic quality — very Fall-influenced.
 
@@ -118,7 +122,7 @@ Your dominant 3-note contour is **down-up-down** (zigzag) followed closely by **
 
 This is extremely characteristic of post-punk and is a core difference from Built to Spill, where Doug Martsch tends to write longer ascending/descending arcs. Your melodies have the *chords* of Built to Spill but the *movement* of The Fall.
 
-**The Fall connection runs deeper than Mark E. Smith.** Ray's love of The Fall centers on the classic lineup — Steve Hanley (bass, Ray's favorite member), Paul Hanley (drums), Karl Burns (drums), Craig Scanlon (guitar), and Marc Riley — who defined the band's *sound* as distinct from Smith's *persona*. What Ray identifies with is their ability to turn atonal, abrasive progressions into pop masterpieces: Spectre vs Rector, Rowche Rumble, Mere Pseud Mag Ed. This is the same trick the data reveals in Ray's own music — chromatic/atonal harmony (96% of tracks) wrapped in short, catchy, accessible song structures. The power chord ambiguity, the open-string chromatic clashes, the refusal to resolve — these aren't compromises, they're the raw material being shaped into hooks.
+**The Fall connection runs deeper than Mark E. Smith.** Ray's love of The Fall centers on the classic lineup — Steve Hanley (bass, Ray's favorite member), Paul Hanley (drums), Karl Burns (drums), Craig Scanlon (guitar), and Marc Riley — who defined the band's *sound* as distinct from Smith's *persona*. What Ray identifies with is their ability to turn atonal, abrasive progressions into pop masterpieces: Spectre vs Rector, Rowche Rumble, Mere Pseud Mag Ed. This is the same trick the data reveals in Ray's own music — chromatic/atonal harmony (96% of tracks) wrapped in short, catchy, accessible song structures. The harmonic ambiguity, the open-string chromatic clashes, the refusal to resolve — these aren't compromises, they're the raw material being shaped into hooks.
 
 Le Rug also borrowed The Fall's **double-drum** configuration — Burns and Hanley's two-drummer setup was replicated in Le Rug's live and studio work. This is a significant structural influence that the current pitch-based analysis can't capture, but it's load-bearing: two drummers create a rhythmic density that frees the guitar to be sparser or more melodic than it would need to be in a single-drummer setup.
 
@@ -166,13 +170,13 @@ Based on the most recurring motifs, here are the hand positions/patterns you ret
 
 ### "The Fifth Zigzag"
 `5th down -> 5th up -> 5th down`
-*Bouncing between root and fifth repeatedly. Pure power chord energy.*
+*Bouncing between root and fifth repeatedly. The root+5th idiom in motion.*
 
 ---
 
 ## 8. The Band as Instrument — Why the Fingerprint Never Moves
 
-The most unusual thing in this data isn't any single chord or technique — it's that the fingerprint is **almost identical across every configuration.** Le Rug with two drummers, Le Rug solo, Butter the Children with a full band, solo instrumentals on SoundCloud, the Bangkok record — the power chord percentage, the octave doubling, the zigzag, the register, the open-string pitch classes all hold steady. Fifteen years, six projects, dozens of collaborators, and the core numbers barely budge.
+The most unusual thing in this data isn't any single chord or technique — it's that the fingerprint is **almost identical across every configuration.** Le Rug with two drummers, Le Rug solo, Butter the Children with a full band, solo instrumentals on SoundCloud, the Bangkok record — the harmonic ambiguity rate, the octave doubling, the zigzag, the register, the open-string pitch classes all hold steady. Fifteen years, six projects, dozens of collaborators, and the core numbers barely budge.
 
 That's not how bands normally work. In a collaborative group, the sound shifts when the lineup changes — new players bring new instincts. Here, the lineup changes and the sound stays the same. The band members were executing a singular vision, not contributing to a shared one.
 
@@ -193,7 +197,7 @@ The trajectory also fits the pattern. Beefheart retired from music to paint. Smi
 If someone wanted to write music that sounds like you, the recipe is:
 
 1. **Tune to standard, let open strings ring**
-2. **Power chords as the foundation** (D, A, G, E shapes)
+2. **Root+5th voicings as the foundation** (D, A, G, E shapes)
 3. **Double everything in octaves** — play the riff, then play it an octave up simultaneously or in alternation
 4. **Write melodies that zigzag** — don't go on long climbs, oscillate around a note
 5. **Stay in the low-mid register** — your melodies live where most people's rhythm parts live
@@ -202,7 +206,7 @@ If someone wanted to write music that sounds like you, the recipe is:
 8. **Don't resolve** — your songs sit in harmonic suspension rather than clearly landing on major or minor
 9. **Keep it short** — say what you need to say and get out
 
-The theoretical underpinning is a kind of **intuitive modal ambiguity** — by heavily using power chords (which lack a 3rd) and letting open strings add chromatic color, you avoid ever committing to a key center for too long. This creates a sense of movement and tension that doesn't need "correct" chord progressions to work. You found your way to something that music theorists would call **pandiatonicism** — freely using all the notes available in your tuning system without worrying about key — entirely by ear.
+The theoretical underpinning is a kind of **intuitive modal ambiguity** — by heavily using root+5th voicings (which lack a 3rd) and letting open strings add chromatic color, you avoid ever committing to a key center for too long. This creates a sense of movement and tension that doesn't need "correct" chord progressions to work. You found your way to something that music theorists would call **pandiatonicism** — freely using all the notes available in your tuning system without worrying about key — entirely by ear.
 
 ---
 
@@ -214,7 +218,7 @@ Running the same analysis pipeline on Ray's stated influences produced a precise
 
 | Trait | Closest To | Evidence |
 |---|---|---|
-| Chord balance (power %) | **Built to Spill** | 49% vs 53% — nearest of the three |
+| Harmonic ambiguity rate | **Built to Spill** | 49% vs 53% — nearest of the three |
 | Harmonic richness (major triads) | Between BtS and Fall | BtS 25.5%, Ray 13.8%, Fall 7.1% |
 | Sus2/Sus4 balance | Beefheart | 5.8%/5.5% vs Ray's 5.8%/5.1% — nearest match |
 | Density and tempo | **Built to Spill** | 8.8 n/s and 205 BPM vs Ray's 7.0 and 196 |
@@ -222,9 +226,9 @@ Running the same analysis pipeline on Ray's stated influences produced a precise
 | Melodic direction | **Built to Spill** | 46/47% vs 45/45% — identical zigzag |
 | Overall fingerprint | **Built to Spill** | Similarity 0.0382 (closest by a wide margin) |
 
-With full album samples (66 Fall tracks, 57 Beefheart, 44 Built to Spill), Built to Spill emerges as the closest structural match — nearly identical chord balance, register, and melodic movement. The Fall and Beefheart are both ~74% power chords, 20 points higher than Ray — simpler than they sound. See [[Theory/Influences/Influence Fingerprint Comparison]] for the full analysis.
+With full album samples (66 Fall tracks, 57 Beefheart, 44 Built to Spill), Built to Spill emerges as the closest structural match — nearly identical chord balance, register, and melodic movement. The Fall and Beefheart are both ~74% harmonic ambiguity, 20 points higher than Ray — simpler than they sound. See [[Theory/Influences/Influence Fingerprint Comparison]] for the full analysis.
 
-Separately, comparisons with music Ray gravitates toward — but didn't influence him — revealed unexpected connections. Takahashi/YMO shares 56% power chords (vs Ray's 53%) and 2/3 key centers. Yugowave shares rhythmic regularity and bass-heavy register despite completely different chord vocabulary and tempo.
+Separately, comparisons with music Ray gravitates toward — but didn't influence him — revealed unexpected connections. Takahashi/YMO shares 56% harmonic ambiguity (vs Ray's 53%) and 2/3 key centers. Yugowave shares rhythmic regularity and bass-heavy register despite completely different chord vocabulary and tempo.
 
 The most striking discovery: **Dead or Alive** is the closest structural match to Le Rug of any artist analyzed — near-identical tempo (199 vs 196 BPM), identical melodic direction (45/45/10), similar bass register (59% vs 56%). A Hi-NRG synth-pop band from Liverpool. See [[Theory/Influences/Dead or Alive - The Hidden Match]] and [[Theory/Influences/The Full Comparison Map]] for the complete 8-group analysis.
 
@@ -235,9 +239,9 @@ The most striking discovery: **Dead or Alive** is the closest structural match t
 The core fingerprint has been tested from multiple angles:
 
 - **[[Theory/Deep Dives/Producer Fingerprint & Other Deep Dives]]** — Three producers (DeNicola, Jesse Harris, Scott Andrews) modulate but don't change the fingerprint. DeNicola brought out the most harmonic richness (24% major triads); self-produced ABH is paradoxically the most mature. Vocals vs instrumentals: nearly identical fingerprints.
-- **[[Theory/Deep Dives/Era Fingerprints]]** — Power chord % is inversely correlated with density (sparse eras are more power-chord-heavy, dense eras have more harmonic variety). Bass register and melodic direction are constant across every era.
+- **[[Theory/Deep Dives/Era Fingerprints]]** — Harmonic ambiguity rate is inversely correlated with density (sparse eras are more ambiguity-heavy, dense eras have more harmonic variety). Bass register and melodic direction are constant across every era.
 - **[[Theory/Deep Dives/Deep Dive - Song Evolution & Comparisons]]** — The Grim Reefer was completely rewritten between 2015 and 2020, migrating from outlier keys (D#/F#/A#) to home keys (C/E/A). C.R.E.E.P. and SRF share 5 tracks but all are different recordings.
 - **[[Theory/Deep Dives/Drum Analysis]]** — Drum structure evolved orthogonally: double-drum eras (loose, groovy, snare-heavy) vs solo eras (tight, kick-heavy, complex). Note: pitched-instrument analysis in this document doesn't capture drum patterns.
-- **[[Theory/Influences/The Full Comparison Map]]** — 12 artist groups analyzed across 200+ tracks. Each genre Ray gravitates toward shares a different subset of his structural traits. The complete Le Rug fingerprint exists in no other artist, but fragments of it exist in everything from Beefheart to Divine Comedy to Dead or Alive.
+- **[[Theory/Influences/The Full Comparison Map]]** — 8 artist groups analyzed. Each genre Ray gravitates toward shares a different subset of his structural traits. The complete Le Rug fingerprint exists in no other artist, but fragments of it exist in everything from Beefheart to Italo disco to Japanese electronic pop.
 
 The complete picture: Ray's musical DNA is singular and stable across collaborators, producers, eras, and instruments. When elements varied (drum feel, harmonic density, key centers), the core identity remained constant. And the music he gravitates toward as a listener maps precisely to the structural properties of his own output.

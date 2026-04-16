@@ -1,3 +1,8 @@
+---
+title: "Influence Fingerprint Comparison — Fall vs BtS vs Beefheart"
+description: "The same analysis run on Ray's stated influences. Built to Spill is the closest structural match (similarity 0.0382). The Fall and Beefheart are simpler than they sound — both around 74% harmonic ambiguity."
+---
+
 # Influence Fingerprint Comparison
 
 *Running the same analysis on Ray's stated influences — The Fall, Built to Spill, Captain Beefheart — and comparing their fingerprints to his. Does the data match the feelings?*
@@ -6,11 +11,13 @@
 
 ## The Comparison
 
+
 ![Chart](https://lerugray.github.io/le-rug-musical-dna/images/Influence-Fingerprint-Comparison-1.png)
 
-| Artist | Tracks | n/s | BPM | Power % | Sus2 % | Sus4 % | Major % | Minor % | Bass % |
+
+| Artist | Tracks | n/s | BPM | Ambig % | Sus2 % | Sus4 % | Major % | Minor % | Bass % |
 |---|---|---|---|---|---|---|---|---|---|
-| **Le Rug** | 439 | **6.9** | **196** | **53.0%** | **5.8%** | **5.1%** | **13.8%** | **6.7%** | **56.0%** |
+| **Le Rug** | 439 | **7.0** | **196** | **53.0%** | **5.8%** | **5.1%** | **13.8%** | **6.7%** | **56.0%** |
 | Built to Spill | 44 | 8.8 | 205 | 49.3% | 4.6% | 3.4% | 25.5% | 8.2% | 56.6% |
 | Captain Beefheart | 57 | 4.5 | 184 | 75.9% | 5.8% | 5.5% | 6.0% | 4.1% | 53.5% |
 | The Fall | 66 | 4.4 | 179 | 73.1% | 5.2% | 7.9% | 7.1% | 4.6% | 65.5% |
@@ -25,20 +32,22 @@
 
 With full album samples, Built to Spill is clearly the closest fingerprint to Le Rug (similarity: 0.0382). The numbers are strikingly close:
 
-- **Power chords:** 49.3% vs 53.0% — nearly identical chord foundation
+- **Harmonic ambiguity:** 49.3% vs 53.0%[^ambig] — nearly identical chord foundation
 - **Bass register:** 56.6% vs 56.0% — the same frequency space
 - **Melodic direction:** 46%/47% ascending/descending vs Ray's 45%/45% — the same zigzag
 - **Density:** 8.8 vs 6.9 n/s — both dense, both fast
 
+
 ![Chart](https://lerugray.github.io/le-rug-musical-dna/images/Influence-Fingerprint-Comparison-2.png)
+
 
 The one clear difference: Built to Spill uses twice the major triads (25.5% vs 13.8%). Doug Martsch commits to major chords where Ray stays ambiguous with power chords. Ray took BtS's density, register, and tempo but kept the harmonic ambiguity.
 
 ### The Fall and Beefheart Are Simpler Than They Sound
 
-With 66 Fall tracks and 57 Beefheart tracks analyzed, both come in at ~74-76% power chords. That's 20+ points higher than Ray. The perception of The Fall as complex and chaotic is driven by Mark E. Smith's vocals and the production, not the guitar work — which is overwhelmingly root-and-fifth power chords.
+With 66 Fall tracks and 57 Beefheart tracks analyzed, both come in at ~74-76% harmonic ambiguity. That's 20+ points higher than Ray. The perception of The Fall as complex and chaotic is driven by Mark E. Smith's vocals and the production, not the guitar work — which is overwhelmingly root-and-fifth power chords.
 
-Both are also significantly sparser (4.4-4.5 n/s vs Ray's 6.9) and slower (179-184 BPM vs Ray's 196). Ray plays faster, denser, and with more harmonic variety than either influence.
+Both are also significantly sparser (4.4-4.5 n/s vs Ray's 7.0) and slower (179-184 BPM vs Ray's 196). Ray plays faster, denser, and with more harmonic variety than either influence.
 
 ### The Sus2/Sus4 Story — Revised
 
@@ -57,13 +66,13 @@ The sus2/sus4 balance is not unique to Beefheart — it's present in The Fall as
 
 The clearest Fall → Le Rug inheritance: **bass-heavy register** (65.5% vs 56.0%). The Fall lives lower on the fretboard than either BtS or Beefheart. But the old claim that The Fall plays at 124 BPM was based on 3 tracks — with 66 tracks, they're at 179 BPM. Still slower than Ray (196) but not the dramatic gap the small sample suggested.
 
-What Ray took from The Fall isn't the chord vocabulary (they're 20 points apart on power chords) — it's the aesthetic of low-register, power-chord-driven guitar as a vehicle for intensity.
+What Ray took from The Fall isn't the chord vocabulary (they're 20 points apart on harmonic ambiguity) — it's the aesthetic of low-register, power-chord-driven guitar as a vehicle for intensity.
 
 ### Where Ray Sits
 
 | Trait | Closest To | Evidence |
 |---|---|---|
-| Chord balance (power %) | **Built to Spill** | 49% vs 53% — nearest of the three |
+| Harmonic ambiguity rate | **Built to Spill** | 49% vs 53% — nearest of the three |
 | Harmonic richness (major triads) | Between BtS and Fall | BtS 25.5%, Ray 13.8%, Fall 7.1% |
 | Sus2/Sus4 balance | Beefheart | 5.8%/5.5% vs Ray's 5.8%/5.1% — nearest match |
 | Density | **Built to Spill** | 8.8 vs 6.9 n/s — both dense |
@@ -93,7 +102,6 @@ The original three influences were chosen by Ray as stated touchstones. Running 
 | 8 | Pixies — *Trompe le Monde* | **86.4%** | 13 | More abrasive; further from the fingerprint |
 | 10 | Frank Black — *Teenager of the Year* | **84.4%** | 22 | Broader, looser than the debut |
 | 10 | Divine Comedy — *Absent Friends* | **84.4%** | 11 | Third DC album in the set |
-| 12 | Sweet Bulbs | **82.3%** | 4 | Ray played guitar on *Junk*; see below |
 | — | The Fall (66 tracks) | — | 66 | Original influence |
 | — | Captain Beefheart (57 tracks) | — | 57 | Original influence |
 | — | Takahashi / YMO | — | 6 | Discovery |
@@ -115,10 +123,6 @@ Frank Black's self-titled debut (87.5%) outscores Teenager of the Year (84.4%). 
 ### Prefab Sprout: Langley Park Beats Steve McQueen
 
 From Langley Park to Memphis (89.4%) edges Steve McQueen (87.1%) by 2 points. Both albums share Paddy McAloon's signature sus2/sus4 chord language and high melodic density, but Langley Park sits in a slightly lower register and has more consistent sub-bass presence — both traits that push it closer to Le Rug's fingerprint. Steve McQueen is brighter and more synth-forward, which pulls the register profile slightly higher.
-
-### Sweet Bulbs: Collaboration DNA at 82.3%
-
-Sweet Bulbs is a lo-fi Brooklyn project that Ray co-produced and played guitar on — most notably on *Junk*, which Tyler the Creator called out multiple times: "i wish Sweet Bulbs made 'Junk' longer" (2012), "Sweet Bulbs Is What High School Was Suppose To Sound Like" (2010), and he recommended their track *Kissing Clouds* alongside Iggy Pop in 2015. Despite the direct musical collaboration and the outside validation, Sweet Bulbs scores lower than any non-collaboration group in the top 11. The explanation is context: Sweet Bulbs recordings are basement lo-fi with minimal production, which suppresses the density, register variety, and harmonic complexity that define the Le Rug fingerprint. The DNA is present — you can hear it in the guitar lines on *Junk* — but the production context masks it. This is a useful lesson in what the fingerprint captures and what it doesn't: it measures what's in the audio, and lo-fi recording compresses the signal that the fingerprint relies on.
 
 ### Dead or Alive: 25-Track Expansion
 
@@ -145,3 +149,5 @@ The original Dead or Alive sample was 9 tracks (the three-exact-match data point
 **Dead or Alive (25 tracks):** Mad Bad and Dangerous to Know, Youthquake, Nude (plus singles and B-sides)
 
 ---
+
+[^ambig]: "Harmonic ambiguity" here refers to chord events where the MIDI transcriber could not detect a clear third — closely correlated with the power chord idiom but not literally a count of intentional power chord voicings. See [[Theory/Fingerprint/Chord Vocabulary]] for details.

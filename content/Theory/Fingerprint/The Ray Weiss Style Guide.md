@@ -18,10 +18,10 @@ This guide codifies the instincts of a self-taught musician who played entirely 
 ## The Core Principles
 
 ### 1. Ambiguity Over Clarity
-Power chords (root + 5th, no 3rd) are the default. This keeps the harmony open — neither happy nor sad. Only reveal major or minor at emotional peaks. The listener should always feel slightly uncertain about where they are harmonically.
+Use root+5th voicings (no 3rd) as your default. This keeps the harmony open — neither happy nor sad. Only reveal major or minor at emotional peaks. The listener should always feel slightly uncertain about where they are harmonically.
 
 ### 2. Octave Layering
-Double everything in octaves. Play a riff on the low strings, then simultaneously or immediately after play it an octave higher. This is Ray's primary texture-building technique. It makes a solo guitar sound like two guitars without adding harmonic complexity.
+Double everything in octaves. Play a riff on the low strings, then simultaneously or immediately after play it an octave higher. This is your primary texture-building technique. It makes a solo guitar sound like two guitars without adding harmonic complexity.
 
 ### 3. Open String Resonance
 Let open strings ring against fretted notes. Don't mute the strings you're "not using." The sympathetic resonance of open E, A, D, G, B adds chromatic color naturally. This is easier in standard tuning and harder in drop tunings.
@@ -39,12 +39,12 @@ Songs should be 1-4 minutes. Say what you need to say and stop. If a section wor
 
 ## The Chord Palette
 
-### Tier 1: Power Chords (use ~53% of the time)
-Ray's home base. G5, C5, D5, A5, E5 are the core five. Move between them freely.
+### Tier 1: Root+5th Voicings (your home base)
+G5, C5, D5, A5, E5 are the core five. Move between them freely. This is the largest single category in the catalog by a wide margin — these voicings dominate the harmonic vocabulary.
 
-#### "The Standard" — Power Chord with Built-In 2nd
+#### "The Standard" — Root+5th with Built-In 2nd
 
-Ray's default power chord shape is not the textbook root-5th-octave. It includes the 2nd/9th, making every "power chord" actually a sus2 in disguise:
+Ray's default root+5th shape is not the textbook root-5th-octave. It includes the 2nd/9th, making every root+5th voicing actually a sus2 in disguise:
 
 ```
 e|--N----     (5th)
@@ -65,13 +65,13 @@ A|--5--  D   (root)
 E|--x--
 ```
 
-Notes: **D - A - D - E - A** = root, 5th, root, 2nd, 5th. This is technically a **Dsus2** spread across 5 strings, not a pure power chord. The 2nd (E) on the B string adds the same harmonic ambiguity that the Thumb Sus2 provides, but it's here in the foundation shape — every time Ray grabs a "power chord," the sus2 color comes along for free.
+Notes: **D - A - D - E - A** = root, 5th, root, 2nd, 5th. This is technically a **Dsus2** spread across 5 strings, not a bare root+5th. The 2nd (E) on the B string adds the same harmonic ambiguity that the Thumb Sus2 provides, but it's here in the foundation shape — every time Ray grabs a root+5th voicing, the sus2 color comes along for free.
 
-This matters for the analysis: the data reports 53% power chords and 5.8% sus2 as separate categories, but in practice they overlap. The ambiguity isn't an occasional choice — it's the default voicing.
+This matters for the analysis: the data reports 53% harmonic ambiguity and 5.8% explicit sus2 as separate categories, but in practice they overlap heavily — the Standard voicing is detected as ambiguous (no third) even though a 2nd is ringing on the B string. The ambiguity isn't an occasional choice; it's the default voicing.
 
 **Common progressions:**
 - G5 - C5 - D5 - A5 (the most common full-catalog loop)
-- E5 - B5 - A5 (descending power)
+- E5 - B5 - A5 (descending root+5th)
 - G5 - C5 - D5 (ascending bright)
 
 ### Tier 2: Suspended Chords (use 10% of the time)
@@ -79,9 +79,9 @@ For movement and tension. Alternate between sus4 and sus2 on the same root:
 - A -> Asus4 -> A -> Asus2 (the "rocking chair")
 - D -> Dsus4 -> D -> Dsus2
 
-#### "The Thumb Sus2" — Ray's Signature Voicing
+#### "The Thumb Sus2" — Your Signature Voicing
 
-Ray's most distinctive chord shape, fretted with the thumb wrapping the 6th string (Hendrix-style thumb technique). Moveable anywhere on the neck:
+Your most distinctive chord shape, fretted with the thumb wrapping the 6th string (Hendrix-style thumb technique). Moveable anywhere on the neck:
 
 ```
 e|--N+2--     (9th / 2nd up the octave)
@@ -102,7 +102,7 @@ A|--x--
 E|--3--  G  ← thumb
 ```
 
-This is a **sus2** — root, 2nd, 5th, no 3rd. It has the weight of a power chord (root + 5th) with the open, ringing ambiguity of the added 2nd. The muted A string splits the voicing into a bass note and an upper cluster, giving it depth without muddiness. C sus2 is the single most-used non-power-chord shape in the catalog (1,822 instances).
+This is a **sus2** — root, 2nd, 5th, no 3rd. It has the weight of a root+5th voicing with the open, ringing ambiguity of the added 2nd. The muted A string splits the voicing into a bass note and an upper cluster, giving it depth without muddiness. C sus2 is the single most-used non-root+5th shape in the catalog (1,822 instances).
 
 The Hendrix connection: Jimi used the same thumb-over-neck technique to voice dominant 7#9 chords ("Purple Haze"). Same physical innovation, different harmonic destination — dominant tension vs. suspended ambiguity.
 
@@ -148,7 +148,7 @@ The thumb holds the root on the 6th string. Everything else moves:
 | Up 2 frets | Sus4 | Tension, reaching |
 | Add the 3rd (add9 shape) | Add9 | Resolved, bright |
 
-This is Ray's entire Tier 2 chord system built from one hand position.
+This is your entire Tier 2 chord system built from one hand position.
 
 #### "The Shimmer" — Major 7th Voicing
 
@@ -175,7 +175,7 @@ E|--3--  G  ← thumb
 
 Notes: **G - D - B - D - D - F#** = **Gmaj7** (root, 5th, 3rd, 5th, 5th, major 7th). The open D string drones the same note already on the A string, reinforcing the 5th — no reason to mute it. The major 7th interval creates the dreamy, shimmering quality that the analysis tagged as "shoegaze DNA" (3.1% of all chord usage).
 
-**Open string trick:** At the 6th fret this becomes Bbmaj7 — and the open D string is Bb's major 3rd, so it rings naturally instead of being muted. This is the open-string resonance technique in action: move a shape up the neck and let open strings join the chord when they happen to fit. You don't need to know *why* the open D works over Bb — the ear decides.
+**Open string trick:** At the 6th fret this becomes Bbmaj7 — and the open D string is Bb's major 3rd, so it rings naturally instead of being muted. This is the open-string resonance technique in action: move a shape up the neck and let open strings join the chord when they happen to fit. You don't need to know *why* the open D works over Bb — your ear tells you it does.
 
 #### "The Open Bloom" — Moveable Add9 with Open Strings
 
@@ -304,7 +304,7 @@ Notes: **F - A - C - G - C - E** = **Fmaj9**. The blunt major triad shape become
 
 #### "The Ghost" — Moveable Maj9 (No 3rd)
 
-A compact 4-string voicing that applies the power chord philosophy (withhold the 3rd) to an extended chord. Ambiguous shimmer — the major 7th and 9th create a dreamy quality without committing to major or minor. Works well arpeggiated with open strings mixed in.
+A compact 4-string voicing that applies the root+5th philosophy (withhold the 3rd) to an extended chord. Ambiguous shimmer — the major 7th and 9th create a dreamy quality without committing to major or minor. Works well arpeggiated with open strings mixed in.
 
 ```
 e|--N----     (9th)
@@ -356,7 +356,7 @@ Notes: **F# - A - E - F# - E** = **F#m7 (no 5th)** (root, minor 3rd, minor 7th).
 
 **Moveable** with the open E muted. At different positions the open E shifts role — at the 5th fret (Dm7 root), the open E becomes the 9th, turning it into Dm9. The open string decides what color it adds.
 
-The 4.1% minor 7th usage in the catalog data — this is one of the shapes generating it. One of the rare committed-minor voicings in a catalog dominated by power chord ambiguity.
+The 4.1% minor 7th usage in the catalog data — this is one of the shapes generating it. One of the rare committed-minor voicings in a catalog dominated by harmonic ambiguity.
 
 #### "The Compact Add9" — A-String Root Version
 
@@ -381,7 +381,7 @@ A|--5--  D   (root)
 E|--x--
 ```
 
-Notes: **D - F# - A - E** = **Dadd9**. Same chord type as the Resolved Add9 (thumb version) but a completely different voicing — compact, punchy, no bass rumble. The thumb version is wide and booming across 5 strings; this one is tight and focused on the inner four. Having both shapes means add9 is available in two registers without shifting the harmonic center.
+Notes: **D - F# - A - E** = **Dadd9**. Same chord type as the Resolved Add9 (thumb version) but a completely different voicing — compact, punchy, no bass rumble. The thumb version is wide and booming across 5 strings; this one is tight and focused on the inner four. Having both shapes means you can play add9 in two registers without moving your harmonic center.
 
 #### "The Resolved Add9" — The Sus2's Major Sibling
 
@@ -446,12 +446,12 @@ G|-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11|
 
 | Beat | High E | B string | G string | Result |
 |---|---|---|---|---|
-| 1 | B (fret 7) | B (open) | F# (fret 11) | **B5** — power chord, home base |
+| 1 | B (fret 7) | B (open) | F# (fret 11) | **B5** — root+5th, home base |
 | 2 | C# (fret 9) | B (open) | F# (fret 11) | **Bsus2** — the 2nd enters, ambiguity |
 | 3 | D# (fret 11) | B (open) | F# (fret 11) | **B major** — the 3rd arrives, resolution |
 | 4 | B (fret 7) | A# (fret 11) | F# (fret 11) | **B7 (no 3rd)** — minor 7th, tension for the repeat |
 
-The F# on the G string never moves — it's a pure pedal tone. The open B drones for three beats then shifts to A# on beat 4. The melody on the high E (B → C# → D# → B) does all the harmonic work: **power chord → sus2 → major → dominant 7th**, just from one finger climbing two frets at a time.
+The F# on the G string never moves — it's a pure pedal tone. The open B drones for three beats then shifts to A# on beat 4. The melody on the high E (B → C# → D# → B) does all the harmonic work: **root+5th → sus2 → major → dominant 7th**, just from one finger climbing two frets at a time.
 
 ### The Principle
 
@@ -459,7 +459,7 @@ This is the open-string technique applied to melody writing, not just chord voic
 1. **Pick a pedal tone** — one fretted note that doesn't move (usually the 5th or root on the G or D string)
 2. **Let an open string drone** — the open B or E provides a constant harmonic reference
 3. **Move one voice** — the melody happens on a single string, with each fret position creating a different chord against the drones
-4. **The harmony writes itself** — you don't need to think in chords. Moving one finger against the drones naturally traces through power chord, sus2, major, minor, 7th territory
+4. **The harmony writes itself** — you don't need to think in chords. Moving one finger against the drones naturally traces through root+5th, sus2, major, minor, 7th territory
 
 This is why the zigzag melodic pattern shows up so strongly in the data — melodies oscillate around a central pitch because they're playing against a drone that anchors them. The drone is the gravity; the melody orbits it.
 
@@ -472,12 +472,12 @@ Where to play:
 
 AVOID:     |                              [above E5 — only for rare screaming harmonics]
 SOMETIMES: |████████████████              [E4-E5 — melodic peaks, leads]
-OFTEN:     |██████████████████████████    [E3-E4 — Ray's main melodic/rhythmic zone]
+OFTEN:     |██████████████████████████    [E3-E4 — your main melodic/rhythmic zone]
 ALWAYS:    |██████████████████████████████████████ [E2-E3 — bass, riffs, foundation]
 OFTEN:     |█████████████████████         [below E2 — low bass anchoring]
 ```
 
-Ray's melodies live where most people's rhythm parts live. The "leads" are in the low-mid register. This creates a dense, bass-heavy sound that doesn't need a separate bass guitar to feel full.
+Your melodies live where most people's rhythm parts live. Your "leads" are in the low-mid register. This creates a dense, bass-heavy sound that doesn't need a separate bass guitar to feel full.
 
 ---
 
@@ -526,7 +526,7 @@ A typical Le Rug song follows:
 
 When evaluating whether a song fits the Le Rug aesthetic:
 
-- [ ] Is the harmonic palette mostly ambiguous (power chords, sus chords)?
+- [ ] Is the harmonic palette mostly ambiguous (root+5th voicings, sus chords)?
 - [ ] Are there octave-doubled parts?
 - [ ] Do the melodies zigzag rather than arc?
 - [ ] Is the tempo in the 180-220 BPM range?

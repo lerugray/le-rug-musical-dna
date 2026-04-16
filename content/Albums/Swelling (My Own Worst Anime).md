@@ -1,54 +1,46 @@
+---
+title: "Swelling (My Own Worst Anime)"
+tracks: 11
+duration_min: "26.5"
+avg_density: "6.6"
+total_notes: "10631"
+---
 # Swelling (My Own Worst Anime)
 
-**Le Rug** | **2014** | **Fleeting Youth Records**
-Played, produced, and mixed by Ray Weiss in Bangkok, Thailand. Released December 2, 2014 on cassette and digital.
+**11 tracks** | **26.5 min** | **6.6 notes/sec**
 
-**11 tracks** | **10,631 notes** | **26.5 minutes** | **200 BPM avg** | **6.7 n/s avg**
+**Keys:** e minor (3), E major (2), D major (2), C major (2), G major (1)
 
----
 
-## Track Data
+## Top Chords
 
-| # | Track | Notes | Duration | BPM | n/s | Key Centers |
-|---|---|---|---|---|---|---|
-| 1 | 15 Ways To Kill Yourself | 599 | 1:34 | 199 | 6.4 | B, E, F# |
-| 2 | Birth Control | 891 | 2:15 | 197 | 6.6 | E, B, G# |
-| 3 | Dipshit | 826 | 2:12 | 204 | 6.4 | G, D, F# |
-| 4 | I'll Kick You In The Head | 587 | 1:45 | 196 | 5.6 | G, E, F# |
-| 5 | Dudley | 1,073 | 2:52 | 198 | 6.3 | F#, D, A |
-| 6 | Hotline | 1,164 | 2:53 | 195 | 6.7 | E, A, G# |
-| 7 | Optional Discharge | 1,641 | 3:50 | 208 | 7.2 | G, E, A |
-| 8 | Mary vs Body | 766 | 2:10 | 201 | 5.9 | G, C, A |
-| 9 | Closer | 1,192 | 2:43 | 203 | 7.3 | D#, G#, C |
-| 10 | What's Best For Glenn | 1,258 | 2:33 | 208 | 8.3 | G, F#, A |
-| 11 | Search & Seizure | 634 | 1:53 | 194 | 5.7 | E, F#, G |
+> *Chord identifications come from MIDI transcription (basic-pitch), which often drops the 3rd on distorted guitar — so chords that were played as major or minor triads can register as root+5th (harmonically ambiguous). See [[Theory/Fingerprint/Chord Vocabulary]] for the full note on harmonic ambiguity.*
 
-## Analysis
+| Chord | Count |
+|---|---|
+| C Root+5th (ambiguous) | 337 |
+| G Root+5th (ambiguous) | 282 |
+| E Root+5th (ambiguous) | 274 |
+| A Root+5th (ambiguous) | 268 |
+| F# Root+5th (ambiguous) | 161 |
+| G# Root+5th (ambiguous) | 137 |
+| B Root+5th (ambiguous) | 135 |
+| D# Root+5th (ambiguous) | 113 |
 
-**Key centers:** G and E dominate, but F# appears prominently across multiple tracks — unusual in the catalog. Closer stands out with D#/G# centers (dark, flat-key territory similar to America).
 
-**Power chord %:** 81.1% — the highest of any Le Rug release. This is the most harmonically stripped-down record in the catalog.
+## Tracks
 
-**Register:** 47.4% bass, 15.4% sub-bass — bass-heavier than average. Recorded solo in Bangkok, probably playing lower on the neck.
+| # | Title | Key | Notes | Duration |
+|---|---|---|---|---|
+| 1 | 01 Le Rug - 15 Ways To Kill Yourself | e minor | 599 | 1:33 |
+| 2 | 02 Le Rug - Birth Control | E major | 891 | 2:14 |
+| 3 | 03 Le Rug - Dipshit | G major | 826 | 2:09 |
+| 4 | 04 Le Rug - I'll Kick You In The Head | e minor | 587 | 1:44 |
+| 5 | 05 Le Rug - Dudley (free) | D major | 1,073 | 2:51 |
+| 6 | 06 Le Rug - Hotline | E major | 1,164 | 2:52 |
+| 7 | 07 Le Rug - Optional Discharge | C major | 1,641 | 3:48 |
+| 8 | 08 Le Rug - Mary vs Body | C major | 766 | 2:09 |
+| 9 | 09 Le Rug - Closer | A- major | 1,192 | 2:42 |
+| 10 | 10 Le Rug - What's Best For Glenn | D major | 1,258 | 2:31 |
+| 11 | 11 Le Rug - Search & Seizure | e minor | 634 | 1:51 |
 
-**Density:** 6.7 n/s average — right in the middle of the catalog. The range is tight (5.6 to 8.3), no extreme outliers. Optional Discharge and What's Best For Glenn are the busiest; I'll Kick You In The Head is the sparsest.
-
-**Intervals:** Octave doubling still #1 (1,989 instances). The signature is fully intact — this is unmistakably Le Rug despite being recorded alone on the other side of the world.
-
-## Context
-
-Recorded during what Ray has called a low period — living in Bangkok, the last Le Rug record before selling instruments. The title reflects the self-deprecation ("My Own Worst Anime"). But the data doesn't show decline: the power chord percentage is actually higher than any other Le Rug release, the density is mid-catalog, and the octave doubling signature is strong. If anything, the stripping away of other musicians left a purer distillation of the core style.
-
-Previously thought to be lost. Found on Fleeting Youth Records Bandcamp.
-
-## Overlaps
-
-- **Dudley** — music video shot in Bangkok (Gary Boyle, dir.), also on SoundCloud and YouTube
-- **Birth Control** — also on SoundCloud (Fleeting Youth account), premiered on Gimme Tinnitus
-- **15 Ways To Kill Yourself** — live versions from Shea Stadium (12/6/14) in recovered material
-
-## Links
-
-- [Bandcamp](https://fleetingyouthrecords.bandcamp.com/album/swelling-my-own-worst-anime)
-- [Spotify](https://open.spotify.com/album/3pZDNEjCr6DZptBVOrlOqs)
-- [Apple Music](https://music.apple.com/us/artist/le-rug/880672760)
